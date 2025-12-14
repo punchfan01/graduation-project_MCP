@@ -1,0 +1,837 @@
+[
+  {
+    "순서": 1,
+    "name": "create_cluster",
+    "description": "Use this tool to create a new AlloyDB cluster in a given project and location."
+  },
+  {
+    "순서": 2,
+    "name": "create_instance",
+    "description": "Use this tool to create a new AlloyDB instance within a specified cluster."
+  },
+  {
+    "순서": 3,
+    "name": "create_user",
+    "description": "Use this tool to create a new database user for an AlloyDB cluster."
+  },
+  {
+    "순서": 4,
+    "name": "get_specific_cluster",
+    "description": "Use this tool to retrieve details for a specific AlloyDB cluster."
+  },
+  {
+    "순서": 5,
+    "name": "get_specific_instance",
+    "description": "Use this tool to retrieve details for a specific AlloyDB instance."
+  },
+  {
+    "순서": 6,
+    "name": "get_specific_user",
+    "description": "Use this tool to retrieve details for a specific AlloyDB user."
+  },
+  {
+    "순서": 7,
+    "name": "list_clusters",
+    "description": "Use this tool to list all AlloyDB clusters in a given project and location."
+  },
+  {
+    "순서": 8,
+    "name": "list_instances",
+    "description": "Use this tool to list all AlloyDB instances for a given project, cluster and location."
+  },
+  {
+    "순서": 9,
+    "name": "list_users",
+    "description": "Use this tool to list all database users within an AlloyDB cluster"
+  },
+  {
+    "순서": 10,
+    "name": "wait_for_operation",
+    "description": "\"This will poll on operations API until the operation is done. For checking operation status we need projectId, locationID and operationId. Once instance is created give follow up steps on how to use the variables to bring data plane MCP server up in local and remote setup.\""
+  },
+  {
+    "순서": 11,
+    "name": "ask_questions",
+    "description": "\"Ask questions to check information about flights\""
+  },
+  {
+    "순서": 12,
+    "name": "contribution_analyzer",
+    "description": "Use this tool to run contribution analysis on a dataset in BigQuery."
+  },
+  {
+    "순서": 13,
+    "name": "ask_data_insights",
+    "description": "|"
+  },
+  {
+    "순서": 14,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 15,
+    "name": "forecast_tool",
+    "description": "Use this tool to forecast time series data in BigQuery."
+  },
+  {
+    "순서": 16,
+    "name": "bigquery_get_dataset_info",
+    "description": "Use this tool to get dataset metadata."
+  },
+  {
+    "순서": 17,
+    "name": "bigquery_get_table_info",
+    "description": "Use this tool to get table metadata."
+  },
+  {
+    "순서": 18,
+    "name": "bigquery_list_dataset_ids",
+    "description": "Use this tool to get dataset metadata."
+  },
+  {
+    "순서": 19,
+    "name": "bigquery_list_table_ids",
+    "description": "Use this tool to get table metadata."
+  },
+  {
+    "순서": 20,
+    "name": "search_catalog",
+    "description": "Use this tool to find tables, views, models, routines or connections."
+  },
+  {
+    "순서": 21,
+    "name": "search_users_bq",
+    "description": "|"
+  },
+  {
+    "순서": 22,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 23,
+    "name": "search_user_by_id_or_name",
+    "description": "|"
+  },
+  {
+    "순서": 24,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 25,
+    "name": "search_users_by_email",
+    "description": "|"
+  },
+  {
+    "순서": 26,
+    "name": "list_keyspace_table",
+    "description": "|"
+  },
+  {
+    "순서": 27,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute SQL statements against ClickHouse."
+  },
+  {
+    "순서": 28,
+    "name": "list_clickhouse_databases",
+    "description": "List all available databases in the ClickHouse instance"
+  },
+  {
+    "순서": 29,
+    "name": "list_clickhouse_tables",
+    "description": "List all tables in a specific ClickHouse database"
+  },
+  {
+    "순서": 30,
+    "name": "my_analytics_query",
+    "description": "Get user analytics for a specific date range"
+  },
+  {
+    "순서": 31,
+    "name": "flexible_table_query",
+    "description": "Query any table with flexible columns"
+  },
+  {
+    "순서": 32,
+    "name": "get_fhir_store",
+    "description": "Use this tool to fetch a page of FHIR resources from a FHIR Bundle's entry.link.url"
+  },
+  {
+    "순서": 33,
+    "name": "fhir_patient_everything",
+    "description": "Use this tool to retrieve all the information about a given patient."
+  },
+  {
+    "순서": 34,
+    "name": "fhir_patient_search",
+    "description": "Use this tool to search for patients in the FHIR store."
+  },
+  {
+    "순서": 35,
+    "name": "get_dataset",
+    "description": "Use this tool to get healthcare dataset metadata."
+  },
+  {
+    "순서": 36,
+    "name": "get_dicom_store_metrics",
+    "description": "Use this tool to get metrics for a DICOM store."
+  },
+  {
+    "순서": 37,
+    "name": "get_dicom_store",
+    "description": "Use this tool to get information about a DICOM store."
+  },
+  {
+    "순서": 38,
+    "name": "get_fhir_resource",
+    "description": "Use this tool to retrieve a specific FHIR resource."
+  },
+  {
+    "순서": 39,
+    "name": "get_fhir_store_metrics",
+    "description": "Use this tool to get metrics for a FHIR store."
+  },
+  {
+    "순서": 40,
+    "name": "get_fhir_store",
+    "description": "Use this tool to get information about a FHIR store."
+  },
+  {
+    "순서": 41,
+    "name": "list_dicom_stores",
+    "description": "Use this tool to list DICOM stores in the healthcare dataset."
+  },
+  {
+    "순서": 42,
+    "name": "list_fhir_stores",
+    "description": "Use this tool to list FHIR stores in the healthcare dataset."
+  },
+  {
+    "순서": 43,
+    "name": "retrieve_rendered_dicom_instance",
+    "description": "Use this tool to retrieve a rendered DICOM instance from the DICOM store."
+  },
+  {
+    "순서": 44,
+    "name": "search_dicom_instances",
+    "description": "Use this tool to search for DICOM instances in the DICOM store."
+  },
+  {
+    "순서": 45,
+    "name": "search_dicom_series",
+    "description": "Use this tool to search for DICOM series in the DICOM store."
+  },
+  {
+    "순서": 46,
+    "name": "search_dicom_studies",
+    "description": "Use this tool to search for DICOM studies in the DICOM store."
+  },
+  {
+    "순서": 47,
+    "name": "get_wait_time_metrics",
+    "description": "|"
+  },
+  {
+    "순서": 48,
+    "name": "clone-instance-basic",
+    "description": "\"Creates an exact copy of a Cloud SQL instance. Supports configuring instance zones and high-availability setup through zone preferences.\""
+  },
+  {
+    "순서": 49,
+    "name": "clone-instance-pitr",
+    "description": "\"Creates an exact copy of a Cloud SQL instance at a specific point in time (PITR). Supports configuring instance zones and high-availability setup through zone preferences\""
+  },
+  {
+    "순서": 50,
+    "name": "create-cloud-sql-database",
+    "description": "\"Creates a new database in a Cloud SQL instance.\""
+  },
+  {
+    "순서": 51,
+    "name": "create-cloud-sql-user",
+    "description": "\"Creates a new user in a Cloud SQL instance. Both built-in and IAM users are supported. IAM users require an email account as the user name. IAM is the more secure and recommended way to manage users. The agent should always ask the user what type of user they want to create. For more information, see https://cloud.google.com/sql/docs/postgres/add-manage-iam-users\""
+  },
+  {
+    "순서": 52,
+    "name": "get-sql-instance",
+    "description": "\"Gets a particular cloud sql instance.\""
+  },
+  {
+    "순서": 53,
+    "name": "list_my_databases",
+    "description": "Use this tool to list all Cloud SQL databases in an instance."
+  },
+  {
+    "순서": 54,
+    "name": "list_my_instances",
+    "description": "Use this tool to list all Cloud SQL instances in a project."
+  },
+  {
+    "순서": 55,
+    "name": "create-sql-instance",
+    "description": "\"Creates a SQL Server instance using `Production` and `Development` presets. For the `Development` template, it chooses a 2 vCPU, 8 GiB RAM (`db-custom-2-8192`) configuration with Non-HA/zonal availability. For the `Production` template, it chooses a 4 vCPU, 26 GiB RAM (`db-custom-4-26624`) configuration with HA/regional availability. The Enterprise edition is used in both cases. The default database version is `SQLSERVER_2022_STANDARD`. The agent should ask the user if they want to use a different version.\""
+  },
+  {
+    "순서": 56,
+    "name": "create_my_mysql_instance",
+    "description": "\"Creates a MySQL instance using `Production` and `Development` presets. For the `Development` template, it chooses a 2 vCPU, 16 GiB RAM, 100 GiB SSD configuration with Non-HA/zonal availability. For the `Production` template, it chooses an 8 vCPU, 64 GiB RAM, 250 GiB SSD configuration with HA/regional availability. The Enterprise Plus edition is used in both cases. The default database version is `MYSQL_8_4`. The agent should ask the user if they want to use a different version.\""
+  },
+  {
+    "순서": 57,
+    "name": "create-sql-instance",
+    "description": "\"Creates a Postgres instance using `Production` and `Development` presets. For the `Development` template, it chooses a 2 vCPU, 16 GiB RAM, 100 GiB SSD configuration with Non-HA/zonal availability. For the `Production` template, it chooses an 8 vCPU, 64 GiB RAM, 250 GiB SSD configuration with HA/regional availability. The Enterprise Plus edition is used in both cases. The default database version is `POSTGRES_17`. The agent should ask the user if they want to use a different version.\""
+  },
+  {
+    "순서": 58,
+    "name": "postgres-upgrade-precheck",
+    "description": "\"Checks if a Cloud SQL PostgreSQL instance is ready for a major version upgrade to the specified target version.\""
+  },
+  {
+    "순서": 59,
+    "name": "cloudsql-operations-get",
+    "description": "\"This will poll on operations API until the operation is done. For checking operation status we need projectId and operationId. Once instance is created give follow up steps on how to use the variables to bring data plane MCP server up in local and remote setup.\""
+  },
+  {
+    "순서": 60,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 61,
+    "name": "my_dataform_compiler",
+    "description": "Use this tool to compile a local Dataform project."
+  },
+  {
+    "순서": 62,
+    "name": "lookup_entry",
+    "description": "Use this tool to retrieve a specific entry in Dataplex Catalog."
+  },
+  {
+    "순서": 63,
+    "name": "dataplex-search-aspect-types",
+    "description": "Use this tool to find aspect types relevant to the query."
+  },
+  {
+    "순서": 64,
+    "name": "dataplex-search-entries",
+    "description": "Use this tool to get all the entries based on the provided query."
+  },
+  {
+    "순서": 65,
+    "name": "query_my_index",
+    "description": "Use this tool to execute ES|QL queries."
+  },
+  {
+    "순서": 66,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute a SQL statement against the Firebird database."
+  },
+  {
+    "순서": 67,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 68,
+    "name": "search_flights_by_airline",
+    "description": "|"
+  },
+  {
+    "순서": 69,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 70,
+    "name": "add-company-doc",
+    "description": "Add a new company document"
+  },
+  {
+    "순서": 71,
+    "name": "secure-add-docs",
+    "description": "Add documents with authentication required"
+  },
+  {
+    "순서": 72,
+    "name": "delete_user_documents",
+    "description": "Use this tool to delete multiple documents from Firestore."
+  },
+  {
+    "순서": 73,
+    "name": "get_user_documents",
+    "description": "Use this tool to retrieve multiple documents from Firestore."
+  },
+  {
+    "순서": 74,
+    "name": "get_firestore_rules",
+    "description": "Use this tool to retrieve the active Firestore security rules."
+  },
+  {
+    "순서": 75,
+    "name": "list_firestore_collections",
+    "description": "Use this tool to list collections in Firestore."
+  },
+  {
+    "순서": 76,
+    "name": "query_collection",
+    "description": "Query Firestore collections with advanced filtering"
+  },
+  {
+    "순서": 77,
+    "name": "query_countries",
+    "description": "Query countries with dynamic filters"
+  },
+  {
+    "순서": 78,
+    "name": "advanced_query",
+    "description": "Advanced query with complex filters"
+  },
+  {
+    "순서": 79,
+    "name": "user_documents",
+    "description": "Query user-specific documents"
+  },
+  {
+    "순서": 80,
+    "name": "location_search",
+    "description": "Search locations by area and population"
+  },
+  {
+    "순서": 81,
+    "name": "activity_log",
+    "description": "Query activity logs within time range"
+  },
+  {
+    "순서": 82,
+    "name": "update-user-doc",
+    "description": "Update a user document"
+  },
+  {
+    "순서": 83,
+    "name": "secure-update-doc",
+    "description": "Update documents with authentication required"
+  },
+  {
+    "순서": 84,
+    "name": "firestore-validate-rules",
+    "description": "\"Checks the provided Firestore Rules source for syntax and validation errors\""
+  },
+  {
+    "순서": 85,
+    "name": "health_analyze",
+    "description": "|"
+  },
+  {
+    "순서": 86,
+    "name": "health_pulse",
+    "description": "|"
+  },
+  {
+    "순서": 87,
+    "name": "health_vacuum",
+    "description": "|"
+  },
+  {
+    "순서": 88,
+    "name": "mindsdb-execute-sql",
+    "description": "|"
+  },
+  {
+    "순서": 89,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute SQL statements across multiple datasources and ML models."
+  },
+  {
+    "순서": 90,
+    "name": "mindsdb-execute-sql",
+    "description": "|"
+  },
+  {
+    "순서": 91,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 92,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 93,
+    "name": "get_category_stats",
+    "description": "Calculates average price and count of products, grouped by category."
+  },
+  {
+    "순서": 94,
+    "name": "retire_brand_products",
+    "description": "Deletes all products from a specified discontinued brand."
+  },
+  {
+    "순서": 95,
+    "name": "delete_user_account",
+    "description": "Permanently deletes a user account by their email address."
+  },
+  {
+    "순서": 96,
+    "name": "get_user_profile",
+    "description": "Retrieves a user's profile by their email address."
+  },
+  {
+    "순서": 97,
+    "name": "find_local_customers",
+    "description": "Finds customers by city, sorted by last name."
+  },
+  {
+    "순서": 98,
+    "name": "log_batch_events",
+    "description": "Inserts a batch of event logs into the database."
+  },
+  {
+    "순서": 99,
+    "name": "create_new_user",
+    "description": "Creates a new user record in the database."
+  },
+  {
+    "순서": 100,
+    "name": "apply_category_discount",
+    "description": "Use this tool to apply a discount to all items in a given category."
+  },
+  {
+    "순서": 101,
+    "name": "update_inventory_item",
+    "description": "Use this tool to update an item's stock and status in the inventory."
+  },
+  {
+    "순서": 102,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 103,
+    "name": "mssql_list_tables",
+    "description": "Use this tool to retrieve schema information for all or specified tables. Output format can be simple (only table names) or detailed."
+  },
+  {
+    "순서": 104,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 105,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 106,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 107,
+    "name": "list_active_queries",
+    "description": "Lists top N (default 10) ongoing queries from processlist and innodb_trx, ordered by execution time in descending order. Returns detailed information of those queries in json format, including process id, query, transaction duration, transaction wait duration, process time, transaction state, process state, username with host, transaction rows locked, transaction rows modified, and db schema."
+  },
+  {
+    "순서": 108,
+    "name": "list_table_fragmentation",
+    "description": "List table fragmentation in MySQL, by calculating the size of the data and index files and free space allocated to each table. The query calculates fragmentation percentage which represents the proportion of free space relative to the total data and index size. Storage can be reclaimed for tables with high fragmentation using OPTIMIZE TABLE."
+  },
+  {
+    "순서": 109,
+    "name": "list_tables_missing_unique_indexes",
+    "description": "Find tables that do not have primary or unique key constraint. A primary key or unique key is the only mechanism that guaranttes a row is unique. Without them, the database-level protection against data integrity issues will be missing."
+  },
+  {
+    "순서": 110,
+    "name": "mysql_list_tables",
+    "description": "Use this tool to retrieve schema information for all or specified tables. Output format can be simple (only table names) or detailed."
+  },
+  {
+    "순서": 111,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 112,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 113,
+    "name": "search_movies_by_actor",
+    "description": "|"
+  },
+  {
+    "순서": 114,
+    "name": "query_neo4j",
+    "description": "|"
+  },
+  {
+    "순서": 115,
+    "name": "get_movie_db_schema",
+    "description": "|"
+  },
+  {
+    "순서": 116,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 117,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 118,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 119,
+    "name": "search_flights_by_ids",
+    "description": "|"
+  },
+  {
+    "순서": 120,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 121,
+    "name": "database_overview",
+    "description": "|"
+  },
+  {
+    "순서": 122,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 123,
+    "name": "get_column_cardinality",
+    "description": "Estimates the number of unique values (cardinality) quickly for one or all columns in a specific PostgreSQL table by using the database's internal statistics, returning the results in descending order of estimated cardinality. Please run ANALYZE on the table before using this tool to get accurate results. The tool returns the column_name and the estimated_cardinality. If the column_name is not provided, the tool returns all columns along with their estimated cardinality."
+  },
+  {
+    "순서": 124,
+    "name": "list_active_queries",
+    "description": "List the top N (default 50) currently running queries (state='active') from pg_stat_activity, ordered by longest-running first. Returns pid, user, database, application_name, client_addr, state, wait_event_type/wait_event, backend/xact/query start times, computed query_duration, and the SQL text."
+  },
+  {
+    "순서": 125,
+    "name": "list_available_extensions",
+    "description": "Discover all PostgreSQL extensions available for installation on this server, returning name, default_version, and description."
+  },
+  {
+    "순서": 126,
+    "name": "list_indexes",
+    "description": "|"
+  },
+  {
+    "순서": 127,
+    "name": "list_installed_extensions",
+    "description": "List all installed PostgreSQL extensions with their name, version, schema, owner, and description."
+  },
+  {
+    "순서": 128,
+    "name": "list_locks",
+    "description": "\"Lists active locks with associated process and query information.\""
+  },
+  {
+    "순서": 129,
+    "name": "list_indexes",
+    "description": "|"
+  },
+  {
+    "순서": 130,
+    "name": "list_query_stats",
+    "description": "List query statistics from pg_stat_statements, showing performance metrics for queries including execution counts, timing information, and resource usage. Results are ordered by total execution time descending."
+  },
+  {
+    "순서": 131,
+    "name": "list_schemas",
+    "description": "\"Lists all schemas in the database ordered by schema name and excluding system and temporary schemas. It returns the schema name, schema owner, grants, number of functions, number of tables and number of views within each schema.\""
+  },
+  {
+    "순서": 132,
+    "name": "list_indexes",
+    "description": "|"
+  },
+  {
+    "순서": 133,
+    "name": "postgres_list_tables",
+    "description": "Use this tool to retrieve schema information for all or"
+  },
+  {
+    "순서": 134,
+    "name": "list_tablespaces",
+    "description": "|"
+  },
+  {
+    "순서": 135,
+    "name": "list_views",
+    "description": ""
+  },
+  {
+    "순서": 136,
+    "name": "long_running_transactions",
+    "description": "\"Identifies transactions open longer than a threshold and returns details including query text and durations.\""
+  },
+  {
+    "순서": 137,
+    "name": "replication_stats",
+    "description": "\"Lists replication connections and readable WAL lag metrics.\""
+  },
+  {
+    "순서": 138,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 139,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 140,
+    "name": "user_data_tool",
+    "description": "|"
+  },
+  {
+    "순서": 141,
+    "name": "cancel_spark_batch",
+    "description": "Use this tool to cancel a running serverless spark batch operation."
+  },
+  {
+    "순서": 142,
+    "name": "get_my_batch",
+    "description": "Use this tool to get a serverless spark batch."
+  },
+  {
+    "순서": 143,
+    "name": "list_spark_batches",
+    "description": "Use this tool to list and filter serverless spark batches."
+  },
+  {
+    "순서": 144,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement"
+  },
+  {
+    "순서": 145,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 146,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 147,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 148,
+    "name": "list_all_graphs",
+    "description": "Lists all graphs with their complete schema information"
+  },
+  {
+    "순서": 149,
+    "name": "list_specific_graphs",
+    "description": "|"
+  },
+  {
+    "순서": 150,
+    "name": "schema_inspector",
+    "description": "|"
+  },
+  {
+    "순서": 151,
+    "name": "list_all_tables",
+    "description": "Lists all tables with their complete schema information"
+  },
+  {
+    "순서": 152,
+    "name": "list_specific_tables",
+    "description": "|"
+  },
+  {
+    "순서": 153,
+    "name": "schema_inspector",
+    "description": "|"
+  },
+  {
+    "순서": 154,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 155,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute a SQL statement."
+  },
+  {
+    "순서": 156,
+    "name": "search-users",
+    "description": "Search users by name and age"
+  },
+  {
+    "순서": 157,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 158,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 159,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 160,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 161,
+    "name": "execute_sql_tool",
+    "description": "Use this tool to execute sql statement."
+  },
+  {
+    "순서": 162,
+    "name": "search_orders_by_region",
+    "description": "|"
+  },
+  {
+    "순서": 163,
+    "name": "list_table",
+    "description": "|"
+  },
+  {
+    "순서": 164,
+    "name": "wait_for_tool",
+    "description": "Use this tool to pause execution for a specified duration."
+  },
+  {
+    "순서": 165,
+    "name": "user_data_tool",
+    "description": "|"
+  },
+  {
+    "순서": 166,
+    "name": "search_flights_by_number",
+    "description": "|"
+  },
+  {
+    "순서": 167,
+    "name": "list_table",
+    "description": "|"
+  }
+]

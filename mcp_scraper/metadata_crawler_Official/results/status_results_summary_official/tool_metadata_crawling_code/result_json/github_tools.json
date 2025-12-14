@@ -1,0 +1,477 @@
+[
+  {
+    "순서": 1,
+    "name": "add_comment_to_pending_review",
+    "description": "Add review comment to the requester's latest pending pull request review. A pending review needs to already exist to call this (check with the user if not sure)."
+  },
+  {
+    "순서": 2,
+    "name": "add_issue_comment",
+    "description": "Add a comment to a specific issue in a GitHub repository. Use this tool to add comments to pull requests as well (in this case pass pull request number as issue_number), but only if user is not asking specifically to add review comments."
+  },
+  {
+    "순서": 3,
+    "name": "add_project_item",
+    "description": "Add a specific Project item for a user or org"
+  },
+  {
+    "순서": 4,
+    "name": "assign_copilot_to_issue",
+    "description": "Assign Copilot to a specific issue in a GitHub repository.\n\nThis tool can help with the following outcomes:\n- a Pull Request created with source code changes to resolve the issue\n\n\nMore information can be found at:\n- https://docs.github.com/en/copilot/using-github-copilot/using-copilot-coding-agent-to-work-on-tasks/about-assigning-tasks-to-copilot\n"
+  },
+  {
+    "순서": 5,
+    "name": "cancel_workflow_run",
+    "description": "Cancel a workflow run"
+  },
+  {
+    "순서": 6,
+    "name": "create_branch",
+    "description": "Create a new branch in a GitHub repository"
+  },
+  {
+    "순서": 7,
+    "name": "create_gist",
+    "description": "Create a new gist"
+  },
+  {
+    "순서": 8,
+    "name": "create_issue",
+    "description": "Create a new issue in a GitHub repository."
+  },
+  {
+    "순서": 9,
+    "name": "create_or_update_file",
+    "description": "Create or update a single file in a GitHub repository. If updating, you must provide the SHA of the file you want to update. Use this tool to create or update a file in a GitHub repository remotely; do not use it for local file operations."
+  },
+  {
+    "순서": 10,
+    "name": "create_pull_request",
+    "description": "Create a new pull request in a GitHub repository."
+  },
+  {
+    "순서": 11,
+    "name": "create_repository",
+    "description": "Create a new GitHub repository in your account or specified organization"
+  },
+  {
+    "순서": 12,
+    "name": "delete_file",
+    "description": "Delete a file from a GitHub repository"
+  },
+  {
+    "순서": 13,
+    "name": "delete_project_item",
+    "description": "Delete a specific Project item for a user or org"
+  },
+  {
+    "순서": 14,
+    "name": "delete_workflow_run_logs",
+    "description": "Delete logs for a workflow run"
+  },
+  {
+    "순서": 15,
+    "name": "dismiss_notification",
+    "description": "Dismiss a notification by marking it as read or done"
+  },
+  {
+    "순서": 16,
+    "name": "download_workflow_run_artifact",
+    "description": "Get download URL for a workflow run artifact"
+  },
+  {
+    "순서": 17,
+    "name": "fork_repository",
+    "description": "Fork a GitHub repository to your account or specified organization"
+  },
+  {
+    "순서": 18,
+    "name": "get_code_scanning_alert",
+    "description": "Get details of a specific code scanning alert in a GitHub repository."
+  },
+  {
+    "순서": 19,
+    "name": "get_commit",
+    "description": "Get details for a commit from a GitHub repository"
+  },
+  {
+    "순서": 20,
+    "name": "get_dependabot_alert",
+    "description": "Get details of a specific dependabot alert in a GitHub repository."
+  },
+  {
+    "순서": 21,
+    "name": "get_discussion",
+    "description": "Get a specific discussion by ID"
+  },
+  {
+    "순서": 22,
+    "name": "get_discussion_comments",
+    "description": "Get comments from a discussion"
+  },
+  {
+    "순서": 23,
+    "name": "get_file_contents",
+    "description": "Get the contents of a file or directory from a GitHub repository"
+  },
+  {
+    "순서": 24,
+    "name": "get_gist",
+    "description": "Get gist content of a particular gist, by gist ID"
+  },
+  {
+    "순서": 25,
+    "name": "get_global_security_advisory",
+    "description": "Get a global security advisory"
+  },
+  {
+    "순서": 26,
+    "name": "get_job_logs",
+    "description": "Download logs for a specific workflow job or efficiently get all failed job logs for a workflow run"
+  },
+  {
+    "순서": 27,
+    "name": "get_label",
+    "description": "Get a specific label from a repository."
+  },
+  {
+    "순서": 28,
+    "name": "get_latest_release",
+    "description": "Get the latest release in a GitHub repository"
+  },
+  {
+    "순서": 29,
+    "name": "get_me",
+    "description": "Get details of the authenticated GitHub user. Use this when a request is about the user's own profile for GitHub. Or when information is missing to build other tool calls."
+  },
+  {
+    "순서": 30,
+    "name": "get_notification_details",
+    "description": "Get detailed information for a specific GitHub notification, always call this tool when the user asks for details about a specific notification, if you don't know the ID list notifications first."
+  },
+  {
+    "순서": 31,
+    "name": "get_project",
+    "description": "Get Project for a user or org"
+  },
+  {
+    "순서": 32,
+    "name": "get_project_field",
+    "description": "Get Project field for a user or org"
+  },
+  {
+    "순서": 33,
+    "name": "get_project_item",
+    "description": "Get a specific Project item for a user or org"
+  },
+  {
+    "순서": 34,
+    "name": "get_release_by_tag",
+    "description": "Get a specific release by its tag name in a GitHub repository"
+  },
+  {
+    "순서": 35,
+    "name": "get_repository_tree",
+    "description": "Get the tree structure (files and directories) of a GitHub repository at a specific ref or SHA"
+  },
+  {
+    "순서": 36,
+    "name": "get_secret_scanning_alert",
+    "description": "Get details of a specific secret scanning alert in a GitHub repository."
+  },
+  {
+    "순서": 37,
+    "name": "get_tag",
+    "description": "Get details about a specific git tag in a GitHub repository"
+  },
+  {
+    "순서": 38,
+    "name": "get_team_members",
+    "description": "Get member usernames of a specific team in an organization. Limited to organizations accessible with current credentials"
+  },
+  {
+    "순서": 39,
+    "name": "get_teams",
+    "description": "Get details of the teams the user is a member of. Limited to organizations accessible with current credentials"
+  },
+  {
+    "순서": 40,
+    "name": "get_workflow_run",
+    "description": "Get details of a specific workflow run"
+  },
+  {
+    "순서": 41,
+    "name": "get_workflow_run_logs",
+    "description": "Download logs for a specific workflow run (EXPENSIVE: downloads ALL logs as ZIP. Consider using get_job_logs with failed_only=true for debugging failed jobs)"
+  },
+  {
+    "순서": 42,
+    "name": "get_workflow_run_usage",
+    "description": "Get usage metrics for a workflow run"
+  },
+  {
+    "순서": 43,
+    "name": "issue_read",
+    "description": "Get information about a specific issue in a GitHub repository."
+  },
+  {
+    "순서": 44,
+    "name": "issue_write",
+    "description": "Create a new or update an existing issue in a GitHub repository."
+  },
+  {
+    "순서": 45,
+    "name": "label_write",
+    "description": "Perform write operations on repository labels. To set labels on issues, use the 'update_issue' tool."
+  },
+  {
+    "순서": 46,
+    "name": "list_branches",
+    "description": "List branches in a GitHub repository"
+  },
+  {
+    "순서": 47,
+    "name": "list_code_scanning_alerts",
+    "description": "List code scanning alerts in a GitHub repository."
+  },
+  {
+    "순서": 48,
+    "name": "list_commits",
+    "description": "Get list of commits of a branch in a GitHub repository. Returns at least 30 results per page by default, but can return more if specified using the perPage parameter (up to 100)."
+  },
+  {
+    "순서": 49,
+    "name": "list_dependabot_alerts",
+    "description": "List dependabot alerts in a GitHub repository."
+  },
+  {
+    "순서": 50,
+    "name": "list_discussion_categories",
+    "description": "List discussion categories with their id and name, for a repository or organisation."
+  },
+  {
+    "순서": 51,
+    "name": "list_discussions",
+    "description": "List discussions for a repository or organisation."
+  },
+  {
+    "순서": 52,
+    "name": "list_gists",
+    "description": "List gists for a user"
+  },
+  {
+    "순서": 53,
+    "name": "list_global_security_advisories",
+    "description": "List global security advisories from GitHub."
+  },
+  {
+    "순서": 54,
+    "name": "list_issue_types",
+    "description": "List supported issue types for repository owner (organization)."
+  },
+  {
+    "순서": 55,
+    "name": "list_issues",
+    "description": "List issues in a GitHub repository. For pagination, use the 'endCursor' from the previous response's 'pageInfo' in the 'after' parameter."
+  },
+  {
+    "순서": 56,
+    "name": "list_label",
+    "description": "List labels from a repository"
+  },
+  {
+    "순서": 57,
+    "name": "list_notifications",
+    "description": "Lists all GitHub notifications for the authenticated user, including unread notifications, mentions, review requests, assignments, and updates on issues or pull requests. Use this tool whenever the user asks what to work on next, requests a summary of their GitHub activity, wants to see pending reviews, or needs to check for new updates or tasks. This tool is the primary way to discover actionable items, reminders, and outstanding work on GitHub. Always call this tool when asked what to work on next, what is pending, or what needs attention in GitHub."
+  },
+  {
+    "순서": 58,
+    "name": "list_org_repository_security_advisories",
+    "description": "List repository security advisories for a GitHub organization."
+  },
+  {
+    "순서": 59,
+    "name": "list_project_fields",
+    "description": "List Project fields for a user or org"
+  },
+  {
+    "순서": 60,
+    "name": "list_project_items",
+    "description": "Search project items with advanced filtering"
+  },
+  {
+    "순서": 61,
+    "name": "list_projects",
+    "description": "List Projects for a user or organization"
+  },
+  {
+    "순서": 62,
+    "name": "list_pull_requests",
+    "description": "List pull requests in a GitHub repository. If the user specifies an author, then DO NOT use this tool and use the search_pull_requests tool instead."
+  },
+  {
+    "순서": 63,
+    "name": "list_releases",
+    "description": "List releases in a GitHub repository"
+  },
+  {
+    "순서": 64,
+    "name": "list_repository_security_advisories",
+    "description": "List repository security advisories for a GitHub repository."
+  },
+  {
+    "순서": 65,
+    "name": "list_secret_scanning_alerts",
+    "description": "List secret scanning alerts in a GitHub repository."
+  },
+  {
+    "순서": 66,
+    "name": "list_starred_repositories",
+    "description": "List starred repositories"
+  },
+  {
+    "순서": 67,
+    "name": "list_tags",
+    "description": "List git tags in a GitHub repository"
+  },
+  {
+    "순서": 68,
+    "name": "list_workflow_jobs",
+    "description": "List jobs for a specific workflow run"
+  },
+  {
+    "순서": 69,
+    "name": "list_workflow_run_artifacts",
+    "description": "List artifacts for a workflow run"
+  },
+  {
+    "순서": 70,
+    "name": "list_workflow_runs",
+    "description": "List workflow runs for a specific workflow"
+  },
+  {
+    "순서": 71,
+    "name": "list_workflows",
+    "description": "List workflows in a repository"
+  },
+  {
+    "순서": 72,
+    "name": "manage_notification_subscription",
+    "description": "Manage a notification subscription: ignore, watch, or delete a notification thread subscription."
+  },
+  {
+    "순서": 73,
+    "name": "manage_repository_notification_subscription",
+    "description": "Manage a repository notification subscription: ignore, watch, or delete repository notifications subscription for the provided repository."
+  },
+  {
+    "순서": 74,
+    "name": "mark_all_notifications_read",
+    "description": "Mark all notifications as read"
+  },
+  {
+    "순서": 75,
+    "name": "merge_pull_request",
+    "description": "Merge a pull request in a GitHub repository."
+  },
+  {
+    "순서": 76,
+    "name": "pull_request_read",
+    "description": "Get information on a specific pull request in GitHub repository."
+  },
+  {
+    "순서": 77,
+    "name": "pull_request_review_write",
+    "description": "Create and/or submit, delete review of a pull request.\n\nAvailable methods:\n- create: Create a new review of a pull request. If \"event\" parameter is provided, the review is submitted. If \"event\" is omitted, a pending review is created.\n- submit_pending: Submit an existing pending review of a pull request. This requires that a pending review exists for the current user on the specified pull request. The \"body\" and \"event\" parameters are used when submitting the review.\n- delete_pending: Delete an existing pending review of a pull request. This requires that a pending review exists for the current user on the specified pull request.\n"
+  },
+  {
+    "순서": 78,
+    "name": "push_files",
+    "description": "Push multiple files to a GitHub repository in a single commit"
+  },
+  {
+    "순서": 79,
+    "name": "request_copilot_review",
+    "description": "Request a GitHub Copilot code review for a pull request. Use this for automated feedback on pull requests, usually before requesting a human reviewer."
+  },
+  {
+    "순서": 80,
+    "name": "rerun_failed_jobs",
+    "description": "Re-run only the failed jobs in a workflow run"
+  },
+  {
+    "순서": 81,
+    "name": "rerun_workflow_run",
+    "description": "Re-run an entire workflow run"
+  },
+  {
+    "순서": 82,
+    "name": "run_workflow",
+    "description": "Run an Actions workflow by workflow ID or filename"
+  },
+  {
+    "순서": 83,
+    "name": "search_code",
+    "description": "Fast and precise code search across ALL GitHub repositories using GitHub's native search engine. Best for finding exact symbols, functions, classes, or specific code patterns."
+  },
+  {
+    "순서": 84,
+    "name": "search_issues",
+    "description": "Search for issues in GitHub repositories using issues search syntax already scoped to is:issue"
+  },
+  {
+    "순서": 85,
+    "name": "search_orgs",
+    "description": "Find GitHub organizations by name, location, or other organization metadata. Ideal for discovering companies, open source foundations, or teams."
+  },
+  {
+    "순서": 86,
+    "name": "search_pull_requests",
+    "description": "Search for pull requests in GitHub repositories using issues search syntax already scoped to is:pr"
+  },
+  {
+    "순서": 87,
+    "name": "search_repositories",
+    "description": "Find GitHub repositories by name, description, readme, topics, or other metadata. Perfect for discovering projects, finding examples, or locating specific repositories across GitHub."
+  },
+  {
+    "순서": 88,
+    "name": "search_users",
+    "description": "Find GitHub users by username, real name, or other profile information. Useful for locating developers, contributors, or team members."
+  },
+  {
+    "순서": 89,
+    "name": "star_repository",
+    "description": "Star a GitHub repository"
+  },
+  {
+    "순서": 90,
+    "name": "sub_issue_write",
+    "description": "Add a sub-issue to a parent issue in a GitHub repository."
+  },
+  {
+    "순서": 91,
+    "name": "unstar_repository",
+    "description": "Unstar a GitHub repository"
+  },
+  {
+    "순서": 92,
+    "name": "update_gist",
+    "description": "Update an existing gist"
+  },
+  {
+    "순서": 93,
+    "name": "update_project_item",
+    "description": "Update a specific Project item for a user or org"
+  },
+  {
+    "순서": 94,
+    "name": "update_pull_request",
+    "description": "Update an existing pull request in a GitHub repository."
+  },
+  {
+    "순서": 95,
+    "name": "update_pull_request_branch",
+    "description": "Update the branch of a pull request with the latest changes from the base branch."
+  }
+]

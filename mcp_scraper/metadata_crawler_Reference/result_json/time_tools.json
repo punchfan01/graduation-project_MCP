@@ -1,0 +1,12 @@
+[
+  {
+    "순서": 1,
+    "name": "get_current_time",
+    "description": "Get current time in a specific timezones"
+  },
+  {
+	  "순서": 2,
+	  "name": "convert_time",
+	  "description": "Convert time between timezones"
+  }
+]

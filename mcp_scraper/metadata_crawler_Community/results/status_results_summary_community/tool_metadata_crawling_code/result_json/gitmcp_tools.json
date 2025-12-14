@@ -1,0 +1,22 @@
+[
+  {
+    "순서": 1,
+    "name": "fetch_documentation",
+    "description": "Fetch entire documentation for the current repository."
+  },
+  {
+    "순서": 2,
+    "name": "search_documentation",
+    "description": "Semantically search within the fetched documentation for the current repository."
+  },
+  {
+    "순서": 3,
+    "name": "search_code",
+    "description": "Search for code within the GitHub repository: '${owner}/${repo}' using the GitHub Search API (exact match). Returns matching files for you to query further if relevant."
+  },
+  {
+    "순서": 4,
+    "name": "fetch_generic_url_content",
+    "description": "Generic tool to fetch content from any absolute URL, respecting robots.txt rules. Use this to retrieve referenced urls (absolute urls) that were mentioned in previously fetched documentation."
+  }
+]

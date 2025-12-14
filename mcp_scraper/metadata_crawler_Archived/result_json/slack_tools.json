@@ -1,0 +1,42 @@
+[
+  {
+    "순서": 1,
+    "name": "slack_list_channels",
+    "description": "List public or pre-defined channels in the workspace with pagination"
+  },
+  {
+    "순서": 2,
+    "name": "slack_post_message",
+    "description": "Post a new message to a Slack channel"
+  },
+  {
+    "순서": 3,
+    "name": "slack_reply_to_thread",
+    "description": "Reply to a specific message thread in Slack"
+  },
+  {
+    "순서": 4,
+    "name": "slack_add_reaction",
+    "description": "Add a reaction emoji to a message"
+  },
+  {
+    "순서": 5,
+    "name": "slack_get_channel_history",
+    "description": "Get recent messages from a channel"
+  },
+  {
+    "순서": 6,
+    "name": "slack_get_thread_replies",
+    "description": "Get all replies in a message thread"
+  },
+  {
+    "순서": 7,
+    "name": "slack_get_users",
+    "description": "Get a list of all users in the workspace with their basic profile information"
+  },
+  {
+    "순서": 8,
+    "name": "slack_get_user_profile",
+    "description": "Get detailed profile information for a specific user"
+  }
+]

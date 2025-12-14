@@ -1,0 +1,22 @@
+[
+  {
+    "순서": 1,
+    "name": "set",
+    "description": "Set a Redis key-value pair with optional expiration"
+  },
+  {
+    "순서": 2,
+    "name": "get",
+    "description": "Get value by key from Redis"
+  },
+  {
+    "순서": 3,
+    "name": "delete",
+    "description": "Delete one or more keys from Redis"
+  },
+  {
+    "순서": 4,
+    "name": "list",
+    "description": "List Redis keys matching a pattern"
+  }
+]

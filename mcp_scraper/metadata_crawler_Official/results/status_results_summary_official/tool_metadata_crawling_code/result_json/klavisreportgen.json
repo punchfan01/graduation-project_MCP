@@ -1,0 +1,7 @@
+[
+  {
+    "순서": 1,
+    "name": "generate_web_reports",
+    "description": "Generate web reports based on a search query. Searches for relevant articles using the query, creates a visually appealing JavaScript web page that consolidates content from the top search results."
+  }
+]

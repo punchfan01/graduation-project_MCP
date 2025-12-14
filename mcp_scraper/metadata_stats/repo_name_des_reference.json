@@ -1,0 +1,44 @@
+[
+  {
+    "repo_name": "Everything",
+    "number_of_tools": 13,
+    "number_of_names": 13,
+    "number_of_descriptions": 13
+  },
+  {
+    "repo_name": "Fetch",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Filesystem",
+    "number_of_tools": 14,
+    "number_of_names": 14,
+    "number_of_descriptions": 14
+  },
+  {
+    "repo_name": "Git",
+    "number_of_tools": 12,
+    "number_of_names": 12,
+    "number_of_descriptions": 12
+  },
+  {
+    "repo_name": "Memory",
+    "number_of_tools": 9,
+    "number_of_names": 9,
+    "number_of_descriptions": 9
+  },
+  {
+    "repo_name": "Sequential Thinking",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Time",
+    "number_of_tools": 2,
+    "number_of_names": 2,
+    "number_of_descriptions": 2
+  }
+]

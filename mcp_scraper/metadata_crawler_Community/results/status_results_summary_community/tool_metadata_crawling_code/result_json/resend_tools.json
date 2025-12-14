@@ -1,0 +1,77 @@
+[
+  {
+    "순서": 1,
+    "name": "resend_send_email",
+    "description": "Send an email using Resend"
+  },
+  {
+    "순서": 2,
+    "name": "resend_create_audience",
+    "description": "Create a new audience in Resend"
+  },
+  {
+    "순서": 3,
+    "name": "resend_get_audience",
+    "description": "Retrieve audience details by ID in Resend"
+  },
+  {
+    "순서": 4,
+    "name": "resend_delete_audience",
+    "description": "Delete an audience by ID in Resend"
+  },
+  {
+    "순서": 5,
+    "name": "resend_list_audiences",
+    "description": "List all audiences in Resend"
+  },
+  {
+    "순서": 6,
+    "name": "resend_create_contact",
+    "description": "Create a new contact in a Resend audience"
+  },
+  {
+    "순서": 7,
+    "name": "resend_get_contact",
+    "description": "Retrieve a contact from a Resend audience by ID or email"
+  },
+  {
+    "순서": 8,
+    "name": "resend_update_contact",
+    "description": "Update a contact in a Resend audience by ID or email"
+  },
+  {
+    "순서": 9,
+    "name": "resend_delete_contact",
+    "description": "Delete a contact from a Resend audience by ID or email"
+  },
+  {
+    "순서": 10,
+    "name": "resend_list_contacts",
+    "description": "List all contacts in a Resend audience"
+  },
+  {
+    "순서": 11,
+    "name": "resend_create_broadcast",
+    "description": "Create a new broadcast in Resend"
+  },
+  {
+    "순서": 12,
+    "name": "resend_get_broadcast",
+    "description": "Retrieve a broadcast by ID from Resend"
+  },
+  {
+    "순서": 13,
+    "name": "resend_send_broadcast",
+    "description": "Send or schedule a broadcast in Resend"
+  },
+  {
+    "순서": 14,
+    "name": "resend_delete_broadcast",
+    "description": "Delete a broadcast by ID in Resend"
+  },
+  {
+    "순서": 15,
+    "name": "resend_list_broadcasts",
+    "description": "List all broadcasts in Resend"
+  }
+]

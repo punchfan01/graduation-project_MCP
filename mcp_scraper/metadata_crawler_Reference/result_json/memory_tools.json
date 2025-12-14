@@ -1,0 +1,47 @@
+[
+  {
+    "순서": 1,
+    "name": "create_entities",
+    "description": "Create multiple new entities in the knowledge graph"
+  },
+  {
+    "순서": 2,
+    "name": "create_relations",
+    "description": "Create multiple new relations between entities in the knowledge graph. Relations should be in active voice"
+  },
+  {
+    "순서": 3,
+    "name": "add_observations",
+    "description": "Add new observations to existing entities in the knowledge graph"
+  },
+  {
+    "순서": 4,
+    "name": "delete_entities",
+    "description": "Delete multiple entities and their associated relations from the knowledge graph"
+  },
+  {
+    "순서": 5,
+    "name": "delete_observations",
+    "description": "Delete specific observations from entities in the knowledge graph"
+  },
+  {
+    "순서": 6,
+    "name": "delete_relations",
+    "description": "Delete multiple relations from the knowledge graph"
+  },
+  {
+    "순서": 7,
+    "name": "read_graph",
+    "description": "Read the entire knowledge graph"
+  },
+  {
+    "순서": 8,
+    "name": "search_nodes",
+    "description": "Search for nodes in the knowledge graph based on a query"
+  },
+  {
+    "순서": 9,
+    "name": "open_nodes",
+    "description": "Open specific nodes in the knowledge graph by their names"
+  }
+]

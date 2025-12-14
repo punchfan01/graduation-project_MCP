@@ -1,0 +1,62 @@
+[
+  {
+    "순서": 1,
+    "name": "create_folder",
+    "description": "Create a new folder in the Daytona sandbox."
+  },
+  {
+    "순서": 2,
+    "name": "create_sandbox",
+    "description": "Create a new sandbox with Daytona"
+  },
+  {
+    "순서": 3,
+    "name": "delete_file",
+    "description": "Delete a file or directory in the Daytona sandbox."
+  },
+  {
+    "순서": 4,
+    "name": "destroy_sandbox",
+    "description": "Destroy a sandbox with Daytona"
+  },
+  {
+    "순서": 5,
+    "name": "file_download",
+    "description": "Download a file from the Daytona sandbox. Returns the file content either as text or as a base64 encoded image. Handles special cases like matplotlib plots stored as JSON with embedded base64 images."
+  },
+  {
+    "순서": 6,
+    "name": "execute_command",
+    "description": "Execute shell commands in the ephemeral Daytona Linux environment. Returns full stdout and stderr output with exit codes. Commands have sandbox user permissions and can install packages, modify files, and interact with running services. Always use /tmp directory. Use verbose flags where available for better output."
+  },
+  {
+    "순서": 7,
+    "name": "get_file_info",
+    "description": "Get information about a file in the Daytona sandbox."
+  },
+  {
+    "순서": 8,
+    "name": "git_clone",
+    "description": "Clone a Git repository into the Daytona sandbox."
+  },
+  {
+    "순서": 9,
+    "name": "list_files",
+    "description": "List files in a directory in the Daytona sandbox."
+  },
+  {
+    "순서": 10,
+    "name": "move_file",
+    "description": "Move or rename a file in the Daytona sandbox."
+  },
+  {
+    "순서": 11,
+    "name": "preview_link",
+    "description": "Generate accessible preview URLs for web applications running in the Daytona sandbox. Creates a secure tunnel to expose local ports externally without configuration. Validates if a server is actually running on the specified port and provides diagnostic information for troubleshooting. Supports custom descriptions and metadata for better organization of multiple services."
+  },
+  {
+    "순서": 12,
+    "name": "file_upload",
+    "description": "Upload files to the Daytona sandbox from text or base64-encoded binary content. Creates necessary parent directories automatically and verifies successful writes. Files persist during the session and have appropriate permissions for further tool operations. Supports overwrite controls and maintains original file formats."
+  }
+]

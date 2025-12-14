@@ -1,0 +1,162 @@
+[
+  {
+    "순서": 1,
+    "name": "start_codegen_session",
+    "description": "Start a new code generation session to record Playwright actions"
+  },
+  {
+    "순서": 2,
+    "name": "end_codegen_session",
+    "description": "End a code generation session and generate the test file"
+  },
+  {
+    "순서": 3,
+    "name": "get_codegen_session",
+    "description": "Get information about a code generation session"
+  },
+  {
+    "순서": 4,
+    "name": "clear_codegen_session",
+    "description": "Clear a code generation session without generating a test"
+  },
+  {
+    "순서": 5,
+    "name": "playwright_navigate",
+    "description": "Navigate to a URL"
+  },
+  {
+    "순서": 6,
+    "name": "playwright_screenshot",
+    "description": "Take a screenshot of the current page or a specific element"
+  },
+  {
+    "순서": 7,
+    "name": "playwright_click",
+    "description": "Click an element on the page"
+  },
+  {
+    "순서": 8,
+    "name": "playwright_iframe_click",
+    "description": "Click an element in an iframe on the page"
+  },
+  {
+    "순서": 9,
+    "name": "playwright_iframe_fill",
+    "description": "Fill an element in an iframe on the page"
+  },
+  {
+    "순서": 10,
+    "name": "playwright_fill",
+    "description": "fill out an input field"
+  },
+  {
+    "순서": 11,
+    "name": "playwright_select",
+    "description": "Select an element on the page with Select tag"
+  },
+  {
+    "순서": 12,
+    "name": "playwright_hover",
+    "description": "Hover an element on the page"
+  },
+  {
+    "순서": 13,
+    "name": "playwright_upload_file",
+    "description": "Upload a file to an input[type="
+  },
+  {
+    "순서": 14,
+    "name": "playwright_evaluate",
+    "description": "Execute JavaScript in the browser console"
+  },
+  {
+    "순서": 15,
+    "name": "playwright_console_logs",
+    "description": "Retrieve console logs from the browser with filtering options"
+  },
+  {
+    "순서": 16,
+    "name": "playwright_close",
+    "description": "Close the browser and release all resources"
+  },
+  {
+    "순서": 17,
+    "name": "playwright_get",
+    "description": "Perform an HTTP GET request"
+  },
+  {
+    "순서": 18,
+    "name": "playwright_post",
+    "description": "Perform an HTTP POST request"
+  },
+  {
+    "순서": 19,
+    "name": "playwright_put",
+    "description": "Perform an HTTP PUT request"
+  },
+  {
+    "순서": 20,
+    "name": "playwright_patch",
+    "description": "Perform an HTTP PATCH request"
+  },
+  {
+    "순서": 21,
+    "name": "playwright_delete",
+    "description": "Perform an HTTP DELETE request"
+  },
+  {
+    "순서": 22,
+    "name": "playwright_expect_response",
+    "description": "Ask Playwright to start waiting for a HTTP response. This tool initiates the wait operation but does not wait for its completion."
+  },
+  {
+    "순서": 23,
+    "name": "playwright_assert_response",
+    "description": "Wait for and validate a previously initiated HTTP response wait operation."
+  },
+  {
+    "순서": 24,
+    "name": "playwright_custom_user_agent",
+    "description": "Set a custom User Agent for the browser"
+  },
+  {
+    "순서": 25,
+    "name": "playwright_get_visible_text",
+    "description": "Get the visible text content of the current page"
+  },
+  {
+    "순서": 26,
+    "name": "playwright_get_visible_html",
+    "description": "Get the HTML content of the current page. By default, all <script> tags are removed from the output unless removeScripts is explicitly set to false."
+  },
+  {
+    "순서": 27,
+    "name": "playwright_go_back",
+    "description": "Navigate back in browser history"
+  },
+  {
+    "순서": 28,
+    "name": "playwright_go_forward",
+    "description": "Navigate forward in browser history"
+  },
+  {
+    "순서": 29,
+    "name": "playwright_drag",
+    "description": "Drag an element to a target location"
+  },
+  {
+    "순서": 30,
+    "name": "playwright_press_key",
+    "description": "Press a keyboard key"
+  },
+  {
+    "순서": 31,
+    "name": "playwright_save_as_pdf",
+    "description": "Save the current page as a PDF file"
+  },
+  {
+    "순서": 32,
+    "name": "playwright_click_and_switch_tab",
+    "description": "Click a link and switch to the newly opened tab"
+  }
+]

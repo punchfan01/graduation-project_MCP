@@ -1,0 +1,97 @@
+[
+  {
+    "순서": 1,
+    "name": "mobile_list_available_devices",
+    "description": "List all available devices. This includes both physical devices and simulators. If there is more than one device returned, you need to let the user select one of them."
+  },
+  {
+    "순서": 2,
+    "name": "mobile_list_apps",
+    "description": "List all the installed apps on the device"
+  },
+  {
+    "순서": 3,
+    "name": "mobile_launch_app",
+    "description": "Launch an app on mobile device. Use this to open a specific app. You can find the package name of the app by calling list_apps_on_device."
+  },
+  {
+    "순서": 4,
+    "name": "mobile_terminate_app",
+    "description": "Stop and terminate an app on mobile device"
+  },
+  {
+    "순서": 5,
+    "name": "mobile_install_app",
+    "description": "Install an app on mobile device"
+  },
+  {
+    "순서": 6,
+    "name": "mobile_uninstall_app",
+    "description": "Uninstall an app from mobile device"
+  },
+  {
+    "순서": 7,
+    "name": "mobile_get_screen_size",
+    "description": "Get the screen size of the mobile device in pixels"
+  },
+  {
+    "순서": 8,
+    "name": "mobile_click_on_screen_at_coordinates",
+    "description": "Click on the screen at given x,y coordinates. If clicking on an element, use the list_elements_on_screen tool to find the coordinates."
+  },
+  {
+    "순서": 9,
+    "name": "mobile_double_tap_on_screen",
+    "description": "Double-tap on the screen at given x,y coordinates."
+  },
+  {
+    "순서": 10,
+    "name": "mobile_long_press_on_screen_at_coordinates",
+    "description": "Long press on the screen at given x,y coordinates. If long pressing on an element, use the list_elements_on_screen tool to find the coordinates."
+  },
+  {
+    "순서": 11,
+    "name": "mobile_list_elements_on_screen",
+    "description": "List elements on screen and their coordinates, with display text or accessibility label. Do not cache this result."
+  },
+  {
+    "순서": 12,
+    "name": "mobile_press_button",
+    "description": "Press a button on device"
+  },
+  {
+    "순서": 13,
+    "name": "mobile_open_url",
+    "description": "Open a URL in browser on device"
+  },
+  {
+    "순서": 14,
+    "name": "mobile_swipe_on_screen",
+    "description": "Swipe on the screen"
+  },
+  {
+    "순서": 15,
+    "name": "mobile_type_keys",
+    "description": "Type text into the focused element"
+  },
+  {
+    "순서": 16,
+    "name": "mobile_save_screenshot",
+    "description": "Save a screenshot of the mobile device to a file"
+  },
+  {
+    "순서": 17,
+    "name": "mobile_take_screenshot",
+    "description": "Take a screenshot of the mobile device. Use this to understand what"
+  },
+  {
+    "순서": 18,
+    "name": "mobile_set_orientation",
+    "description": "Change the screen orientation of the device"
+  },
+  {
+    "순서": 19,
+    "name": "mobile_get_orientation",
+    "description": "Get the current screen orientation of the device"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "AgentMode",
+    "url": "https://www.agentmode.app",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "DocBase",
+    "url": "https://help.docbase.io/posts/3925317",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "DynamoDB-Toolbox",
+    "url": "https://www.dynamodbtoolbox.com/docs/databases/actions/mcp-toolkit",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Fabi",
+    "url": "https://docs.fabi.ai/advanced_features_and_dev_tools/mcp_server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Maybe Don't AI Policy Engine",
+    "url": "https://www.maybedont.ai/download/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Parliament MCP",
+    "url": "[https://github.com/sv/mcp-paradex-py](https://github.com/i-dot-ai/parliament-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Useless Toolkit",
+    "url": "https://uselesstoolkit.com/apis/mcp-servers",
+    "status": "non_github",
+    "title": null
+  }
+]

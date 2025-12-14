@@ -1,0 +1,47 @@
+[
+  {
+    "순서": 1,
+    "name": "${${ABORT_CONFIGURATION_TOOL_NAME}_${component.key.toUpperCase()}}",
+    "description": "Abort the configuration process"
+  },
+  {
+    "순서": 2,
+    "name": "${${ASYNC_OPTIONS_TOOL_NAME}_${component.key.toUpperCase()}_${option.name.toUpperCase()}}",
+    "description": "Fetch options for ${option.name}"
+  },
+  {
+    "순서": 3,
+    "name": "${${BEGIN_CONFIGURATION_TOOL_NAME}_${component.key.toUpperCase()}}",
+    "description": ""
+  },
+  {
+    "순서": 4,
+    "name": "CONFIGURE_COMPONENT_TOOL_NAME",
+    "description": "You call this tool if you need to get the available options for a property of a component. The property description will tell you if you can use this tool and what the parameter values are."
+  },
+  {
+    "순서": 5,
+    "name": "${${CONFIGURE_PROPS_TOOL_NAME}_${component.key.toUpperCase()}_PROPS}",
+    "description": ""
+  },
+  {
+    "순서": 6,
+    "name": "QUERY_TOOL_NAME",
+    "description": "What API or integration are you trying to use? What problem are you trying to solve? You can tell me multiple parts at the same time and I will return a list of apps that can solve your problem."
+  },
+  {
+    "순서": 7,
+    "name": "component.key.toUpperCase()",
+    "description": ""
+  },
+  {
+    "순서": 8,
+    "name": "${${RUN_TOOL_NAME}_${component.key.toUpperCase()}}",
+    "description": "Execute using configured properties"
+  },
+  {
+    "순서": 9,
+    "name": "SELECT_APPS_TOOL_NAME",
+    "description": "Select the apps you want to use"
+  }
+]

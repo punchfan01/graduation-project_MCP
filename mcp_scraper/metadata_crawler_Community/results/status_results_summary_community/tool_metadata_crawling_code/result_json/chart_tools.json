@@ -1,0 +1,152 @@
+[
+  {
+    "순서": 1,
+    "파일명": "area.ts",
+    "name": "generate_area_chart",
+    "description": "Generate a area chart to show data trends under continuous independent variables and observe the overall data trend, such as, displacement = velocity (average or instantaneous) × time: s = v × t. If the x-axis is time (t) and the y-axis is velocity (v) at each moment, an area chart allows you to observe the trend of velocity over time and infer the distance traveled by the area"
+  },
+  {
+    "순서": 2,
+    "파일명": "bar.ts",
+    "name": "generate_bar_chart",
+    "description": "Generate a horizontal bar chart to show data for numerical comparisons among different categories, such as, comparing categorical data and for horizontal comparisons."
+  },
+  {
+    "순서": 3,
+    "파일명": "boxplot.ts",
+    "name": "generate_boxplot_chart",
+    "description": "Generate a boxplot chart to show data for statistical summaries among different categories, such as, comparing the distribution of data points across categories."
+  },
+  {
+    "순서": 4,
+    "파일명": "column.ts",
+    "name": "generate_column_chart",
+    "description": "Generate a column chart, which are best for comparing categorical data, such as, when values are close, column charts are preferable because our eyes are better at judging height than other visual elements like area or angles."
+  },
+  {
+    "순서": 5,
+    "파일명": "district-map.ts",
+    "name": "generate_district_map",
+    "description": "Generates regional distribution maps, which are usually used to show the administrative divisions and coverage of a dataset. It is not suitable for showing the distribution of specific locations, such as urban administrative divisions, GDP distribution maps of provinces and cities across the country, etc. This tool is limited to generating data maps within China."
+  },
+  {
+    "순서": 6,
+    "파일명": "dual-axes.ts",
+    "name": "generate_dual_axes_chart",
+    "description": "Generate a dual axes chart which is a combination chart that integrates two different chart types, typically combining a bar chart with a line chart to display both the trend and comparison of data, such as, the trend of sales and profit over time."
+  },
+  {
+    "순서": 7,
+    "파일명": "fishbone-diagram.ts",
+    "name": "generate_fishbone_diagram",
+    "description": "Generate a fishbone diagram chart to uses a fish skeleton, like structure to display the causes or effects of a core problem, with the problem as the fish head and the causes/effects as the fish bones. It suits problems that can be split into multiple related factors."
+  },
+  {
+    "순서": 8,
+    "파일명": "flow-diagram.ts",
+    "name": "generate_flow_diagram",
+    "description": "Generate a flow diagram chart to show the steps and decision points of a process or system, such as, scenarios requiring linear process presentation."
+  },
+  {
+    "순서": 9,
+    "파일명": "funnel.ts",
+    "name": "generate_funnel_chart",
+    "description": "Generate a funnel chart to visualize the progressive reduction of data as it passes through stages, such as, the conversion rates of users from visiting a website to completing a purchase."
+  },
+  {
+    "순서": 10,
+    "파일명": "histogram.ts",
+    "name": "generate_histogram_chart",
+    "description": "Generate a histogram chart to show the frequency of data points within a certain range. It can observe data distribution, such as, normal and skewed distributions, and identify data concentration areas and extreme points."
+  },
+  {
+    "순서": 11,
+    "파일명": "line.ts",
+    "name": "generate_line_chart",
+    "description": "Generate a line chart to show trends over time, such as, the ratio of Apple computer sales to Apple"
+  },
+  {
+    "순서": 12,
+    "파일명": "liquid.ts",
+    "name": "generate_liquid_chart",
+    "description": "Generate a liquid chart to visualize a single value as a percentage, such as, the current occupancy rate of a reservoir or the completion percentage of a project."
+  },
+  {
+    "순서": 13,
+    "파일명": "mind-map.ts",
+    "name": "generate_mind_map",
+    "description": "Generate a mind map chart to organizes and presents information in a hierarchical structure with branches radiating from a central topic, such as, a diagram showing the relationship between a main topic and its subtopics."
+  },
+  {
+    "순서": 14,
+    "파일명": "network-graph.ts",
+    "name": "generate_network_graph",
+    "description": "Generate a network graph chart to show relationships (edges) between entities (nodes), such as, relationships between people in social networks."
+  },
+  {
+    "순서": 15,
+    "파일명": "organization-chart.ts",
+    "name": "generate_organization_chart",
+    "description": "Generate an organization chart to visualize the hierarchical structure of an organization, such as, a diagram showing the relationship between a CEO and their direct reports."
+  },
+  {
+    "순서": 16,
+    "파일명": "path-map.ts",
+    "name": "generate_path_map",
+    "description": "Generate a route map to display the user"
+  },
+  {
+    "순서": 17,
+    "파일명": "pie.ts",
+    "name": "generate_pie_chart",
+    "description": "Generate a pie chart to show the proportion of parts, such as, market share and budget allocation."
+  },
+  {
+    "순서": 18,
+    "파일명": "pin-map.ts",
+    "name": "generate_pin_map",
+    "description": "Generate a point map to display the location and distribution of point data on the map, such as the location distribution of attractions, hospitals, supermarkets, etc."
+  },
+  {
+    "순서": 19,
+    "파일명": "radar.ts",
+    "name": "generate_radar_chart",
+    "description": "Generate a radar chart to display multidimensional data (four dimensions or more), such as, evaluate Huawei and Apple phones in terms of five dimensions: ease of use, functionality, camera, benchmark scores, and battery life."
+  },
+  {
+    "순서": 20,
+    "파일명": "sankey.ts",
+    "name": "generate_sankey_chart",
+    "description": "Generate a sankey chart to visualize the flow of data between different stages or categories, such as, the user journey from landing on a page to completing a purchase."
+  },
+  {
+    "순서": 21,
+    "파일명": "scatter.ts",
+    "name": "generate_scatter_chart",
+    "description": "Generate a scatter chart to show the relationship between two variables, helps discover their relationship or trends, such as, the strength of correlation, data distribution patterns."
+  },
+  {
+    "순서": 22,
+    "파일명": "treemap.ts",
+    "name": "generate_treemap_chart",
+    "description": "Generate a treemap chart to display hierarchical data and can intuitively show comparisons between items at the same level, such as, show disk space usage with treemap."
+  },
+  {
+    "순서": 23,
+    "파일명": "venn.ts",
+    "name": "generate_venn_chart",
+    "description": "Generate a Venn diagram to visualize the relationships between different sets, showing how they intersect and overlap, such as the commonalities and differences between various groups."
+  },
+  {
+    "순서": 24,
+    "파일명": "violin.ts",
+    "name": "generate_violin_chart",
+    "description": "Generate a violin chart to show data for statistical summaries among different categories, such as, comparing the distribution of data points across categories."
+  },
+  {
+    "순서": 25,
+    "파일명": "word-cloud.ts",
+    "name": "generate_word_cloud_chart",
+    "description": "Generate a word cloud chart to show word frequency or weight through text size variation, such as, analyzing common words in social media, reviews, or feedback."
+  }
+]

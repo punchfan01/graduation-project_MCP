@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Browser MCP",
+    "url": "https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser",
+    "stars": 19697,
+    "forks": 1878,
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+  },
+  {
+    "name": "Skyvern",
+    "url": "https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp",
+    "stars": 19564,
+    "forks": 1692,
+    "description": "Automate browser based workflows with AI"
+  },
+  {
+    "name": "Blender",
+    "url": "https://github.com/ahujasid/blender-mcp",
+    "stars": 14425,
+    "forks": 1383,
+    "description": null
+  },
+  {
+    "name": "pydantic/pydantic-ai/mcp-run-python",
+    "url": "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python",
+    "stars": 13662,
+    "forks": 1446,
+    "description": "GenAI Agent Framework, the Pydantic way"
+  },
+  {
+    "name": "GitMCP",
+    "url": "https://github.com/idosal/git-mcp",
+    "stars": 7108,
+    "forks": 598,
+    "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project"
+  },
+  {
+    "name": "Talk To Figma",
+    "url": "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp",
+    "stars": 5765,
+    "forks": 613,
+    "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically."
+  },
+  {
+    "name": "Discord",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/discord",
+    "stars": 5495,
+    "forks": 507,
+    "description": "Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale"
+  },
+  {
+    "name": "Markdown2doc",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/pandoc",
+    "stars": 5495,
+    "forks": 507,
+    "description": "Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale"
+  },
+  {
+    "name": "Markitdown",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/markitdown",
+    "stars": 5495,
+    "forks": 507,
+    "description": "Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale"
+  },
+  {
+    "name": "Resend",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/resend",
+    "stars": 5495,
+    "forks": 507,
+    "description": "Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube",
+    "stars": 5495,
+    "forks": 507,
+    "description": "Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale"
+  },
+  {
+    "name": "WhatsApp MCP Server",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "stars": 5113,
+    "forks": 811,
+    "description": "WhatsApp MCP server"
+  },
+  {
+    "name": "Playwright",
+    "url": "https://github.com/executeautomation/mcp-playwright",
+    "stars": 5041,
+    "forks": 461,
+    "description": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌"
+  },
+  {
+    "name": "DesktopCommander",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "stars": 5019,
+    "forks": 558,
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://github.com/sooperset/mcp-atlassian",
+    "stars": 3738,
+    "forks": 792,
+    "description": "MCP server for Atlassian tools (Confluence, Jira)"
+  },
+  {
+    "name": "AntV Chart",
+    "url": "https://github.com/antvis/mcp-server-chart",
+    "stars": 3276,
+    "forks": 311,
+    "description": "🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis."
+  },
+  {
+    "name": "Mobile MCP",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "stars": 2584,
+    "forks": 236,
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+  },
+  {
+    "name": "Markdownify",
+    "url": "https://github.com/zcaceres/mcp-markdownify-server",
+    "stars": 2290,
+    "forks": 194,
+    "description": "A Model Context Protocol server for converting almost anything to Markdown"
+  },
+  {
+    "name": "Basic Memory",
+    "url": "https://github.com/basicmachines-co/basic-memory",
+    "stars": 2166,
+    "forks": 134,
+    "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN"
+  },
+  {
+    "name": "mcp-proxy",
+    "url": "https://github.com/sparfenyuk/mcp-proxy",
+    "stars": 2055,
+    "forks": 204,
+    "description": "A bridge between Streamable HTTP and stdio MCP transports"
+  },
+  {
+    "name": "Ableton Live",
+    "url": "https://github.com/ahujasid/ableton-mcp",
+    "stars": 2037,
+    "forks": 242,
+    "description": null
+  },
+  {
+    "name": "Solana Agent Kit",
+    "url": "https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server",
+    "stars": 1567,
+    "forks": 814,
+    "description": "connect any ai agents to solana protocols"
+  },
+  {
+    "name": "n8n",
+    "url": "https://github.com/leonardsellem/n8n-mcp-server",
+    "stars": 1488,
+    "forks": 266,
+    "description": "MCP server that provides tools and resources for interacting with n8n API"
+  },
+  {
+    "name": "MCP Installer",
+    "url": "https://github.com/anaisbetts/mcp-installer",
+    "stars": 1473,
+    "forks": 195,
+    "description": "An MCP server that installs other MCP servers for you"
+  },
+  {
+    "name": "Language Server",
+    "url": "https://github.com/isaacphi/mcp-language-server",
+    "stars": 1298,
+    "forks": 100,
+    "description": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics."
+  },
+  {
+    "name": "Office-PowerPoint-MCP-Server",
+    "url": "https://github.com/GongRzhe/Office-PowerPoint-MCP-Server",
+    "stars": 1282,
+    "forks": 175,
+    "description": "A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol."
+  },
+  {
+    "name": "Obsidian Markdown Notes",
+    "url": "https://github.com/calclavia/mcp-obsidian",
+    "stars": 1225,
+    "forks": 86,
+    "description": "A connector for Claude Desktop to read and search an Obsidian vault."
+  },
+  {
+    "name": "Operative WebEvalAgent",
+    "url": "https://github.com/Operative-Sh/web-eval-agent",
+    "stars": 1224,
+    "forks": 102,
+    "description": "An MCP server that autonomously evaluates web applications. "
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://github.com/Flux159/mcp-server-kubernetes",
+    "stars": 1205,
+    "forks": 196,
+    "description": "MCP Server for kubernetes management commands"
+  },
+  {
+    "name": "Godot",
+    "url": "https://github.com/Coding-Solo/godot-mcp",
+    "stars": 1185,
+    "forks": 143,
+    "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output."
+  }
+]

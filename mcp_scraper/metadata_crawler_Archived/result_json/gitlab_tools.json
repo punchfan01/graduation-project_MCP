@@ -1,0 +1,47 @@
+[
+  {
+    "순서": 1,
+    "name": "create_or_update_file",
+    "description": "Create or update a single file in a GitLab project"
+  },
+  {
+    "순서": 2,
+    "name": "search_repositories",
+    "description": "Search for GitLab projects"
+  },
+  {
+    "순서": 3,
+    "name": "create_repository",
+    "description": "Create a new GitLab project"
+  },
+  {
+    "순서": 4,
+    "name": "get_file_contents",
+    "description": "Get the contents of a file or directory from a GitLab project"
+  },
+  {
+    "순서": 5,
+    "name": "push_files",
+    "description": "Push multiple files to a GitLab project in a single commit"
+  },
+  {
+    "순서": 6,
+    "name": "create_issue",
+    "description": "Create a new issue in a GitLab project"
+  },
+  {
+    "순서": 7,
+    "name": "create_merge_request",
+    "description": "Create a new merge request in a GitLab project"
+  },
+  {
+    "순서": 8,
+    "name": "fork_repository",
+    "description": "Fork a GitLab project to your account or specified namespace"
+  },
+  {
+    "순서": 9,
+    "name": "create_branch",
+    "description": "Create a new branch in a GitLab project"
+  }
+]

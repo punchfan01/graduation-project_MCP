@@ -1,0 +1,62 @@
+[
+  {
+    "순서": 1,
+    "name": "STATUS",
+    "description": "Shows the working tree status"
+  },
+  {
+    "순서": 2,
+    "name": "DIFF_UNSTAGED",
+    "description": "Shows changes in the working directory that are not yet staged"
+  },
+  {
+    "순서": 3,
+    "name": "DIFF_STAGED",
+    "description": "Shows changes that are staged for commit"
+  },
+  {
+    "순서": 4,
+    "name": "DIFF",
+    "description": "Shows differences between branches or commits"
+  },
+  {
+    "순서": 5,
+    "name": "COMMIT",
+    "description": "Records changes to the repository"
+  },
+  {
+    "순서": 6,
+    "name": "ADD",
+    "description": "Adds file contents to the staging area"
+  },
+  {
+    "순서": 7,
+    "name": "RESET",
+    "description": "Unstages all staged changes"
+  },
+  {
+    "순서": 8,
+    "name": "LOG",
+    "description": "Shows the commit logs"
+  },
+  {
+    "순서": 9,
+    "name": "CREATE_BRANCH",
+    "description": "Creates a new branch from an optional base branch"
+  },
+  {
+    "순서": 10,
+    "name": "CHECKOUT",
+    "description": "Switches branches"
+  },
+  {
+    "순서": 11,
+    "name": "SHOW",
+    "description": "Shows the contents of a commit"
+  },
+  {
+    "순서": 12,
+    "name": "BRANCH",
+    "description": "List Git branches"
+  }
+]

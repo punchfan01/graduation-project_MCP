@@ -1,0 +1,5342 @@
+[
+  {
+    "name": "1mcpserver",
+    "url": "https://github.com/particlefuture/1mcpserver",
+    "status": "ok",
+    "title": "1 MCP Server: A MCP server that picks and configures MCP servers for you"
+  },
+  {
+    "name": "1Panel",
+    "url": "https://github.com/1Panel-dev/mcp-1panel",
+    "status": "ok",
+    "title": "1Panel MCP Server"
+  },
+  {
+    "name": "A2A",
+    "url": "https://github.com/GongRzhe/A2A-MCP-Server",
+    "status": "ok",
+    "title": "A2A MCP Server"
+  },
+  {
+    "name": "Ableton Live",
+    "url": "https://github.com/Simon-Kansara/ableton-live-mcp-server",
+    "status": "ok",
+    "title": "Ableton Live MCP Server"
+  },
+  {
+    "name": "Ableton Live",
+    "url": "https://github.com/ahujasid/ableton-mcp",
+    "status": "ok",
+    "title": "AbletonMCP - Ableton Live Model Context Protocol Integration"
+  },
+  {
+    "name": "ActivityPub MCP",
+    "url": "https://github.com/cameronrye/activitypub-mcp",
+    "status": "ok",
+    "title": "ActivityPub MCP Server - Fediverse Client"
+  },
+  {
+    "name": "Actor Critic Thinking",
+    "url": "https://github.com/aquarius-wing/actor-critic-thinking-mcp",
+    "status": "ok",
+    "title": "Actor-Critic Thinking MCP Server"
+  },
+  {
+    "name": "Adobe Commerce",
+    "url": "https://github.com/rafaelstz/adobe-commerce-dev-mcp",
+    "status": "ok",
+    "title": "Adobe Commerce Dev MCP Server"
+  },
+  {
+    "name": "ADR Analysis",
+    "url": "https://github.com/tosin2013/mcp-adr-analysis-server",
+    "status": "ok",
+    "title": "MCP ADR Analysis Server"
+  },
+  {
+    "name": "Ads MCP",
+    "url": "https://github.com/amekala/ads-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Agent Interviews",
+    "url": "https://github.com/thinkchainai/agentinterviews_mcp",
+    "status": "ok",
+    "title": "Agent Interviews MCP"
+  },
+  {
+    "name": "AgentBay",
+    "url": "https://github.com/Michael98671/agentbay",
+    "status": "ok",
+    "title": "Wuying AgentBay MCP Server"
+  },
+  {
+    "name": "Agentic Framework",
+    "url": "https://github.com/Piotr1215/mcp-agentic-framework",
+    "status": "ok",
+    "title": "MCP Agentic Framework"
+  },
+  {
+    "name": "AgentMode",
+    "url": "https://www.agentmode.app",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "AI Agent Marketplace Index",
+    "url": "https://github.com/AI-Agent-Hub/ai-agent-marketplace-index-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "AI Endurance",
+    "url": "https://github.com/ai-endurance/mcp",
+    "status": "ok",
+    "title": "AI Endurance MCP Server"
+  },
+  {
+    "name": "AI Tasks",
+    "url": "https://github.com/jbrinkman/valkey-ai-tasks",
+    "status": "ok",
+    "title": "Valkey MCP Task Management Server"
+  },
+  {
+    "name": "ai-Bible",
+    "url": "https://github.com/AdbC99/ai-bible",
+    "status": "ok",
+    "title": "ai-Bible"
+  },
+  {
+    "name": "Airbnb",
+    "url": "https://github.com/openbnb-org/mcp-server-airbnb",
+    "status": "ok",
+    "title": "Airbnb Search & Listings - Desktop Extension (DXT)"
+  },
+  {
+    "name": "Airflow",
+    "url": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
+    "status": "ok",
+    "title": "mcp-server-apache-airflow"
+  },
+  {
+    "name": "Airtable",
+    "url": "https://github.com/domdomegg/airtable-mcp-server",
+    "status": "ok",
+    "title": "airtable-mcp-server"
+  },
+  {
+    "name": "Airtable",
+    "url": "https://github.com/felores/airtable-mcp",
+    "status": "ok",
+    "title": "Airtable MCP Server"
+  },
+  {
+    "name": "Algorand",
+    "url": "https://github.com/GoPlausible/algorand-mcp",
+    "status": "ok",
+    "title": "Algorand MCP Implementation"
+  },
+  {
+    "name": "Amadeus",
+    "url": "https://github.com/donghyun-chae/mcp-amadeus",
+    "status": "ok",
+    "title": "Amadeus MCP Server"
+  },
+  {
+    "name": "Amazon Ads",
+    "url": "https://github.com/MarketplaceAdPros/amazon-ads-mcp-server",
+    "status": "ok",
+    "title": "amazon-ads-mcp-server"
+  },
+  {
+    "name": "AniList",
+    "url": "https://github.com/yuna0x0/anilist-mcp",
+    "status": "ok",
+    "title": "AniList MCP Server"
+  },
+  {
+    "name": "Anki",
+    "url": "https://github.com/scorzeth/anki-mcp-server",
+    "status": "ok",
+    "title": "Anki MCP Server"
+  },
+  {
+    "name": "Anki",
+    "url": "https://github.com/nietus/anki-mcp",
+    "status": "ok",
+    "title": "anki-mcp"
+  },
+  {
+    "name": "AntV Chart",
+    "url": "https://github.com/antvis/mcp-server-chart",
+    "status": "ok",
+    "title": "MCP Server Chart ![](https://badge.mcpx.dev?type=server \"MCP Server\") [![build](https://github.com/antvis/mcp-server-chart/actions/workflows/build.yml/badge.svg)](https://github.com/antvis/mcp-server-chart/actions/workflows/build.yml) [![npm Version](https://img.shields.io/npm/v/@antv/mcp-server-chart.svg)](https://www.npmjs.com/package/@antv/mcp-server-chart) [![smithery badge](https://smithery.ai/badge/@antvis/mcp-server-chart)](https://smithery.ai/server/@antvis/mcp-server-chart) [![npm License](https://img.shields.io/npm/l/@antv/mcp-server-chart.svg)](https://www.npmjs.com/package/@antv/mcp-server-chart) [![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/antvis/mcp-server-chart)](https://archestra.ai/mcp-catalog/antvis__mcp-server-chart) [![codecov](https://codecov.io/gh/antvis/mcp-server-chart/graph/badge.svg?token=7R98VGO5GL)](https://codecov.io/gh/antvis/mcp-server-chart)"
+  },
+  {
+    "name": "Any Chat Completions",
+    "url": "https://github.com/pyroprompts/any-chat-completions-mcp",
+    "status": "ok",
+    "title": "any-chat-completions-mcp MCP Server"
+  },
+  {
+    "name": "Apache Gravitino(incubating)",
+    "url": "https://github.com/datastrato/mcp-server-gravitino",
+    "status": "ok",
+    "title": "MCP Server for Apache Gravitino"
+  },
+  {
+    "name": "API Lab MCP",
+    "url": "https://github.com/atototo/api-lab-mcp",
+    "status": "ok",
+    "title": "API Lab MCP 🧪"
+  },
+  {
+    "name": "APIWeaver",
+    "url": "https://github.com/GongRzhe/APIWeaver",
+    "status": "ok",
+    "title": "APIWeaver"
+  },
+  {
+    "name": "Apollo IO MCP Server",
+    "url": "https://github.com/AgentX-ai/apollo-io-mcp-server",
+    "status": "ok",
+    "title": "Apollo.io MCP Server"
+  },
+  {
+    "name": "Apple Books",
+    "url": "https://github.com/vgnshiyer/apple-books-mcp",
+    "status": "ok",
+    "title": "Apple Books MCP"
+  },
+  {
+    "name": "Apple Calendar",
+    "url": "https://github.com/Omar-v2/mcp-ical",
+    "status": "ok",
+    "title": "MCP iCal Server"
+  },
+  {
+    "name": "Apple Docs",
+    "url": "https://github.com/kimsungwhee/apple-docs-mcp",
+    "status": "ok",
+    "title": "Apple Docs MCP - Apple 開発者ドキュメント モデルコンテキストプロトコルサーバー"
+  },
+  {
+    "name": "Apple Script",
+    "url": "https://github.com/peakmojo/applescript-mcp",
+    "status": "ok",
+    "title": "AppleScript MCP Server (Dual access: python and node.js)"
+  },
+  {
+    "name": "APT MCP",
+    "url": "https://github.com/GdMacmillan/apt-mcp-server",
+    "status": "ok",
+    "title": "Apt MCP Server"
+  },
+  {
+    "name": "Aranet4",
+    "url": "https://github.com/diegobit/aranet4-mcp-server",
+    "status": "ok",
+    "title": "aranet4-mcp-server"
+  },
+  {
+    "name": "ArangoDB",
+    "url": "https://github.com/ravenwits/mcp-server-arangodb",
+    "status": "ok",
+    "title": "MCP Server for ArangoDB"
+  },
+  {
+    "name": "ArangoDB Graph",
+    "url": "https://github.com/PCfVW/mcp-arangodb-async",
+    "status": "ok",
+    "title": "ArangoDB MCP Server for Python"
+  },
+  {
+    "name": "Archestra.AI",
+    "url": "https://github.com/archestra-ai/archestra",
+    "status": "ok",
+    "title": "MCP-native Centralized AI Platform"
+  },
+  {
+    "name": "Arduino",
+    "url": "https://github.com/vishalmysore/choturobo",
+    "status": "ok",
+    "title": "**Chotu Robo Server - MCP Server for Arduino **"
+  },
+  {
+    "name": "arXiv API",
+    "url": "https://github.com/prashalruchiranga/arxiv-mcp-server",
+    "status": "ok",
+    "title": "arXiv MCP Server"
+  },
+  {
+    "name": "arxiv-latex-mcp",
+    "url": "https://github.com/takashiishida/arxiv-latex-mcp",
+    "status": "ok",
+    "title": "arxiv-latex MCP Server"
+  },
+  {
+    "name": "Arr Suite",
+    "url": "https://github.com/shaktech786/arr-suite-mcp-server",
+    "status": "ok",
+    "title": "Arr Suite MCP Server"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://github.com/sooperset/mcp-atlassian",
+    "status": "ok",
+    "title": "MCP Atlassian"
+  },
+  {
+    "name": "Atlassian Server (by phuc-nt)",
+    "url": "https://github.com/phuc-nt/mcp-atlassian-server",
+    "status": "ok",
+    "title": "MCP Atlassian Server (by phuc-nt)"
+  },
+  {
+    "name": "Attestable MCP",
+    "url": "https://github.com/co-browser/attestable-mcp-server",
+    "status": "ok",
+    "title": "➡️ attestable-mcp-server"
+  },
+  {
+    "name": "Audius",
+    "url": "https://github.com/glassBead-tc/audius-mcp-atris",
+    "status": "ok",
+    "title": "Atris MCP for Audius (v2.4.0)"
+  },
+  {
+    "name": "AutoML",
+    "url": "https://github.com/emircansoftware/MCP_Server_DataScience",
+    "status": "ok",
+    "title": "Auto ML - Automated Machine Learning Platform"
+  },
+  {
+    "name": "Aviationstack",
+    "url": "https://github.com/Pradumnasaraf/aviationstack-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "AWS",
+    "url": "https://github.com/rishikavikondala/mcp-server-aws",
+    "status": "ok",
+    "title": "AWS MCP Server"
+  },
+  {
+    "name": "AWS Athena",
+    "url": "https://github.com/lishenxydlgzs/aws-athena-mcp",
+    "status": "ok",
+    "title": "@lishenxydlgzs/aws-athena-mcp"
+  },
+  {
+    "name": "AWS Cognito",
+    "url": "https://github.com/gitCarrot/mcp-server-aws-cognito",
+    "status": "ok",
+    "title": "AWS Cognito MCP Server"
+  },
+  {
+    "name": "AWS Cost Explorer",
+    "url": "https://github.com/aarora79/aws-cost-explorer-mcp-server",
+    "status": "ok",
+    "title": "AWS Cost Explorer and Amazon Bedrock Model Invocation Logs MCP Server & Client"
+  },
+  {
+    "name": "AWS Open Data",
+    "url": "https://github.com/domdomegg/aws-open-data-mcp",
+    "status": "ok",
+    "title": "AWS Open Data Registry MCP Server"
+  },
+  {
+    "name": "AWS Resources Operations",
+    "url": "https://github.com/baryhuang/mcp-server-aws-resources-python",
+    "status": "ok",
+    "title": "AWS Resources MCP Server"
+  },
+  {
+    "name": "AWS S3",
+    "url": "https://github.com/aws-samples/sample-mcp-server-s3",
+    "status": "ok",
+    "title": "Sample S3 Model Context Protocol Server"
+  },
+  {
+    "name": "AWS SES",
+    "url": "https://github.com/aws-samples/sample-for-amazon-ses-mcp",
+    "status": "ok",
+    "title": "Sample MCP Server for Amazon SES (SESv2)"
+  },
+  {
+    "name": "AX-Platform",
+    "url": "https://github.com/AX-MCP/PaxAI?tab=readme-ov-file#mcp-setup-guides",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Azure ADX",
+    "url": "https://github.com/pab1it0/adx-mcp-server",
+    "status": "ok",
+    "title": "Azure Data Explorer MCP Server"
+  },
+  {
+    "name": "Azure DevOps",
+    "url": "https://github.com/Vortiago/mcp-azure-devops",
+    "status": "ok",
+    "title": "MCP Azure DevOps Server"
+  },
+  {
+    "name": "Azure MCP Hub",
+    "url": "https://github.com/Azure-Samples/mcp",
+    "status": "ok",
+    "title": "Azure Model Context Protocol (MCP) Hub"
+  },
+  {
+    "name": "Azure OpenAI DALL-E 3 MCP Server",
+    "url": "https://github.com/jacwu/mcp-server-aoai-dalle3",
+    "status": "ok",
+    "title": "Azure OpenAI DALL-E 3 MCP Server"
+  },
+  {
+    "name": "Azure Wiki Search",
+    "url": "https://github.com/coder-linping/azure-wiki-search-server",
+    "status": "ok",
+    "title": "Azure Wiki Search Server"
+  },
+  {
+    "name": "Baidu AI Search",
+    "url": "https://github.com/baidubce/app-builder/tree/master/python/mcp_server/ai_search",
+    "status": "ok",
+    "title": "设置环境中的TOKEN，请替换为您的个人TOKEN"
+  },
+  {
+    "name": "BambooHR MCP",
+    "url": "https://github.com/encoreshao/bamboohr-mcp",
+    "status": "ok",
+    "title": "BambooHR MCP"
+  },
+  {
+    "name": "Base Free USDC Transfer",
+    "url": "https://github.com/magnetai/mcp-free-usdc-transfer",
+    "status": "ok",
+    "title": "Free USDC Transfer MCP Server"
+  },
+  {
+    "name": "Basic Memory",
+    "url": "https://github.com/basicmachines-co/basic-memory",
+    "status": "ok",
+    "title": "Basic Memory"
+  },
+  {
+    "name": "BGG MCP",
+    "url": "https://github.com/kkjdaniel/bgg-mcp",
+    "status": "ok",
+    "title": "Build the application (output goes to build/bgg-mcp)"
+  },
+  {
+    "name": "Bible",
+    "url": "https://github.com/trevato/bible-mcp",
+    "status": "ok",
+    "title": "Bible MCP Server"
+  },
+  {
+    "name": "BigQuery",
+    "url": "https://github.com/LucasHild/mcp-server-bigquery",
+    "status": "ok",
+    "title": "BigQuery MCP server"
+  },
+  {
+    "name": "BigQuery",
+    "url": "https://github.com/ergut/mcp-bigquery-server",
+    "status": "ok",
+    "title": "BigQuery MCP Server"
+  },
+  {
+    "name": "Bilibili",
+    "url": "https://github.com/wangshunnn/bilibili-mcp-server",
+    "status": "ok",
+    "title": "bilibili MCP Server"
+  },
+  {
+    "name": "Binance",
+    "url": "https://github.com/ethancod1ng/binance-mcp-server",
+    "status": "ok",
+    "title": "Binance MCP Server"
+  },
+  {
+    "name": "Binance",
+    "url": "https://github.com/AnalyticAce/BinanceMCPServer",
+    "status": "ok",
+    "title": "Binance MCP Server 🚀"
+  },
+  {
+    "name": "Bing Web Search API",
+    "url": "https://github.com/leehanchung/bing-search-mcp",
+    "status": "ok",
+    "title": "Bing Search MCP Server"
+  },
+  {
+    "name": "BioMCP",
+    "url": "https://github.com/genomoncology/biomcp",
+    "status": "ok",
+    "title": "BioMCP: Biomedical Model Context Protocol"
+  },
+  {
+    "name": "bioRxiv",
+    "url": "https://github.com/JackKuo666/bioRxiv-MCP-Server",
+    "status": "ok",
+    "title": "bioRxiv MCP Server"
+  },
+  {
+    "name": "Bitable MCP",
+    "url": "https://github.com/lloydzhou/bitable-mcp",
+    "status": "ok",
+    "title": "Bitable MCP Server"
+  },
+  {
+    "name": "Blender",
+    "url": "https://github.com/ahujasid/blender-mcp",
+    "status": "ok",
+    "title": "BlenderMCP - Blender Model Context Protocol Integration"
+  },
+  {
+    "name": "Blender MCP",
+    "url": "https://github.com/pranav-deshmukh/blender-mcp",
+    "status": "ok",
+    "title": "🌀 Blender MCP – Model Context Protocol server for Blender"
+  },
+  {
+    "name": "Blockbench MCP Plugin",
+    "url": "https://github.com/jasonjgardner/blockbench-mcp-plugin",
+    "status": "ok",
+    "title": "Blockbench MCP"
+  },
+  {
+    "name": "Blockchain MCP",
+    "url": "https://github.com/tatumio/blockchain-mcp",
+    "status": "ok",
+    "title": "Blockchain MCP powered by Tatum"
+  },
+  {
+    "name": "Bluesky",
+    "url": "https://github.com/semioz/bluesky-mcp",
+    "status": "ok",
+    "title": "Bluesky MCP Server"
+  },
+  {
+    "name": "Bluetooth MCP Server",
+    "url": "https://github.com/Hypijump31/bluetooth-mcp-server",
+    "status": "ok",
+    "title": "Bluetooth MCP Server"
+  },
+  {
+    "name": "BNBChain MCP",
+    "url": "https://github.com/bnb-chain/bnbchain-mcp",
+    "status": "ok",
+    "title": "BNBChain MCP (Model Context Protocol)"
+  },
+  {
+    "name": "Braintree",
+    "url": "https://github.com/QuentinCody/braintree-mcp-server",
+    "status": "ok",
+    "title": "Braintree MCP Server"
+  },
+  {
+    "name": "Brazilian Law",
+    "url": "https://github.com/pdmtt/brlaw_mcp_server/",
+    "status": "ok",
+    "title": "Servidor MCP de Pesquisa em Direito Brasileiro"
+  },
+  {
+    "name": "BreakoutRoom",
+    "url": "https://github.com/agree-able/room-mcp",
+    "status": "ok",
+    "title": "Room MCP"
+  },
+  {
+    "name": "Browser MCP",
+    "url": "https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser",
+    "status": "ok",
+    "title": "Luanch with `npx`."
+  },
+  {
+    "name": "browser-use",
+    "url": "https://github.com/co-browser/browser-use-mcp-server",
+    "status": "ok",
+    "title": "browser-use-mcp-server"
+  },
+  {
+    "name": "BrowserLoop",
+    "url": "https://github.com/mattiasw/browserloop",
+    "status": "ok",
+    "title": "BrowserLoop"
+  },
+  {
+    "name": "Bsc-mcp",
+    "url": "https://github.com/TermiX-official/bsc-mcp",
+    "status": "ok",
+    "title": "or"
+  },
+  {
+    "name": "BugBug MCP Server",
+    "url": "https://github.com/simplypixi/bugbug-mcp-server",
+    "status": "ok",
+    "title": "BugBug MCP Server"
+  },
+  {
+    "name": "BVG MCP Server - (Unofficial)",
+    "url": "https://github.com/svkaizoku/mcp-bvg",
+    "status": "ok",
+    "title": "BVG MCP Server"
+  },
+  {
+    "name": "Bybit",
+    "url": "https://github.com/ethancod1ng/bybit-mcp-server",
+    "status": "ok",
+    "title": "Bybit MCP Server"
+  },
+  {
+    "name": "C64 Bridge",
+    "url": "https://github.com/chrisgleissner/c64bridge",
+    "status": "ok",
+    "title": "C64 Bridge"
+  },
+  {
+    "name": "CAD-MCP",
+    "url": "https://github.com/daobataotie/CAD-MCP#",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Calculator",
+    "url": "https://github.com/githejie/mcp-server-calculator",
+    "status": "ok",
+    "title": "Calculator MCP Server"
+  },
+  {
+    "name": "CalDAV MCP",
+    "url": "https://github.com/dominik1001/caldav-mcp",
+    "status": "ok",
+    "title": "caldav-mcp"
+  },
+  {
+    "name": "Calendly-mcp-server",
+    "url": "https://github.com/meAmitPatil/calendly-mcp-server",
+    "status": "ok",
+    "title": "Calendly MCP Server"
+  },
+  {
+    "name": "Catalysis Hub",
+    "url": "https://github.com/QuentinCody/catalysishub-mcp-server",
+    "status": "ok",
+    "title": "Catalysis Hub MCP Server"
+  },
+  {
+    "name": "CCTV VMS MCP",
+    "url": "https://github.com/jyjune/mcp_vms",
+    "status": "ok",
+    "title": "MCP Server - VMS Integration"
+  },
+  {
+    "name": "CFBD API",
+    "url": "https://github.com/lenwood/cfbd-mcp-server",
+    "status": "ok",
+    "title": "College Football Data MCP Server"
+  },
+  {
+    "name": "ChatMCP",
+    "url": "https://github.com/AI-QL/chat-mcp",
+    "status": "ok",
+    "title": "MCP Chat Desktop App"
+  },
+  {
+    "name": "ChatSum",
+    "url": "https://github.com/mcpso/mcp-server-chatsum",
+    "status": "ok",
+    "title": "mcp-server-chatsum"
+  },
+  {
+    "name": "Chess.com",
+    "url": "https://github.com/pab1it0/chess-mcp",
+    "status": "ok",
+    "title": "Chess.com MCP Server"
+  },
+  {
+    "name": "Chessagine-mcp",
+    "url": "https://github.com/jalpp/chessagine-mcp",
+    "status": "ok",
+    "title": "ChessAgine MCP"
+  },
+  {
+    "name": "ChessPal Chess Engine (stockfish)",
+    "url": "https://github.com/wilson-urdaneta/chesspal-mcp-engine",
+    "status": "ok",
+    "title": "ChessPal Chess Engine - A Stockfish-powered chess engine exposed as an MCP server using FastMCP"
+  },
+  {
+    "name": "Chroma",
+    "url": "https://github.com/privetin/chroma",
+    "status": "ok",
+    "title": "Chroma MCP Server"
+  },
+  {
+    "name": "Chrome history",
+    "url": "https://github.com/vincent-pli/chrome-history-mcp",
+    "status": "ok",
+    "title": "A mcp server expose your Chrome history to AI"
+  },
+  {
+    "name": "cicada",
+    "url": "https://github.com/wende/cicada",
+    "status": "ok",
+    "title": "CICADA"
+  },
+  {
+    "name": "CIViC",
+    "url": "https://github.com/QuentinCody/civic-mcp-server",
+    "status": "ok",
+    "title": "CIViC MCP Server"
+  },
+  {
+    "name": "Claude Thread Continuity",
+    "url": "https://github.com/peless/claude-thread-continuity",
+    "status": "ok",
+    "title": "🧠 Claude Thread Continuity MCP Server"
+  },
+  {
+    "name": "claude-faf-mcp",
+    "url": "https://github.com/Wolfe-Jam/claude-faf-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "ClaudePost",
+    "url": "https://github.com/ZilongXue/claude-post",
+    "status": "ok",
+    "title": "ClaudePost"
+  },
+  {
+    "name": "CLDGeminiPDF Analyzer",
+    "url": "https://github.com/tfll37/CLDGeminiPDF-Analyzer",
+    "status": "ok",
+    "title": "CLDGeminiPDF MCP Server"
+  },
+  {
+    "name": "ClearML MCP",
+    "url": "https://github.com/prassanna-ravishankar/clearml-mcp",
+    "status": "ok",
+    "title": "ClearML MCP Server"
+  },
+  {
+    "name": "ClickUp",
+    "url": "https://github.com/TaazKareem/clickup-mcp-server",
+    "status": "ok",
+    "title": "Environment variable"
+  },
+  {
+    "name": "Cloudinary",
+    "url": "https://github.com/felores/cloudinary-mcp-server",
+    "status": "ok",
+    "title": "Cloudinary MCP Server"
+  },
+  {
+    "name": "CockroachDB",
+    "url": "https://github.com/amineelkouhen/mcp-cockroachdb",
+    "status": "ok",
+    "title": "CockroachDB MCP Server"
+  },
+  {
+    "name": "CockroachDB MCP Server",
+    "url": "https://github.com/viragtripathi/cockroachdb-mcp-server",
+    "status": "ok",
+    "title": "cockroachdb-mcp-server"
+  },
+  {
+    "name": "Code Screenshot Generator",
+    "url": "https://github.com/MoussaabBadla/code-screenshot-mcp",
+    "status": "ok",
+    "title": "Code Screenshot Generator MCP"
+  },
+  {
+    "name": "code-assistant",
+    "url": "https://github.com/stippi/code-assistant",
+    "status": "ok",
+    "title": "Code Assistant"
+  },
+  {
+    "name": "code-context-provider-mcp",
+    "url": "https://github.com/AB498/code-context-provider-mcp",
+    "status": "ok",
+    "title": "Code Context Provider MCP"
+  },
+  {
+    "name": "code-executor",
+    "url": "https://github.com/bazinga012/mcp_code_executor",
+    "status": "ok",
+    "title": "MCP Code Executor"
+  },
+  {
+    "name": "code-sandbox-mcp",
+    "url": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
+    "status": "ok",
+    "title": "Code Sandbox MCP 🐳"
+  },
+  {
+    "name": "cognee-mcp",
+    "url": "https://github.com/topoteretes/cognee/tree/main/cognee-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "coin_api_mcp",
+    "url": "https://github.com/longmans/coin_api_mcp",
+    "status": "ok",
+    "title": "Coin MCP Server"
+  },
+  {
+    "name": "CoinMarketCap",
+    "url": "https://github.com/shinzo-labs/coinmarketcap-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "commands",
+    "url": "https://github.com/g0t4/mcp-server-commands",
+    "status": "ok",
+    "title": "NOTE: make sure to review variants and sizes, so the model fits in your VRAM to perform well!"
+  },
+  {
+    "name": "Companies House MCP",
+    "url": "https://github.com/stefanoamorelli/companies-house-mcp",
+    "status": "ok",
+    "title": "Companies House MCP Server"
+  },
+  {
+    "name": "computer-control-mcp",
+    "url": "https://github.com/AB498/computer-control-mcp",
+    "status": "ok",
+    "title": "Computer Control MCP"
+  },
+  {
+    "name": "Computer-Use - Remote MacOS Use",
+    "url": "https://github.com/baryhuang/mcp-remote-macos-use",
+    "status": "ok",
+    "title": "MCP Server - Remote MacOs Use"
+  },
+  {
+    "name": "computer-use-mcp",
+    "url": "https://github.com/domdomegg/computer-use-mcp",
+    "status": "ok",
+    "title": "computer-use-mcp"
+  },
+  {
+    "name": "Congress.gov API",
+    "url": "https://github.com/AshwinSundar/congress_gov_mcp",
+    "status": "ok",
+    "title": "<span>Congress.gov</span> MCP server"
+  },
+  {
+    "name": "Console Automation",
+    "url": "https://github.com/ooples/mcp-console-automation",
+    "status": "ok",
+    "title": "Console Automation MCP Server"
+  },
+  {
+    "name": "consul-mcp",
+    "url": "https://github.com/kocierik/consul-mcp-server",
+    "status": "ok",
+    "title": "Consul MCP Server 🚀"
+  },
+  {
+    "name": "consult7",
+    "url": "https://github.com/szeider/consult7",
+    "status": "ok",
+    "title": "Consult7 MCP Server"
+  },
+  {
+    "name": "Contentful-mcp",
+    "url": "https://github.com/ivo-toby/contentful-mcp",
+    "status": "ok",
+    "title": "Contentful MCP Server"
+  },
+  {
+    "name": "Context Crystallizer",
+    "url": "https://github.com/hubertciebiada/context-crystallizer",
+    "status": "ok",
+    "title": "Context Crystallizer 💎"
+  },
+  {
+    "name": "Context Processor",
+    "url": "https://github.com/mschultheiss83/context-processor",
+    "status": "ok",
+    "title": "Context Processor"
+  },
+  {
+    "name": "context-portal",
+    "url": "https://github.com/GreatScottyMac/context-portal",
+    "status": "ok",
+    "title": "Context Portal MCP (ConPort)"
+  },
+  {
+    "name": "cplusplus-mcp",
+    "url": "https://github.com/kandrwmrtn/cplusplus_mcp",
+    "status": "ok",
+    "title": "C++ MCP Server"
+  },
+  {
+    "name": "CRASH",
+    "url": "https://github.com/nikkoxgonzales/crash-mcp",
+    "status": "ok",
+    "title": "Cascaded Reasoning with Adaptive Step Handling"
+  },
+  {
+    "name": "CreateveAI Nexus",
+    "url": "https://github.com/spgoodman/createveai-nexus-server",
+    "status": "ok",
+    "title": "Createve.AI Nexus: Enabling Real-World AI Agent Deployment 🚀"
+  },
+  {
+    "name": "Creatify",
+    "url": "https://github.com/TSavo/creatify-mcp",
+    "status": "ok",
+    "title": "🎬 Creatify MCP Server"
+  },
+  {
+    "name": "Cronlytic",
+    "url": "https://github.com/Cronlytic/cronlytic-mcp-server",
+    "status": "ok",
+    "title": "Cronlytic MCP Server"
+  },
+  {
+    "name": "crypto-feargreed-mcp",
+    "url": "https://github.com/kukapay/crypto-feargreed-mcp",
+    "status": "ok",
+    "title": "Crypto Fear & Greed Index MCP Server"
+  },
+  {
+    "name": "crypto-indicators-mcp",
+    "url": "https://github.com/kukapay/crypto-indicators-mcp",
+    "status": "ok",
+    "title": "Crypto Indicators MCP Server"
+  },
+  {
+    "name": "crypto-sentiment-mcp",
+    "url": "https://github.com/kukapay/crypto-sentiment-mcp",
+    "status": "ok",
+    "title": "Crypto Sentiment MCP Server"
+  },
+  {
+    "name": "cryptopanic-mcp-server",
+    "url": "https://github.com/kukapay/cryptopanic-mcp-server",
+    "status": "ok",
+    "title": "cryptopanic-mcp-server"
+  },
+  {
+    "name": "CSV Editor",
+    "url": "https://github.com/santoshray02/csv-editor",
+    "status": "ok",
+    "title": "CSV Editor - AI-Powered CSV Processing via MCP"
+  },
+  {
+    "name": "Current Time UTC MCP Server",
+    "url": "https://github.com/jairampatel/currenttimeutc-mcp",
+    "status": "ok",
+    "title": "CurrentTimeUTC MCP Server"
+  },
+  {
+    "name": "Cursor MCP Installer",
+    "url": "https://github.com/matthewdcage/cursor-mcp-installer",
+    "status": "ok",
+    "title": "Cursor MCP Installer"
+  },
+  {
+    "name": "CV Forge",
+    "url": "https://github.com/thechandanbhagat/cv-forge",
+    "status": "ok",
+    "title": "CV Forge"
+  },
+  {
+    "name": "CVE Intelligence Server",
+    "url": "https://github.com/gnlds/mcp-cve-intelligence-server-lite",
+    "status": "ok",
+    "title": "MCP CVE Intelligence Server Lite"
+  },
+  {
+    "name": "D365FO",
+    "url": "https://github.com/mafzaal/d365fo-client",
+    "status": "ok",
+    "title": "Dynamics 365 Finance & Operations MCP Server"
+  },
+  {
+    "name": "Dagster",
+    "url": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-dg-cli",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Dappier",
+    "url": "https://github.com/DappierAI/dappier-mcp",
+    "status": "ok",
+    "title": "Dappier MCP Server"
+  },
+  {
+    "name": "Data Exploration",
+    "url": "https://github.com/reading-plus-ai/mcp-server-data-exploration",
+    "status": "ok",
+    "title": "MCP Server for Data Exploration"
+  },
+  {
+    "name": "Data4library",
+    "url": "https://github.com/isnow890/data4library-mcp",
+    "status": "ok",
+    "title": "📚 정보나루 도서검색 MCP (data4library-mcp)"
+  },
+  {
+    "name": "Databricks",
+    "url": "https://github.com/JordiNeil/mcp-databricks-server",
+    "status": "ok",
+    "title": "Databricks MCP Server"
+  },
+  {
+    "name": "Databricks Genie",
+    "url": "https://github.com/yashshingvi/databricks-genie-MCP",
+    "status": "ok",
+    "title": "Databricks Genie MCP Server"
+  },
+  {
+    "name": "Databricks Smart SQL",
+    "url": "https://github.com/RafaelCartenet/mcp-databricks-server",
+    "status": "ok",
+    "title": "Databricks MCP Server"
+  },
+  {
+    "name": "DataCite",
+    "url": "https://github.com/QuentinCody/datacite-mcp-server",
+    "status": "ok",
+    "title": "DataCite MCP Server for Claude"
+  },
+  {
+    "name": "Datadog",
+    "url": "https://github.com/GeLi2001/datadog-mcp-server",
+    "status": "ok",
+    "title": "Datadog MCP Server"
+  },
+  {
+    "name": "Dataset Viewer",
+    "url": "https://github.com/privetin/dataset-viewer",
+    "status": "ok",
+    "title": "Dataset Viewer MCP Server"
+  },
+  {
+    "name": "Dataverse DevTools MCP Server",
+    "url": "https://github.com/vignaesh01/DataverseDevToolsMcpServer",
+    "status": "ok",
+    "title": "DataverseDevTools MCP Server"
+  },
+  {
+    "name": "DataWorks",
+    "url": "https://github.com/aliyun/alibabacloud-dataworks-mcp-server",
+    "status": "ok",
+    "title": "DataWorks MCP Server"
+  },
+  {
+    "name": "DaVinci Resolve",
+    "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+    "status": "ok",
+    "title": "DaVinci Resolve MCP Server"
+  },
+  {
+    "name": "DBHub",
+    "url": "https://github.com/bytebase/dbhub/",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Deebo",
+    "url": "https://github.com/snagasuri/deebo-prototype",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Deep Research",
+    "url": "https://github.com/reading-plus-ai/mcp-server-deep-research",
+    "status": "ok",
+    "title": "MCP Server for Deep Research"
+  },
+  {
+    "name": "DeepSeek MCP Server",
+    "url": "https://github.com/DMontgomery40/deepseek-mcp-server",
+    "status": "ok",
+    "title": "DeepSeek MCP Server"
+  },
+  {
+    "name": "deepseek-thinker-mcp",
+    "url": "https://github.com/ruixingshi/deepseek-thinker-mcp",
+    "status": "ok",
+    "title": "Deepseek Thinker MCP Server"
+  },
+  {
+    "name": "Deepseek_R1",
+    "url": "https://github.com/66julienmartin/MCP-server-Deepseek_R1",
+    "status": "ok",
+    "title": "Deepseek R1 MCP Server"
+  },
+  {
+    "name": "DeFi Rates",
+    "url": "https://github.com/qingfeng/defi-rates-mcp",
+    "status": "ok",
+    "title": "DeFi Rates MCP Server"
+  },
+  {
+    "name": "Defuddle Fetch",
+    "url": "https://github.com/domdomegg/defuddle-fetch-mcp-server",
+    "status": "ok",
+    "title": "defuddle-fetch-mcp-server"
+  },
+  {
+    "name": "deploy-mcp",
+    "url": "https://github.com/alexpota/deploy-mcp",
+    "status": "ok",
+    "title": "deploy-mcp"
+  },
+  {
+    "name": "Depyler",
+    "url": "https://github.com/paiml/depyler/blob/main/docs/mcp-integration.md",
+    "status": "ok",
+    "title": "Depyler"
+  },
+  {
+    "name": "Descope",
+    "url": "https://github.com/descope-sample-apps/descope-mcp-server",
+    "status": "ok",
+    "title": "Descope MCP Server"
+  },
+  {
+    "name": "DesktopCommander",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "status": "ok",
+    "title": "Desktop Commander MCP"
+  },
+  {
+    "name": "Devcontainer",
+    "url": "https://github.com/AI-QL/mcp-devcontainers",
+    "status": "ok",
+    "title": "MCP Devcontainers"
+  },
+  {
+    "name": "DevDb",
+    "url": "https://github.com/damms005/devdb-vscode?tab=readme-ov-file#mcp-configuration",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "DevOps AI Toolkit",
+    "url": "https://github.com/vfarcic/dot-ai",
+    "status": "ok",
+    "title": "DevOps AI Toolkit"
+  },
+  {
+    "name": "DevOps-MCP",
+    "url": "https://github.com/wangkanai/devops-mcp",
+    "status": "ok",
+    "title": "Azure DevOps MCP"
+  },
+  {
+    "name": "DGIdb",
+    "url": "https://github.com/QuentinCody/dgidb-mcp-server",
+    "status": "ok",
+    "title": "Interacting with the Drug Gene Interaction Database (DGIdb) via Claude Desktop"
+  },
+  {
+    "name": "Dicom",
+    "url": "https://github.com/ChristianHinge/dicom-mcp",
+    "status": "ok",
+    "title": "DICOM MCP Server for Medical Imaging Systems 🏥"
+  },
+  {
+    "name": "Dify",
+    "url": "https://github.com/YanxingLiu/dify-mcp-server",
+    "status": "ok",
+    "title": "Model Context Protocol (MCP) Server for dify workflows"
+  },
+  {
+    "name": "Discogs",
+    "url": "https://github.com/cswkim/discogs-mcp-server",
+    "status": "ok",
+    "title": "Discogs MCP Server"
+  },
+  {
+    "name": "Discord",
+    "url": "https://github.com/v-3/discordmcp",
+    "status": "ok",
+    "title": "Discord MCP Server"
+  },
+  {
+    "name": "Discord",
+    "url": "https://github.com/SaseQ/discord-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Discord",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/discord",
+    "status": "ok",
+    "title": "Run any MCP Integration"
+  },
+  {
+    "name": "Discourse",
+    "url": "https://github.com/AshDevFr/discourse-mcp-server",
+    "status": "ok",
+    "title": "Discourse MCP Server"
+  },
+  {
+    "name": "Dispatch Agent",
+    "url": "https://github.com/abhinav-mangla/dispatch-agent",
+    "status": "ok",
+    "title": "Dispatch Agent"
+  },
+  {
+    "name": "DocBase",
+    "url": "https://help.docbase.io/posts/3925317",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Docker",
+    "url": "https://github.com/ckreiling/mcp-server-docker",
+    "status": "ok",
+    "title": "🐋 Docker MCP server"
+  },
+  {
+    "name": "Docker",
+    "url": "https://github.com/0xshariq/docker-mcp-server",
+    "status": "ok",
+    "title": "Docker MCP Server"
+  },
+  {
+    "name": "Docs",
+    "url": "https://github.com/da1z/docsmcp",
+    "status": "ok",
+    "title": "DocsMCP"
+  },
+  {
+    "name": "documcp",
+    "url": "https://github.com/tosin2013/documcp",
+    "status": "ok",
+    "title": "DocuMCP - Intelligent Documentation Deployment MCP Server"
+  },
+  {
+    "name": "Docy",
+    "url": "https://github.com/oborchers/mcp-server-docy",
+    "status": "ok",
+    "title": "Docy: Documentation at Your AI's Fingertips"
+  },
+  {
+    "name": "Dodo Payments",
+    "url": "https://github.com/dodopayments/dodopayments-node/tree/main/packages/mcp-server",
+    "status": "ok",
+    "title": "Dodo Payments TypeScript API Library"
+  },
+  {
+    "name": "Domain Tools",
+    "url": "https://github.com/deshabhishek007/domain-tools-mcp-server",
+    "status": "ok",
+    "title": "Domain Tools MCP Server"
+  },
+  {
+    "name": "Downdetector",
+    "url": "https://github.com/domdomegg/downdetector-mcp",
+    "status": "ok",
+    "title": "downdetector-mcp"
+  },
+  {
+    "name": "DPLP",
+    "url": "https://github.com/szeider/mcp-dblp",
+    "status": "ok",
+    "title": "MCP-DBLP"
+  },
+  {
+    "name": "Druid MCP Server",
+    "url": "https://github.com/iunera/druid-mcp-server",
+    "status": "ok",
+    "title": "Druid MCP Server"
+  },
+  {
+    "name": "Drupal",
+    "url": "https://github.com/Omedia/mcp-server-drupal",
+    "status": "ok",
+    "title": "MCP Server for Drupal"
+  },
+  {
+    "name": "dune-analytics-mcp",
+    "url": "https://github.com/kukapay/dune-analytics-mcp",
+    "status": "ok",
+    "title": "Dune Analytics MCP Server"
+  },
+  {
+    "name": "DynamoDB-Toolbox",
+    "url": "https://www.dynamodbtoolbox.com/docs/databases/actions/mcp-toolkit",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "eBook-mcp",
+    "url": "https://github.com/onebirdrocks/ebook-mcp",
+    "status": "ok",
+    "title": "Ebook-MCP"
+  },
+  {
+    "name": "ECharts MCP Server",
+    "url": "https://github.com/hustcc/mcp-echarts",
+    "status": "ok",
+    "title": "<img src=\"https://echarts.apache.org/zh/images/favicon.png\" height=\"24\"/> MCP ECharts ![](https://badge.mcpx.dev?type=server 'MCP Server')  [![build](https://github.com/hustcc/mcp-echarts/actions/workflows/build.yml/badge.svg)](https://github.com/hustcc/mcp-echarts/actions/workflows/build.yml) [![npm Version](https://img.shields.io/npm/v/mcp-echarts.svg)](https://www.npmjs.com/package/mcp-echarts) [![smithery badge](https://smithery.ai/badge/@hustcc/mcp-echarts)](https://smithery.ai/server/@hustcc/mcp-echarts) [![npm License](https://img.shields.io/npm/l/mcp-echarts.svg)](https://www.npmjs.com/package/mcp-echarts) [![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/hustcc/mcp-echarts)](https://archestra.ai/mcp-catalog/hustcc__mcp-echarts)"
+  },
+  {
+    "name": "EDA MCP Server",
+    "url": "https://github.com/NellyW8/mcp-EDA",
+    "status": "ok",
+    "title": "EDA Tools MCP Server"
+  },
+  {
+    "name": "EdgeOne Pages MCP",
+    "url": "https://github.com/TencentEdgeOne/edgeone-pages-mcp",
+    "status": "ok",
+    "title": "EdgeOne Pages MCP"
+  },
+  {
+    "name": "Edwin",
+    "url": "https://github.com/edwin-finance/edwin/tree/main/examples/mcp-server",
+    "status": "ok",
+    "title": "edwin 🦉 - The DeFAI Layer"
+  },
+  {
+    "name": "eechat",
+    "url": "https://github.com/Lucassssss/eechat",
+    "status": "ok",
+    "title": "Clone repository"
+  },
+  {
+    "name": "Elasticsearch",
+    "url": "https://github.com/cr7258/elasticsearch-mcp-server",
+    "status": "ok",
+    "title": "Elasticsearch/OpenSearch MCP Server"
+  },
+  {
+    "name": "ElevenLabs",
+    "url": "https://github.com/mamertofabian/elevenlabs-mcp-server",
+    "status": "ok",
+    "title": "ElevenLabs MCP Server"
+  },
+  {
+    "name": "Email",
+    "url": "https://github.com/Shy2593666979/mcp-server-email",
+    "status": "ok",
+    "title": "MCP Email Server"
+  },
+  {
+    "name": "Email SMTP",
+    "url": "https://github.com/egyptianego17/email-mcp-server",
+    "status": "ok",
+    "title": "Email MCP Server"
+  },
+  {
+    "name": "Enhance Prompt",
+    "url": "https://github.com/FelixFoster/mcp-enhance-prompt",
+    "status": "ok",
+    "title": "[PromptPilot](https://promptpilot.online/) <img src=\"https://promptpilot.online/favicon.ico\" alt=\"PromptPilot\" style=\"width:28px;\"> - AI Prompt Guide & Enhancer"
+  },
+  {
+    "name": "Entrez",
+    "url": "https://github.com/QuentinCody/entrez-mcp-server",
+    "status": "ok",
+    "title": "NCBI Entrez MCP Server"
+  },
+  {
+    "name": "Ergo Blockchain MCP",
+    "url": "https://github.com/marctheshark3/ergo-mcp",
+    "status": "ok",
+    "title": "MCP Response Standardizer"
+  },
+  {
+    "name": "ESP MCP Server",
+    "url": "https://github.com/horw/esp-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Eunomia",
+    "url": "https://github.com/whataboutyou-ai/eunomia-MCP-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Everything Search",
+    "url": "https://github.com/mamertofabian/mcp-everything-search",
+    "status": "ok",
+    "title": "Everything Search MCP Server"
+  },
+  {
+    "name": "EVM MCP Server",
+    "url": "https://github.com/mcpdotdirect/evm-mcp-server",
+    "status": "ok",
+    "title": "EVM MCP Server"
+  },
+  {
+    "name": "Excel",
+    "url": "https://github.com/haris-musa/excel-mcp-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Excel to JSON MCP by WTSolutions",
+    "url": "https://github.com/he-yang/excel-to-json-mcp",
+    "status": "ok",
+    "title": "Excel to JSON MCP by WTSolutions"
+  },
+  {
+    "name": "Extended Memory",
+    "url": "https://github.com/ssmirnovpro/extended-memory-mcp",
+    "status": "ok",
+    "title": "Extended Memory MCP"
+  },
+  {
+    "name": "F1",
+    "url": "https://github.com/AbhiJ2706/f1-mcp/tree/main",
+    "status": "ok",
+    "title": "`f1-mcp`"
+  },
+  {
+    "name": "Fabi",
+    "url": "https://docs.fabi.ai/advanced_features_and_dev_tools/mcp_server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Fabric MCP",
+    "url": "https://github.com/aci-labs/ms-fabric-mcp",
+    "status": "ok",
+    "title": "Microsoft Fabric MCP Server"
+  },
+  {
+    "name": "Fabric Real-Time Intelligence MCP",
+    "url": "https://github.com/Microsoft/fabric-rti-mcp",
+    "status": "ok",
+    "title": "Interactive mode with menu"
+  },
+  {
+    "name": "fabric-mcp-server",
+    "url": "https://github.com/adapoet/fabric-mcp-server",
+    "status": "ok",
+    "title": "fabric-mcp-server"
+  },
+  {
+    "name": "Facebook Ads",
+    "url": "https://github.com/gomarble-ai/facebook-ads-mcp-server",
+    "status": "ok",
+    "title": "Facebook/Meta Ads MCP Server"
+  },
+  {
+    "name": "Facebook Ads 10xeR",
+    "url": "https://github.com/fortytwode/10xer",
+    "status": "ok",
+    "title": "Facebook Ads MCP Server"
+  },
+  {
+    "name": "Facebook Ads Library",
+    "url": "https://github.com/trypeggy/facebook-ads-library-mcp",
+    "status": "ok",
+    "title": "Facebook Ads Library MCP Server"
+  },
+  {
+    "name": "Fal MCP Server",
+    "url": "https://github.com/raveenb/fal-mcp-server",
+    "status": "ok",
+    "title": "🎨 Fal.ai MCP Server"
+  },
+  {
+    "name": "Fantasy PL",
+    "url": "https://github.com/rishijatia/fantasy-pl-mcp",
+    "status": "ok",
+    "title": "Fantasy Premier League MCP Server"
+  },
+  {
+    "name": "Fast Filesystem",
+    "url": "https://github.com/efforthye/fast-filesystem-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Fastmail MCP",
+    "url": "https://github.com/MadLlama25/fastmail-mcp",
+    "status": "ok",
+    "title": "Fastmail MCP Server"
+  },
+  {
+    "name": "fastn.ai – Unified API MCP Server",
+    "url": "https://github.com/fastnai/mcp-fastn",
+    "status": "ok",
+    "title": "Unified Context Layer (UCL) MCP Gateway"
+  },
+  {
+    "name": "FDIC BankFind MCP Server - (Unofficial)",
+    "url": "https://github.com/clafollett/fdic-bank-find-mcp-server",
+    "status": "ok",
+    "title": "🏦 FDIC BankFind MCP Server 🤠💻"
+  },
+  {
+    "name": "Federal Reserve Economic Data (FRED)",
+    "url": "https://github.com/stefanoamorelli/fred-mcp-server",
+    "status": "ok",
+    "title": "Federal Reserve Economic Data MCP Server"
+  },
+  {
+    "name": "Fetch",
+    "url": "https://github.com/zcaceres/fetch-mcp",
+    "status": "ok",
+    "title": "Fetch MCP Server"
+  },
+  {
+    "name": "Feyod",
+    "url": "https://github.com/jeroenvdmeer/feyod-mcp",
+    "status": "ok",
+    "title": "Feyod MCP Server"
+  },
+  {
+    "name": "FHIR",
+    "url": "https://github.com/wso2/fhir-mcp-server",
+    "status": "ok",
+    "title": "Model Context Protocol (MCP) Server for Fast Healthcare Interoperability Resources (FHIR) APIs"
+  },
+  {
+    "name": "Fibaro HC3",
+    "url": "https://github.com/coding-sailor/mcp-server-hc3",
+    "status": "ok",
+    "title": "MCP Server for Fibaro HC3"
+  },
+  {
+    "name": "Figma",
+    "url": "https://github.com/GLips/Figma-Context-MCP",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Figma",
+    "url": "https://github.com/paulvandermeijs/figma-mcp",
+    "status": "ok",
+    "title": "Figma MCP Server"
+  },
+  {
+    "name": "Figma to Flutter",
+    "url": "https://github.com/mhmzdev/figma-flutter-mcp",
+    "status": "ok",
+    "title": "プロジェクトをクローン/ダウンロード"
+  },
+  {
+    "name": "Files",
+    "url": "https://github.com/flesler/mcp-files",
+    "status": "ok",
+    "title": "MCP Tools"
+  },
+  {
+    "name": "FileSystem Server",
+    "url": "https://github.com/Oncorporation/filesystem_server",
+    "status": "ok",
+    "title": "For debugging in Visual Studio 2022:"
+  },
+  {
+    "name": "finmap.org",
+    "url": "https://github.com/finmap-org/mcp-server",
+    "status": "ok",
+    "title": "Finmap MCP Server"
+  },
+  {
+    "name": "Firebase",
+    "url": "https://github.com/gannonh/firebase-mcp",
+    "status": "ok",
+    "title": "Firebase MCP"
+  },
+  {
+    "name": "Fish Audio",
+    "url": "https://github.com/da-okazaki/mcp-fish-audio-server",
+    "status": "ok",
+    "title": "Fish Audio MCP Server"
+  },
+  {
+    "name": "FitBit MCP Server",
+    "url": "https://github.com/NitayRabi/fitbit-mcp",
+    "status": "ok",
+    "title": "Fitbit MCP (Model Context Protocol)"
+  },
+  {
+    "name": "Fleet",
+    "url": "https://github.com/SimplyMinimal/fleet-mcp",
+    "status": "ok",
+    "title": "Fleet MCP"
+  },
+  {
+    "name": "FlightRadar24",
+    "url": "https://github.com/sunsetcoder/flightradar24-mcp-server",
+    "status": "ok",
+    "title": "Flightradar24 MCP Server 🛩️"
+  },
+  {
+    "name": "Fluent-MCP",
+    "url": "https://github.com/modesty/fluent-mcp",
+    "status": "ok",
+    "title": "Fluent MCP Server"
+  },
+  {
+    "name": "Flyworks Avatar",
+    "url": "https://github.com/Flyworks-AI/flyworks-mcp",
+    "status": "ok",
+    "title": "Flyworks MCP: Free & Fast Zeroshot Lipsync Tool"
+  },
+  {
+    "name": "fmp-mcp-server",
+    "url": "https://github.com/vipbat/fmp-mcp-server",
+    "status": "ok",
+    "title": "FMP MCP Server"
+  },
+  {
+    "name": "FoundationModels",
+    "url": "https://github.com/phimage/mcp-foundation-models",
+    "status": "ok",
+    "title": "mcp-foundation-models"
+  },
+  {
+    "name": "Foursquare",
+    "url": "https://github.com/foursquare/foursquare-places-mcp",
+    "status": "ok",
+    "title": "MCP Server enabling access to the Foursquare API"
+  },
+  {
+    "name": "FPE Demo MCP",
+    "url": "https://github.com/Horizon-Digital-Engineering/fpe-demo-mcp",
+    "status": "ok",
+    "title": "FPE Demo MCP — FF3 Format Preserving Encryption Server"
+  },
+  {
+    "name": "FrankfurterMCP",
+    "url": "https://github.com/anirbanbasu/frankfurtermcp",
+    "status": "ok",
+    "title": "Frankfurter MCP"
+  },
+  {
+    "name": "freqtrade-mcp",
+    "url": "https://github.com/kukapay/freqtrade-mcp",
+    "status": "ok",
+    "title": "Freqtrade-MCP"
+  },
+  {
+    "name": "GDAL",
+    "url": "https://github.com/Wayfinder-Foundry/gdal-mcp",
+    "status": "ok",
+    "title": "GDAL MCP"
+  },
+  {
+    "name": "GDB",
+    "url": "https://github.com/pansila/mcp_server_gdb",
+    "status": "ok",
+    "title": "MCP Server GDB"
+  },
+  {
+    "name": "Gemini Bridge",
+    "url": "https://github.com/eLyiN/gemini-bridge",
+    "status": "ok",
+    "title": "Gemini Bridge"
+  },
+  {
+    "name": "Geolocation",
+    "url": "https://github.com/jackyang25/geolocation-mcp-server",
+    "status": "ok",
+    "title": "Geolocation MCP Server"
+  },
+  {
+    "name": "ggRMCP",
+    "url": "https://github.com/aalobaidi/ggRMCP",
+    "status": "ok",
+    "title": "ggRMCP - gRPC to MCP Gateway"
+  },
+  {
+    "name": "Ghost",
+    "url": "https://github.com/MFYDev/ghost-mcp",
+    "status": "ok",
+    "title": "Ghost MCP Server"
+  },
+  {
+    "name": "Git",
+    "url": "https://github.com/geropl/git-mcp-go",
+    "status": "ok",
+    "title": "Git MCP Server (Go)"
+  },
+  {
+    "name": "Git Mob",
+    "url": "https://github.com/Mubashwer/git-mob-mcp-server",
+    "status": "ok",
+    "title": "Git Mob MCP Server"
+  },
+  {
+    "name": "Github",
+    "url": "https://github.com/0xshariq/github-mcp-server",
+    "status": "ok",
+    "title": "Github MCP Server"
+  },
+  {
+    "name": "GitHub Actions",
+    "url": "https://github.com/ko1ynnky/github-actions-mcp-server",
+    "status": "ok",
+    "title": "GitHub Actions MCP Server"
+  },
+  {
+    "name": "GitHub Enterprise MCP",
+    "url": "https://github.com/ddukbg/github-enterprise-mcp",
+    "status": "ok",
+    "title": "GitHub Enterprise MCP Server"
+  },
+  {
+    "name": "GitHub GraphQL",
+    "url": "https://github.com/QuentinCody/github-graphql-mcp-server",
+    "status": "ok",
+    "title": "GitHub GraphQL MCP Server"
+  },
+  {
+    "name": "GitHub Projects",
+    "url": "https://github.com/redducklabs/github-projects-mcp",
+    "status": "ok",
+    "title": "GitHub Projects MCP Server"
+  },
+  {
+    "name": "GitHub Repos Manager MCP Server",
+    "url": "https://github.com/kurdin/github-repos-manager-mcp",
+    "status": "ok",
+    "title": "![github-svgrepo-logo](https://github.com/user-attachments/assets/24b48a9d-8d00-4212-921e-c0c4ddc223b6) GitHub Repos Manager MCP Server"
+  },
+  {
+    "name": "GitMCP",
+    "url": "https://github.com/idosal/git-mcp",
+    "status": "ok",
+    "title": "GitMCP"
+  },
+  {
+    "name": "Glean",
+    "url": "https://github.com/longyi1207/glean-mcp-server",
+    "status": "ok",
+    "title": "Glean"
+  },
+  {
+    "name": "Gmail",
+    "url": "https://github.com/GongRzhe/Gmail-MCP-Server",
+    "status": "ok",
+    "title": "Gmail AutoAuth MCP Server"
+  },
+  {
+    "name": "Gmail",
+    "url": "https://github.com/Ayush-k-Shukla/gmail-mcp-server",
+    "status": "ok",
+    "title": "Gmail MCP server"
+  },
+  {
+    "name": "Gmail Headless",
+    "url": "https://github.com/baryhuang/mcp-headless-gmail",
+    "status": "ok",
+    "title": "MCP Headless Gmail Server (NPM & Docker)"
+  },
+  {
+    "name": "Gmail MCP",
+    "url": "https://github.com/gangradeamitesh/mcp-google-email",
+    "status": "ok",
+    "title": "MCP Google Email Service"
+  },
+  {
+    "name": "Gnuradio",
+    "url": "https://github.com/yoelbassin/gnuradioMCP",
+    "status": "ok",
+    "title": "GR-MCP: A gnuradio MCP Server"
+  },
+  {
+    "name": "Goal Story",
+    "url": "https://github.com/hichana/goalstory-mcp",
+    "status": "ok",
+    "title": "Goal Story MCP Server"
+  },
+  {
+    "name": "GOAT",
+    "url": "https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol",
+    "status": "ok",
+    "title": "🐐 Overview"
+  },
+  {
+    "name": "Godot",
+    "url": "https://github.com/Coding-Solo/godot-mcp",
+    "status": "ok",
+    "title": "Godot MCP"
+  },
+  {
+    "name": "Golang Filesystem Server",
+    "url": "https://github.com/mark3labs/mcp-filesystem-server",
+    "status": "ok",
+    "title": "MCP Filesystem Server"
+  },
+  {
+    "name": "Goodnews",
+    "url": "https://github.com/VectorInstitute/mcp-goodnews",
+    "status": "ok",
+    "title": "MCP Goodnews"
+  },
+  {
+    "name": "Google Ads",
+    "url": "https://github.com/gomarble-ai/google-ads-mcp-server",
+    "status": "ok",
+    "title": "Google Ads MCP Server 🚀"
+  },
+  {
+    "name": "Google Analytics",
+    "url": "https://github.com/surendranb/google-analytics-mcp",
+    "status": "ok",
+    "title": "Google Analytics MCP Server"
+  },
+  {
+    "name": "Google Analytics 4",
+    "url": "https://github.com/gomakers-ai/mcp-google-analytics",
+    "status": "ok",
+    "title": "MCP Google Analytics Server"
+  },
+  {
+    "name": "Google Calendar",
+    "url": "https://github.com/v-3/google-calendar",
+    "status": "ok",
+    "title": "Google Calendar MCP Server"
+  },
+  {
+    "name": "Google Calendar",
+    "url": "https://github.com/nspady/google-calendar-mcp",
+    "status": "ok",
+    "title": "Google Calendar MCP Server"
+  },
+  {
+    "name": "Google Custom Search",
+    "url": "https://github.com/adenot/mcp-google-search",
+    "status": "ok",
+    "title": "mcp-google-server A MCP Server for Google Custom Search and Webpage Reading"
+  },
+  {
+    "name": "Google Maps",
+    "url": "https://github.com/Mastan1301/google_maps_mcp",
+    "status": "ok",
+    "title": "Google Maps MCP Server"
+  },
+  {
+    "name": "Google Sheets",
+    "url": "https://github.com/xing5/mcp-google-sheets",
+    "status": "ok",
+    "title": "Build the image"
+  },
+  {
+    "name": "Google Sheets",
+    "url": "https://github.com/rohans2/mcp-google-sheets",
+    "status": "ok",
+    "title": "MCP-Google-Sheets"
+  },
+  {
+    "name": "Google Tasks",
+    "url": "https://github.com/zcaceres/gtasks-mcp",
+    "status": "ok",
+    "title": "Google Tasks MCP Server"
+  },
+  {
+    "name": "Google Vertex AI Search",
+    "url": "https://github.com/ubie-oss/mcp-vertexai-search",
+    "status": "ok",
+    "title": "MCP Server for Vertex AI Search"
+  },
+  {
+    "name": "Google Workspace",
+    "url": "https://github.com/taylorwilsdon/google_workspace_mcp",
+    "status": "ok",
+    "title": "<span style=\"color:#cad8d9\">Google Workspace MCP Server</span> <img src=\"https://github.com/user-attachments/assets/b89524e4-6e6e-49e6-ba77-00d6df0c6e5c\" width=\"80\" align=\"right\" />"
+  },
+  {
+    "name": "Google-Scholar",
+    "url": "https://github.com/JackKuo666/Google-Scholar-MCP-Server",
+    "status": "ok",
+    "title": "Google Scholar MCP Server"
+  },
+  {
+    "name": "Google-Scholar",
+    "url": "https://github.com/mochow13/google-scholar-mcp",
+    "status": "ok",
+    "title": "Google Scholar MCP Server"
+  },
+  {
+    "name": "Gopher MCP",
+    "url": "https://github.com/cameronrye/gopher-mcp",
+    "status": "ok",
+    "title": "Gopher & Gemini MCP Server"
+  },
+  {
+    "name": "Gralio SaaS Database",
+    "url": "https://github.com/tymonTe/gralio-mcp",
+    "status": "ok",
+    "title": "Gralio SaaS Database MCP"
+  },
+  {
+    "name": "GraphQL",
+    "url": "https://github.com/drestrepom/mcp_graphql",
+    "status": "ok",
+    "title": "MCP GraphQL"
+  },
+  {
+    "name": "GraphQL Schema",
+    "url": "https://github.com/hannesj/mcp-graphql-schema",
+    "status": "ok",
+    "title": "GraphQL Schema Model Context Protocol Server"
+  },
+  {
+    "name": "Graylog",
+    "url": "https://github.com/Pranavj17/mcp-server-graylog",
+    "status": "ok",
+    "title": "mcp-server-graylog"
+  },
+  {
+    "name": "Grok-MCP",
+    "url": "https://github.com/merterbak/Grok-MCP",
+    "status": "ok",
+    "title": "Grok-MCP"
+  },
+  {
+    "name": "gx-mcp-server",
+    "url": "https://github.com/davidf9999/gx-mcp-server",
+    "status": "ok",
+    "title": "Great Expectations MCP Server"
+  },
+  {
+    "name": "HackMD",
+    "url": "https://github.com/yuna0x0/hackmd-mcp",
+    "status": "ok",
+    "title": "HackMD MCP Server"
+  },
+  {
+    "name": "HAProxy",
+    "url": "https://github.com/tuannvm/haproxy-mcp-server",
+    "status": "ok",
+    "title": "HAProxy MCP Server"
+  },
+  {
+    "name": "Hashing MCP Server",
+    "url": "https://github.com/kanad13/MCP-Server-for-Hashing",
+    "status": "ok",
+    "title": "MCP Server for cryptographic hashing"
+  },
+  {
+    "name": "HDW LinkedIn",
+    "url": "https://github.com/horizondatawave/hdw-mcp-server",
+    "status": "ok",
+    "title": "🌐 AnySite MCP Server"
+  },
+  {
+    "name": "HeatPump",
+    "url": "https://github.com/jiweiqi/heatpump-mcp-server",
+    "status": "ok",
+    "title": "HeatPump MCP Server"
+  },
+  {
+    "name": "Helm Chart CLI",
+    "url": "https://github.com/jeff-nasseri/helm-chart-cli-mcp",
+    "status": "ok",
+    "title": "Clone the repository"
+  },
+  {
+    "name": "Heurist Mesh Agent",
+    "url": "https://github.com/heurist-network/heurist-mesh-mcp-server",
+    "status": "ok",
+    "title": "Mesh Agent MCP Server"
+  },
+  {
+    "name": "HLedger MCP",
+    "url": "https://github.com/iiAtlas/hledger-mcp",
+    "status": "ok",
+    "title": "HLedger MCP Server"
+  },
+  {
+    "name": "Holaspirit",
+    "url": "https://github.com/syucream/holaspirit-mcp-server",
+    "status": "ok",
+    "title": "holaspirit-mcp-server"
+  },
+  {
+    "name": "Home Assistant",
+    "url": "https://github.com/tevonsb/homeassistant-mcp",
+    "status": "ok",
+    "title": "Model Context Protocol Server for Home Assistant"
+  },
+  {
+    "name": "Home Assistant",
+    "url": "https://github.com/voska/hass-mcp",
+    "status": "ok",
+    "title": "Hass-MCP"
+  },
+  {
+    "name": "HTML to Markdown",
+    "url": "https://github.com/levz0r/html-to-markdown-mcp",
+    "status": "ok",
+    "title": "HTML to Markdown MCP Server"
+  },
+  {
+    "name": "html2md-mcp",
+    "url": "https://github.com/sunshad0w/html2md-mcp",
+    "status": "ok",
+    "title": "HTML to Markdown MCP Server"
+  },
+  {
+    "name": "HubSpot",
+    "url": "https://github.com/buryhuang/mcp-hubspot",
+    "status": "ok",
+    "title": "HubSpot MCP Server"
+  },
+  {
+    "name": "HuggingFace Spaces",
+    "url": "https://github.com/evalstate/mcp-hfspace",
+    "status": "ok",
+    "title": "mcp-hfspace MCP Server 🤗"
+  },
+  {
+    "name": "Human-In-the-Loop",
+    "url": "https://github.com/GongRzhe/Human-In-the-Loop-MCP-Server",
+    "status": "ok",
+    "title": "Human-In-the-Loop MCP Server"
+  },
+  {
+    "name": "Human-use",
+    "url": "https://github.com/RapidataAI/human-use",
+    "status": "ok",
+    "title": "For MacOS/Linux"
+  },
+  {
+    "name": "Hyperledger Fabric Agent Suite",
+    "url": "https://github.com/padmarajkore/hlf-fabric-agent",
+    "status": "ok",
+    "title": "Hyperledger Fabric Agent Suite"
+  },
+  {
+    "name": "Hyperliquid",
+    "url": "https://github.com/mektigboy/server-hyperliquid",
+    "status": "ok",
+    "title": "Hyperliquid MCP Server"
+  },
+  {
+    "name": "Hypertool",
+    "url": "https://github.com/toolprint/hypertool-mcp",
+    "status": "ok",
+    "title": "In your project directory"
+  },
+  {
+    "name": "hyprmcp",
+    "url": "https://github.com/stefanoamorelli/hyprmcp",
+    "status": "ok",
+    "title": "Hyprland MCP Server"
+  },
+  {
+    "name": "iFlytek SparkAgent Platform",
+    "url": "https://github.com/iflytek/ifly-spark-agent-mcp",
+    "status": "ok",
+    "title": "ifly-spark-agent-mcp"
+  },
+  {
+    "name": "iFlytek Workflow",
+    "url": "https://github.com/iflytek/ifly-workflow-mcp-server",
+    "status": "ok",
+    "title": "iFlytek Workflow MCP Server"
+  },
+  {
+    "name": "IIIF",
+    "url": "https://github.com/code4history/IIIF_MCP",
+    "status": "ok",
+    "title": "IIIF MCP Server v1.1.0"
+  },
+  {
+    "name": "Image Generation",
+    "url": "https://github.com/GongRzhe/Image-Generation-MCP-Server",
+    "status": "ok",
+    "title": "Image Generation MCP Server"
+  },
+  {
+    "name": "ImageSorcery MCP",
+    "url": "https://github.com/sunriseapps/imagesorcery-mcp",
+    "status": "ok",
+    "title": "🪄 ImageSorcery MCP"
+  },
+  {
+    "name": "IMAP MCP",
+    "url": "https://github.com/dominik1001/imap-mcp",
+    "status": "ok",
+    "title": "imap-mcp"
+  },
+  {
+    "name": "iMCP",
+    "url": "https://github.com/loopwork-ai/iMCP",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "InfluxDB",
+    "url": "https://github.com/idoru/influxdb-mcp-server",
+    "status": "ok",
+    "title": "InfluxDB MCP Server"
+  },
+  {
+    "name": "Inner Monologue MCP",
+    "url": "https://github.com/abhinav-mangla/inner-monologue-mcp",
+    "status": "ok",
+    "title": "Inner Monologue MCP Server 🧠"
+  },
+  {
+    "name": "Inoyu",
+    "url": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
+    "status": "ok",
+    "title": "Inoyu Apache Unomi MCP Server"
+  },
+  {
+    "name": "Instagram DM",
+    "url": "https://github.com/trypeggy/instagram_dm_mcp",
+    "status": "ok",
+    "title": "Instagram DM MCP server"
+  },
+  {
+    "name": "Intelligent Image Generator",
+    "url": "https://github.com/shinpr/mcp-image",
+    "status": "ok",
+    "title": "🍌 MCP Image Generator"
+  },
+  {
+    "name": "interactive-mcp",
+    "url": "https://github.com/ttommyth/interactive-mcp",
+    "status": "ok",
+    "title": "interactive-mcp"
+  },
+  {
+    "name": "Intercom",
+    "url": "https://github.com/raoulbia-ai/mcp-server-for-intercom",
+    "status": "ok",
+    "title": "MCP Server for Intercom"
+  },
+  {
+    "name": "iOS Simulator",
+    "url": "https://github.com/InditexTech/mcp-server-simulator-ios-idb",
+    "status": "ok",
+    "title": "📱 MCP Server for iOS Simulator"
+  },
+  {
+    "name": "ipybox",
+    "url": "https://github.com/gradion-ai/ipybox",
+    "status": "ok",
+    "title": "ipybox"
+  },
+  {
+    "name": "it-tools-mcp",
+    "url": "https://github.com/wrenchpilot/it-tools-mcp",
+    "status": "ok",
+    "title": "IT Tools MCP Server"
+  },
+  {
+    "name": "itemit MCP",
+    "url": "https://github.com/umin-ai/itemit-mcp",
+    "status": "ok",
+    "title": "itemit-mcp"
+  },
+  {
+    "name": "iTerm MCP",
+    "url": "https://github.com/ferrislucas/iterm-mcp",
+    "status": "ok",
+    "title": "iterm-mcp"
+  },
+  {
+    "name": "iTerm MCP Server",
+    "url": "https://github.com/rishabkoul/iTerm-MCP-Server",
+    "status": "ok",
+    "title": "ITerm MCP Server"
+  },
+  {
+    "name": "Java Decompiler",
+    "url": "https://github.com/idachev/mcp-javadc",
+    "status": "ok",
+    "title": "MCP Java Decompiler Server (v1.2.4)"
+  },
+  {
+    "name": "JavaFX",
+    "url": "https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jfx",
+    "status": "ok",
+    "title": "Model Context Protocol Servers in Quarkus/Java"
+  },
+  {
+    "name": "JDBC",
+    "url": "https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc",
+    "status": "ok",
+    "title": "Model Context Protocol Servers in Quarkus/Java"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://github.com/jasonkylelol/jenkins-mcp-server",
+    "status": "ok",
+    "title": "jenkins-mcp-server"
+  },
+  {
+    "name": "JMeter",
+    "url": "https://github.com/QAInsights/jmeter-mcp-server",
+    "status": "ok",
+    "title": "🚀 JMeter MCP Server"
+  },
+  {
+    "name": "Job Searcher",
+    "url": "https://github.com/0xDAEF0F/job-searchoor",
+    "status": "ok",
+    "title": "Job Searchoor MCP Server"
+  },
+  {
+    "name": "jobswithgpt",
+    "url": "https://github.com/jobswithgpt/mcp",
+    "status": "ok",
+    "title": "MCP Create Server"
+  },
+  {
+    "name": "joinly",
+    "url": "https://github.com/joinly-ai/joinly",
+    "status": "ok",
+    "title": ":sparkles: Features"
+  },
+  {
+    "name": "JSON",
+    "url": "https://github.com/GongRzhe/JSON-MCP-Server",
+    "status": "ok",
+    "title": "JSON MCP Server (@gongrzhe/server-json-mcp@1.0.3)"
+  },
+  {
+    "name": "JSON",
+    "url": "https://github.com/kehvinbehvin/json-mcp-filter",
+    "status": "ok",
+    "title": "JSON MCP Filter"
+  },
+  {
+    "name": "JSON to Excel by WTSolutions",
+    "url": "https://github.com/he-yang/json-to-excel-mcp",
+    "status": "ok",
+    "title": "JSON to Excel MCP by WTSolutions"
+  },
+  {
+    "name": "JSON2Video MCP",
+    "url": "https://github.com/omergocmen/json2video-mcp-server",
+    "status": "ok",
+    "title": "json2video MCP Server"
+  },
+  {
+    "name": "jupiter-mcp",
+    "url": "https://github.com/kukapay/jupiter-mcp",
+    "status": "ok",
+    "title": "Jupiter MCP Server"
+  },
+  {
+    "name": "Jupyter MCP Server",
+    "url": "https://github.com/datalayer/jupyter-mcp-server",
+    "status": "ok",
+    "title": "🪐✨ Jupyter MCP Server"
+  },
+  {
+    "name": "Jupyter Notebook",
+    "url": "https://github.com/jjsantos01/jupyter-notebook-mcp",
+    "status": "ok",
+    "title": "JupyterMCP - Jupyter Notebook Model Context Protocol Integration"
+  },
+  {
+    "name": "k8s-multicluster-mcp",
+    "url": "https://github.com/razvanmacovei/k8s-multicluster-mcp",
+    "status": "ok",
+    "title": "Multi Cluster Kubernetes MCP Server"
+  },
+  {
+    "name": "Kafka",
+    "url": "https://github.com/tuannvm/kafka-mcp-server",
+    "status": "ok",
+    "title": "Kafka MCP Server"
+  },
+  {
+    "name": "Kafka Schema Registry MCP",
+    "url": "https://github.com/aywengo/kafka-schema-reg-mcp",
+    "status": "ok",
+    "title": "Kafka Schema Registry MCP Server"
+  },
+  {
+    "name": "kafka-mcp",
+    "url": "https://github.com/shivamxtech/kafka-mcp",
+    "status": "ok",
+    "title": "Kafka MCP"
+  },
+  {
+    "name": "Kaggle-mcp",
+    "url": "https://github.com/Seif-Sameh/Kaggle-mcp.git",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Keycloak",
+    "url": "https://github.com/idoyudha/mcp-keycloak",
+    "status": "ok",
+    "title": "Keycloak MCP Server"
+  },
+  {
+    "name": "Keycloak MCP",
+    "url": "https://github.com/ChristophEnglisch/keycloak-model-context-protocol",
+    "status": "ok",
+    "title": "Keycloak MCP Server"
+  },
+  {
+    "name": "Keycloak MCP Server",
+    "url": "https://github.com/sshaaf/keycloak-mcp-server",
+    "status": "ok",
+    "title": "Keycloak MCP Server"
+  },
+  {
+    "name": "Kibana MCP",
+    "url": "https://github.com/TocharianOU/mcp-server-kibana.git",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Kibela",
+    "url": "https://github.com/kiwamizamurai/mcp-kibela-server",
+    "status": "ok",
+    "title": "Kibela MCP Server"
+  },
+  {
+    "name": "KiCad MCP",
+    "url": "https://github.com/lamaalrajih/kicad-mcp",
+    "status": "ok",
+    "title": "KiCad MCP Server"
+  },
+  {
+    "name": "kill-process-mcp",
+    "url": "https://github.com/misiektoja/kill-process-mcp",
+    "status": "ok",
+    "title": "kill-process-mcp 🔫"
+  },
+  {
+    "name": "Kindred Offers & Discounts MCP",
+    "url": "https://github.com/kindred-app/mcp-server-kindred-offers",
+    "status": "ok",
+    "title": "Kindred Offers MCP Integration Guide"
+  },
+  {
+    "name": "kintone",
+    "url": "https://github.com/macrat/mcp-server-kintone",
+    "status": "ok",
+    "title": "kintone用のMCPサーバー"
+  },
+  {
+    "name": "KnowAir Weather MCP",
+    "url": "https://github.com/shuowang-ai/Weather-MCP",
+    "status": "ok",
+    "title": "设置API密钥"
+  },
+  {
+    "name": "Kokoro TTS",
+    "url": "https://github.com/mberg/kokoro-tts-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Kong Konnect",
+    "url": "https://github.com/Kong/mcp-konnect",
+    "status": "ok",
+    "title": "Kong Konnect MCP Server"
+  },
+  {
+    "name": "Korea Stock Analyzer",
+    "url": "https://github.com/Mrbaeksang/korea-stock-analyzer-mcp",
+    "status": "ok",
+    "title": "Korea Stock Analyzer MCP Server"
+  },
+  {
+    "name": "KRS Poland",
+    "url": "https://github.com/pkolawa/krs-poland-mcp-server",
+    "status": "ok",
+    "title": "KRS Poland MCP Server"
+  },
+  {
+    "name": "Kubeflow Spark History MCP Server",
+    "url": "https://github.com/kubeflow/mcp-apache-spark-history-server",
+    "status": "ok",
+    "title": "Kubeflow Spark History MCP Server"
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://github.com/Flux159/mcp-server-kubernetes",
+    "status": "ok",
+    "title": "MCP Server Kubernetes"
+  },
+  {
+    "name": "Kubernetes and OpenShift",
+    "url": "https://github.com/manusa/kubernetes-mcp-server",
+    "status": "ok",
+    "title": "Kubernetes MCP Server"
+  },
+  {
+    "name": "KubeSphere",
+    "url": "https://github.com/kubesphere/ks-mcp-server",
+    "status": "ok",
+    "title": "KubeSphere MCP Server"
+  },
+  {
+    "name": "Kukapay MCP Servers",
+    "url": "https://github.com/kukapay/kukapay-mcp-servers",
+    "status": "ok",
+    "title": "Kukapay MCP Servers"
+  },
+  {
+    "name": "kwrds.ai",
+    "url": "https://github.com/mkotsollaris/kwrds_ai_mcp",
+    "status": "ok",
+    "title": "kwrds.ai MCP Server"
+  },
+  {
+    "name": "KYC-mcp-server",
+    "url": "https://github.com/vishnurudra-ai/KYC-mcp-server",
+    "status": "ok",
+    "title": "System Diagnostics MCP Server"
+  },
+  {
+    "name": "Langflow MCP Server",
+    "url": "https://github.com/nobrainer-tech/langflow-mcp",
+    "status": "ok",
+    "title": "langflow-mcp-server"
+  },
+  {
+    "name": "Langflow-DOC-QA-SERVER",
+    "url": "https://github.com/GongRzhe/Langflow-DOC-QA-SERVER",
+    "status": "ok",
+    "title": "Langflow-DOC-QA-SERVER"
+  },
+  {
+    "name": "Language Server",
+    "url": "https://github.com/isaacphi/mcp-language-server",
+    "status": "ok",
+    "title": "MCP Language Server"
+  },
+  {
+    "name": "Large File MCP",
+    "url": "https://github.com/willianpinho/large-file-mcp",
+    "status": "ok",
+    "title": "Large File MCP Server"
+  },
+  {
+    "name": "Lark(Feishu)",
+    "url": "https://github.com/kone-net/mcp_server_lark",
+    "status": "ok",
+    "title": "MCP Server For Lark (Feishu)"
+  },
+  {
+    "name": "Lazy Toggl MCP",
+    "url": "https://github.com/movstox/lazy-toggl-mcp",
+    "status": "ok",
+    "title": "Lazy Toggl MCP Server"
+  },
+  {
+    "name": "lean-lsp-mcp",
+    "url": "https://github.com/oOo0oOo/lean-lsp-mcp",
+    "status": "ok",
+    "title": "Local-scoped MCP server"
+  },
+  {
+    "name": "librenms-mcp",
+    "url": "https://github.com/mhajder/librenms-mcp",
+    "status": "ok",
+    "title": "LibreNMS MCP Server"
+  },
+  {
+    "name": "libvirt-mcp",
+    "url": "https://github.com/MatiasVara/libvirt-mcp",
+    "status": "ok",
+    "title": "libvirt-mcp"
+  },
+  {
+    "name": "Lightdash",
+    "url": "https://github.com/syucream/lightdash-mcp-server",
+    "status": "ok",
+    "title": "lightdash-mcp-server"
+  },
+  {
+    "name": "LINE",
+    "url": "https://github.com/amornpan/py-mcp-line",
+    "status": "ok",
+    "title": "Python LINE MCP Server"
+  },
+  {
+    "name": "Linear",
+    "url": "https://github.com/tacticlaunch/mcp-linear",
+    "status": "ok",
+    "title": "MCP Linear"
+  },
+  {
+    "name": "Linear",
+    "url": "https://github.com/jerhadf/linear-mcp-server",
+    "status": "ok",
+    "title": "Linear MCP Server"
+  },
+  {
+    "name": "Linear (Go)",
+    "url": "https://github.com/geropl/linear-mcp-go",
+    "status": "ok",
+    "title": "Linear MCP Server"
+  },
+  {
+    "name": "Linear MCP",
+    "url": "https://github.com/anoncam/linear-mcp",
+    "status": "ok",
+    "title": "Linear MCP Server"
+  },
+  {
+    "name": "Linked API MCP",
+    "url": "https://github.com/Linked-API/linkedapi-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Listmonk MCP Server",
+    "url": "https://github.com/rhnvrm/listmonk-mcp",
+    "status": "ok",
+    "title": "Listmonk MCP Server"
+  },
+  {
+    "name": "LlamaCloud",
+    "url": "https://github.com/run-llama/mcp-server-llamacloud",
+    "status": "ok",
+    "title": "LlamaCloud MCP Server"
+  },
+  {
+    "name": "lldb-mcp",
+    "url": "https://github.com/stass/lldb-mcp",
+    "status": "ok",
+    "title": "LLDB-MCP"
+  },
+  {
+    "name": "llm-context",
+    "url": "https://github.com/cyberchitta/llm-context.py",
+    "status": "ok",
+    "title": "LLM Context"
+  },
+  {
+    "name": "Local History",
+    "url": "https://github.com/xxczaki/local-history-mcp",
+    "status": "ok",
+    "title": "Local History MCP Server"
+  },
+  {
+    "name": "Local RAG",
+    "url": "https://github.com/shinpr/mcp-local-rag",
+    "status": "ok",
+    "title": "MCP Local RAG"
+  },
+  {
+    "name": "Locust",
+    "url": "https://github.com/QAInsights/locust-mcp-server",
+    "status": "ok",
+    "title": "🚀 ⚡️ locust-mcp-server"
+  },
+  {
+    "name": "Loki",
+    "url": "https://github.com/scottlepp/loki-mcp",
+    "status": "ok",
+    "title": "Loki MCP Server"
+  },
+  {
+    "name": "Loki MCP Server",
+    "url": "https://github.com/mo-silent/loki-mcp-server",
+    "status": "ok",
+    "title": "Loki MCP Server"
+  },
+  {
+    "name": "LottieFiles",
+    "url": "https://github.com/junmer/mcp-server-lottiefiles",
+    "status": "ok",
+    "title": "LottieFiles MCP Server"
+  },
+  {
+    "name": "lsp-mcp",
+    "url": "https://github.com/Tritlo/lsp-mcp",
+    "status": "ok",
+    "title": "LSP MCP Server"
+  },
+  {
+    "name": "Lspace",
+    "url": "https://github.com/Lspace-io/lspace-server",
+    "status": "ok",
+    "title": "Lspace API & MCP Server"
+  },
+  {
+    "name": "lucene-mcp-server",
+    "url": "https://github.com/VivekKumarNeu/MCP-Lucene-Server",
+    "status": "ok",
+    "title": "MCP Lucene Server"
+  },
+  {
+    "name": "lucid-mcp-server",
+    "url": "https://github.com/smartzan63/lucid-mcp-server",
+    "status": "ok",
+    "title": "Lucid MCP Server"
+  },
+  {
+    "name": "LunarCrush Remote MCP",
+    "url": "https://github.com/lunarcrush/mcp-server",
+    "status": "ok",
+    "title": "LunarCrush Remote MCP Server (preferred)"
+  },
+  {
+    "name": "mac-messages-mcp",
+    "url": "https://github.com/carterlasalle/mac_messages_mcp",
+    "status": "ok",
+    "title": "Mac Messages MCP"
+  },
+  {
+    "name": "Maestro MCP",
+    "url": "https://github.com/maestro-org/maestro-mcp",
+    "status": "ok",
+    "title": "Maestro MCP Server"
+  },
+  {
+    "name": "Magg: The MCP Aggregator",
+    "url": "https://github.com/sitbon/magg",
+    "status": "ok",
+    "title": "🧲 **Magg** - *The MCP Aggregator*"
+  },
+  {
+    "name": "Mailchimp MCP",
+    "url": "https://github.com/AgentX-ai/mailchimp-mcp",
+    "status": "ok",
+    "title": "Mailchimp MCP Server"
+  },
+  {
+    "name": "MailNet",
+    "url": "https://github.com/Astroa7m/MailNet-MCP-Server",
+    "status": "ok",
+    "title": "📬 MailNet MCP Server"
+  },
+  {
+    "name": "MalwareBazaar_MCP",
+    "url": "https://github.com/mytechnotalent/MalwareBazaar_MCP",
+    "status": "ok",
+    "title": "MalwareBazaar_MCP"
+  },
+  {
+    "name": "man-mcp-server",
+    "url": "https://github.com/guyru/man-mcp-server",
+    "status": "ok",
+    "title": "MCP Man Pages Server"
+  },
+  {
+    "name": "Mandoline",
+    "url": "https://github.com/mandoline-ai/mandoline-mcp-server",
+    "status": "ok",
+    "title": "Mandoline MCP Server"
+  },
+  {
+    "name": "MariaDB",
+    "url": "https://github.com/abel9851/mcp-server-mariadb",
+    "status": "ok",
+    "title": "mcp-server-mariadb"
+  },
+  {
+    "name": "Markdown2doc",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/pandoc",
+    "status": "ok",
+    "title": "Run any MCP Integration"
+  },
+  {
+    "name": "Markdownify",
+    "url": "https://github.com/zcaceres/mcp-markdownify-server",
+    "status": "ok",
+    "title": "Markdownify MCP Server"
+  },
+  {
+    "name": "market-fiyati",
+    "url": "https://github.com/mtcnbzks/market-fiyati-mcp-server",
+    "status": "ok",
+    "title": "Market Fiyatı MCP Server"
+  },
+  {
+    "name": "Markitdown",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/markitdown",
+    "status": "ok",
+    "title": "Run any MCP Integration"
+  },
+  {
+    "name": "Masquerade",
+    "url": "https://github.com/postralai/masquerade",
+    "status": "ok",
+    "title": "Masquerade MCP: Redact. Replace. Retain Control."
+  },
+  {
+    "name": "MasterGo",
+    "url": "https://github.com/mastergo-design/mastergo-magic-mcp",
+    "status": "ok",
+    "title": "MasterGo Magic MCP"
+  },
+  {
+    "name": "Matlab-MCP-Tools",
+    "url": "https://github.com/neuromechanist/matlab-mcp-tools",
+    "status": "ok",
+    "title": "MATLAB MCP Tool"
+  },
+  {
+    "name": "Maton",
+    "url": "https://github.com/maton-ai/agent-toolkit/tree/main/modelcontextprotocol",
+    "status": "ok",
+    "title": "Maton Agent Toolkit"
+  },
+  {
+    "name": "Matrix",
+    "url": "https://github.com/mjknowles/matrix-mcp-server",
+    "status": "ok",
+    "title": "Matrix MCP Server"
+  },
+  {
+    "name": "Maven Tools MCP",
+    "url": "https://github.com/arvindand/maven-tools-mcp",
+    "status": "ok",
+    "title": "Maven Tools MCP Server"
+  },
+  {
+    "name": "Maybe Don't AI Policy Engine",
+    "url": "https://www.maybedont.ai/download/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "MCP Bundles Hub",
+    "url": "https://github.com/thinkchainai/mcpbundles",
+    "status": "ok",
+    "title": "MCP Bundles Hub MCP Server"
+  },
+  {
+    "name": "MCP Compass",
+    "url": "https://github.com/liuyoshio/mcp-compass",
+    "status": "ok",
+    "title": "MCP Compass 🧭"
+  },
+  {
+    "name": "MCP Context Provider",
+    "url": "https://github.com/doobidoo/MCP-Context-Provider",
+    "status": "ok",
+    "title": "MCP Context Provider"
+  },
+  {
+    "name": "MCP Create",
+    "url": "https://github.com/tesla0225/mcp-create",
+    "status": "ok",
+    "title": "MCP Create Server"
+  },
+  {
+    "name": "MCP Documentation Server",
+    "url": "https://github.com/andrea9293/mcp-documentation-server",
+    "status": "ok",
+    "title": "MCP Documentation Server"
+  },
+  {
+    "name": "MCP Dynamic Tool Groups",
+    "url": "https://github.com/ECF/MCPToolGroups",
+    "status": "ok",
+    "title": "MCP Dynamic Tool Groups"
+  },
+  {
+    "name": "MCP Installer",
+    "url": "https://github.com/anaisbetts/mcp-installer",
+    "status": "ok",
+    "title": "mcp-installer - A MCP Server to install MCP Servers"
+  },
+  {
+    "name": "MCP on Android TV",
+    "url": "https://github.com/MiddlePoint-Solutions/mcp-on-android-tv",
+    "status": "ok",
+    "title": "MCP on Android TV"
+  },
+  {
+    "name": "MCP OpenProject Server",
+    "url": "https://github.com/boma086/mcp-openproject",
+    "status": "ok",
+    "title": "MCP OpenProject Server"
+  },
+  {
+    "name": "MCP ProjectManage OpenProject",
+    "url": "https://github.com/boma086/mcp-projectmanage-openproject",
+    "status": "ok",
+    "title": "OpenProject MCP 服务器"
+  },
+  {
+    "name": "MCP Proxy Server",
+    "url": "https://github.com/TBXark/mcp-proxy",
+    "status": "ok",
+    "title": "MCP Proxy Server"
+  },
+  {
+    "name": "MCP Server Creator",
+    "url": "https://github.com/GongRzhe/MCP-Server-Creator",
+    "status": "ok",
+    "title": "MCP Server Creator 🏗️"
+  },
+  {
+    "name": "MCP Server Generator",
+    "url": "https://github.com/SerhatUzbas/mcp-server-generator",
+    "status": "ok",
+    "title": "MCP Server Generator"
+  },
+  {
+    "name": "MCP STDIO to Streamable HTTP Adapter",
+    "url": "https://github.com/pyroprompts/mcp-stdio-to-streamable-http-adapter",
+    "status": "ok",
+    "title": "mcp-stdio-to-streamable-http-adapter MCP Server"
+  },
+  {
+    "name": "MCP Toolz",
+    "url": "https://github.com/taylorleese/mcp-toolz",
+    "status": "ok",
+    "title": "MCP Toolz"
+  },
+  {
+    "name": "MCP-Airflow-API",
+    "url": "https://github.com/call518/MCP-Airflow-API",
+    "status": "ok",
+    "title": "🚀 MCP-Airflow-API"
+  },
+  {
+    "name": "MCP-Ambari-API",
+    "url": "https://github.com/call518/MCP-Ambari-API",
+    "status": "ok",
+    "title": "MCP Ambari API - Apache Hadoop Cluster Management Automation"
+  },
+  {
+    "name": "mcp-containerd",
+    "url": "https://github.com/jokemanfire/mcp-containerd",
+    "status": "ok",
+    "title": "MCP Containerd"
+  },
+  {
+    "name": "MCP-Database-Server",
+    "url": "https://github.com/executeautomation/mcp-database-server",
+    "status": "ok",
+    "title": "MCP Database Server"
+  },
+  {
+    "name": "mcp-grep",
+    "url": "https://github.com/erniebrodeur/mcp-grep",
+    "status": "ok",
+    "title": "MCP-Grep"
+  },
+  {
+    "name": "mcp-k8s-go",
+    "url": "https://github.com/strowk/mcp-k8s-go",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "mcp-local-rag",
+    "url": "https://github.com/nkapila6/mcp-local-rag",
+    "status": "ok",
+    "title": "mcp-local-rag"
+  },
+  {
+    "name": "mcp-mcp",
+    "url": "https://github.com/wojtyniak/mcp-mcp",
+    "status": "ok",
+    "title": "MCP-MCP: Meta-MCP Server"
+  },
+  {
+    "name": "mcp-meme-sticky",
+    "url": "https://github.com/nkapila6/mcp-meme-sticky",
+    "status": "ok",
+    "title": "mcp-meme-sticky"
+  },
+  {
+    "name": "mcp-memory-service",
+    "url": "https://github.com/doobidoo/mcp-memory-service",
+    "status": "ok",
+    "title": "MCP Memory Service"
+  },
+  {
+    "name": "mcp-n8n",
+    "url": "https://github.com/gomakers-ai/mcp-n8n",
+    "status": "ok",
+    "title": "MCP n8n Server"
+  },
+  {
+    "name": "MCP-NixOS",
+    "url": "https://github.com/utensils/mcp-nixos",
+    "status": "ok",
+    "title": "MCP-NixOS - Because Your AI Assistant Shouldn't Hallucinate About Packages"
+  },
+  {
+    "name": "mcp-notify",
+    "url": "https://github.com/aahl/mcp-notify",
+    "status": "ok",
+    "title": "💬 Notify MCP Server"
+  },
+  {
+    "name": "mcp-open-library",
+    "url": "https://github.com/8enSmith/mcp-open-library",
+    "status": "ok",
+    "title": "MCP Open Library"
+  },
+  {
+    "name": "MCP-OpenStack-Ops",
+    "url": "https://github.com/call518/MCP-OpenStack-Ops",
+    "status": "ok",
+    "title": "MCP-OpenStack-Ops"
+  },
+  {
+    "name": "MCP-PostgreSQL-Ops",
+    "url": "https://github.com/call518/MCP-PostgreSQL-Ops",
+    "status": "ok",
+    "title": "MCP Server for PostgreSQL Operations and Monitoring"
+  },
+  {
+    "name": "mcp-proxy",
+    "url": "https://github.com/sparfenyuk/mcp-proxy",
+    "status": "ok",
+    "title": "mcp-proxy"
+  },
+  {
+    "name": "mcp-proxy",
+    "url": "https://github.com/mikluko/mcp-proxy",
+    "status": "ok",
+    "title": "mcp-proxy"
+  },
+  {
+    "name": "mcp-read-website-fast",
+    "url": "https://github.com/just-every/mcp-read-website-fast",
+    "status": "ok",
+    "title": "@just-every/mcp-read-website-fast"
+  },
+  {
+    "name": "mcp-salesforce",
+    "url": "https://github.com/lciesielski/mcp-salesforce-example",
+    "status": "ok",
+    "title": "Salesforce MCP Sample Integration"
+  },
+  {
+    "name": "mcp-sanctions",
+    "url": "https://github.com/madupay/mcp-sanctions",
+    "status": "ok",
+    "title": "Sanctions MCP Server"
+  },
+  {
+    "name": "mcp-screenshot-website-fast",
+    "url": "https://github.com/just-every/mcp-screenshot-website-fast",
+    "status": "ok",
+    "title": "@just-every/mcp-screenshot-website-fast"
+  },
+  {
+    "name": "mcp-server-leetcode",
+    "url": "https://github.com/doggybee/mcp-server-leetcode",
+    "status": "ok",
+    "title": "MCP Server LeetCode"
+  },
+  {
+    "name": "Mcp-Swagger-Server",
+    "url": "https://github.com/zaizaizhao/mcp-swagger-server",
+    "status": "ok",
+    "title": "MCP Swagger Server(mss)"
+  },
+  {
+    "name": "mcp-vision",
+    "url": "https://github.com/groundlight/mcp-vision",
+    "status": "ok",
+    "title": "mcp-vision by <img src=\"images/gl_logo.png\" height=25>"
+  },
+  {
+    "name": "mcp-weather",
+    "url": "https://github.com/TimLukaHorstmann/mcp-weather",
+    "status": "ok",
+    "title": "MCP Weather Server"
+  },
+  {
+    "name": "mcp-youtube-extract",
+    "url": "https://github.com/sinjab/mcp_youtube_extract",
+    "status": "ok",
+    "title": "MCP YouTube Extract"
+  },
+  {
+    "name": "mcp_weather",
+    "url": "https://github.com/isdaniel/mcp_weather_server",
+    "status": "ok",
+    "title": "Weather MCP Server"
+  },
+  {
+    "name": "mcpcap",
+    "url": "https://github.com/mcpcap/mcpcap",
+    "status": "ok",
+    "title": "mcpcap"
+  },
+  {
+    "name": "MCPfinder",
+    "url": "https://github.com/mcpfinder/server",
+    "status": "ok",
+    "title": "MCPfinder 🔧🤖 (`@mcpfinder/server`)"
+  },
+  {
+    "name": "MCPIgnore Filesytem",
+    "url": "https://github.com/CyberhavenInc/filesystem-mcpignore",
+    "status": "ok",
+    "title": "Filesystem MCP Server with `.mcpignore` support"
+  },
+  {
+    "name": "MCPJungle",
+    "url": "https://github.com/mcpjungle/MCPJungle",
+    "status": "ok",
+    "title": "Who should use MCPJungle?"
+  },
+  {
+    "name": "MCPShell",
+    "url": "https://github.com/inercia/mcpshell",
+    "status": "ok",
+    "title": "MCPShell"
+  },
+  {
+    "name": "Md2doc",
+    "url": "https://github.com/Yorick-Ryu/md2doc-mcp",
+    "status": "ok",
+    "title": "md2doc - Markdown to DOCX MCP Server"
+  },
+  {
+    "name": "MeasureSpace MCP",
+    "url": "https://github.com/MeasureSpace/measure-space-mcp-server",
+    "status": "ok",
+    "title": "MCP Server for Measure Space API Services"
+  },
+  {
+    "name": "MediaWiki",
+    "url": "https://github.com/ProfessionalWiki/MediaWiki-MCP-Server",
+    "status": "ok",
+    "title": "MediaWiki MCP Server"
+  },
+  {
+    "name": "MediaWiki MCP adapter",
+    "url": "https://github.com/lucamauri/MediaWiki-MCP-adapter",
+    "status": "ok",
+    "title": "MediaWikiAdapter"
+  },
+  {
+    "name": "medRxiv",
+    "url": "https://github.com/JackKuo666/medRxiv-MCP-Server",
+    "status": "ok",
+    "title": "medRxiv MCP Server"
+  },
+  {
+    "name": "mem0-mcp",
+    "url": "https://github.com/mem0ai/mem0-mcp",
+    "status": "ok",
+    "title": "MCP Server with Mem0 for Managing Coding Preferences"
+  },
+  {
+    "name": "Membase",
+    "url": "https://github.com/unibaseio/membase-mcp",
+    "status": "ok",
+    "title": "membase mcp server"
+  },
+  {
+    "name": "Meme MCP",
+    "url": "https://github.com/lidorshimoni/meme-mcp",
+    "status": "ok",
+    "title": "Meme MCP Server"
+  },
+  {
+    "name": "memento-mcp",
+    "url": "https://github.com/gannonh/memento-mcp",
+    "status": "ok",
+    "title": "Memento MCP: A Knowledge Graph Memory System for LLMs"
+  },
+  {
+    "name": "memos-api-mcp",
+    "url": "https://github.com/MemTensor/memos-api-mcp",
+    "status": "ok",
+    "title": "MCP Server for MemOS API"
+  },
+  {
+    "name": "Meta Ads Remote MCP",
+    "url": "https://github.com/pipeboard-co/meta-ads-mcp",
+    "status": "ok",
+    "title": "Meta Ads MCP"
+  },
+  {
+    "name": "MetaTrader MCP",
+    "url": "https://github.com/ariadng/metatrader-mcp-server",
+    "status": "ok",
+    "title": "Get account info"
+  },
+  {
+    "name": "Metricool MCP",
+    "url": "https://github.com/metricool/mcp-metricool",
+    "status": "ok",
+    "title": "Metricool MCP Server"
+  },
+  {
+    "name": "Microsoft 365",
+    "url": "https://github.com/merill/lokka",
+    "status": "ok",
+    "title": "Lokka"
+  },
+  {
+    "name": "Microsoft 365",
+    "url": "https://github.com/softeria/ms-365-mcp-server",
+    "status": "ok",
+    "title": "ms-365-mcp-server"
+  },
+  {
+    "name": "Microsoft 365",
+    "url": "https://github.com/pnp/cli-microsoft365-mcp-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Microsoft 365 Files (SharePoint/OneDrive)",
+    "url": "https://github.com/godwin3737/mcp-server-microsoft365-filesearch",
+    "status": "ok",
+    "title": "MCP Server - Microsoft 365 File Search  (SharePoint & OneDrive)"
+  },
+  {
+    "name": "Microsoft Teams",
+    "url": "https://github.com/InditexTech/mcp-teams-server",
+    "status": "ok",
+    "title": "MCP Teams Server"
+  },
+  {
+    "name": "Mifos X",
+    "url": "https://github.com/openMF/mcp-mifosx",
+    "status": "ok",
+    "title": "Mifos MCP - Model Context Protocol (MCP)"
+  },
+  {
+    "name": "Mikrotik",
+    "url": "https://github.com/jeff-nasseri/mikrotik-mcp",
+    "status": "ok",
+    "title": "Clone the repository"
+  },
+  {
+    "name": "Mindmap",
+    "url": "https://github.com/YuChenSSR/mindmap-mcp-server",
+    "status": "ok",
+    "title": "Mindmap MCP Server"
+  },
+  {
+    "name": "Minima",
+    "url": "https://github.com/dmayboroda/minima",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "MLflow",
+    "url": "https://github.com/kkruglik/mlflow-mcp",
+    "status": "ok",
+    "title": "MLflow MCP Server"
+  },
+  {
+    "name": "Mobile MCP",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "status": "ok",
+    "title": "Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and Real Devices"
+  },
+  {
+    "name": "Modao Proto MCP",
+    "url": "https://github.com/modao-dev/modao-proto-mcp",
+    "status": "ok",
+    "title": "modao-proto-mcp"
+  },
+  {
+    "name": "Monday.com (unofficial)",
+    "url": "https://github.com/sakce/mcp-server-monday",
+    "status": "ok",
+    "title": "Monday.com MCP server"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://github.com/kiliczsh/mcp-mongo-server",
+    "status": "ok",
+    "title": "MCP MongoDB Server"
+  },
+  {
+    "name": "MongoDB & Mongoose",
+    "url": "https://github.com/nabid-pf/mongo-mongoose-mcp",
+    "status": "ok",
+    "title": "MongoDB Mongoose MCP"
+  },
+  {
+    "name": "MongoDB Lens",
+    "url": "https://github.com/furey/mongodb-lens",
+    "status": "ok",
+    "title": "MongoDB Lens"
+  },
+  {
+    "name": "Monzo",
+    "url": "https://github.com/BfdCampos/monzo-mcp-bfdcampos",
+    "status": "ok",
+    "title": "🏦 Monzo MCP Server"
+  },
+  {
+    "name": "Morningstar",
+    "url": "https://github.com/Morningstar/morningstar-mcp-server",
+    "status": "ok",
+    "title": "Morningstar MCP Server"
+  },
+  {
+    "name": "MSSQL",
+    "url": "https://github.com/aekanun2020/mcp-server/",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "MSSQL",
+    "url": "https://github.com/JexinSam/mssql_mcp_server",
+    "status": "ok",
+    "title": "MSSQL MCP Server"
+  },
+  {
+    "name": "MSSQL-MCP",
+    "url": "https://github.com/daobataotie/mssql-mcp",
+    "status": "ok",
+    "title": "MSSQL MCP Server"
+  },
+  {
+    "name": "MSSQL-MCP-Node",
+    "url": "https://github.com/mihai-dulgheru/mssql-mcp-node",
+    "status": "ok",
+    "title": "MSSQL Model Context Protocol (MCP) Server"
+  },
+  {
+    "name": "MSSQL-Python",
+    "url": "https://github.com/amornpan/py-mcp-mssql",
+    "status": "ok",
+    "title": "Python MSSQL MCP Server"
+  },
+  {
+    "name": "Multi-Model Advisor",
+    "url": "https://github.com/YuChenSSR/multi-ai-advisor-mcp",
+    "status": "ok",
+    "title": "Multi-Model Advisor"
+  },
+  {
+    "name": "Multicluster-MCP-Sever",
+    "url": "https://github.com/yanmxa/multicluster-mcp-server",
+    "status": "ok",
+    "title": "Open Cluster Management MCP Server"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://github.com/benborla/mcp-server-mysql",
+    "status": "ok",
+    "title": "MCP Server for MySQL - Claude Code Edition"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://github.com/designcomputer/mysql_mcp_server",
+    "status": "ok",
+    "title": "MySQL MCP Server"
+  },
+  {
+    "name": "MySQL-Server",
+    "url": "https://github.com/tonycai/mcp-mysql-server",
+    "status": "ok",
+    "title": "mcp-mysql-server"
+  },
+  {
+    "name": "n8n",
+    "url": "https://github.com/leonardsellem/n8n-mcp-server",
+    "status": "ok",
+    "title": "n8n MCP Server"
+  },
+  {
+    "name": "Nacos MCP Router",
+    "url": "https://github.com/nacos-group/nacos-mcp-router",
+    "status": "ok",
+    "title": "nacos-mcp-router: A MCP server that provides  functionalities such as search, installation, proxy, and more."
+  },
+  {
+    "name": "Nanana",
+    "url": "https://github.com/nanana-app/mcp-server-nano-banana",
+    "status": "ok",
+    "title": "@nanana-ai/mcp-server-nano-banana"
+  },
+  {
+    "name": "NASA",
+    "url": "https://github.com/ProgramComputer/NASA-MCP-server",
+    "status": "ok",
+    "title": "NASA MCP Server"
+  },
+  {
+    "name": "NASA Image MCP Server",
+    "url": "https://github.com/adithya1012/NASA-MCP-Server/blob/main/README.md",
+    "status": "ok",
+    "title": "NASA MCP Server"
+  },
+  {
+    "name": "NASA Planetary Data System (PDS) MCP Server",
+    "url": "https://github.com/NASA-PDS/pds-mcp-server",
+    "status": "ok",
+    "title": "NASA PDS Registry MCP Server"
+  },
+  {
+    "name": "Nasdaq Data Link",
+    "url": "https://github.com/stefanoamorelli/nasdaq-data-link-mcp",
+    "status": "ok",
+    "title": "📈 Nasdaq Data Link MCP 🤖"
+  },
+  {
+    "name": "National Parks",
+    "url": "https://github.com/KyrieTangSheng/mcp-server-nationalparks",
+    "status": "ok",
+    "title": "National Parks MCP Server"
+  },
+  {
+    "name": "NAVER",
+    "url": "https://github.com/pfldy2850/py-mcp-naver",
+    "status": "ok",
+    "title": "Naver MCP Server"
+  },
+  {
+    "name": "Naver",
+    "url": "https://github.com/isnow890/naver-search-mcp",
+    "status": "ok",
+    "title": "Naver Search MCP Server"
+  },
+  {
+    "name": "NBA",
+    "url": "https://github.com/Taidgh-Robinson/nba-mcp-server",
+    "status": "ok",
+    "title": "NBA MCP Server"
+  },
+  {
+    "name": "NCI GDC",
+    "url": "https://github.com/QuentinCody/nci-gdc-mcp-server",
+    "status": "ok",
+    "title": "NCI GDC MCP Server: Easy Access for Scientists"
+  },
+  {
+    "name": "NCP",
+    "url": "https://github.com/portel-dev/ncp",
+    "status": "ok",
+    "title": "NCP - Natural Context Provider"
+  },
+  {
+    "name": "Neo4j",
+    "url": "https://github.com/da-okazaki/mcp-neo4j-server",
+    "status": "ok",
+    "title": "MCP Neo4j Server"
+  },
+  {
+    "name": "Neovim",
+    "url": "https://github.com/bigcodegen/mcp-neovim-server",
+    "status": "ok",
+    "title": "Neovim MCP Server"
+  },
+  {
+    "name": "Netbird",
+    "url": "https://github.com/aantti/mcp-netbird",
+    "status": "ok",
+    "title": "Netbird MCP Server"
+  },
+  {
+    "name": "NetMind ParsePro",
+    "url": "https://github.com/protagolabs/Netmind-Parse-PDF-MCP",
+    "status": "ok",
+    "title": "NetMind ParsePro"
+  },
+  {
+    "name": "NetSuite",
+    "url": "https://github.com/dsvantien/netsuite-mcp-server",
+    "status": "ok",
+    "title": "NetSuite MCP Server"
+  },
+  {
+    "name": "Nikto MCP",
+    "url": "https://github.com/weldpua2008/nikto-mcp",
+    "status": "ok",
+    "title": "🔒 Nikto MCP Server"
+  },
+  {
+    "name": "NocoDB",
+    "url": "https://github.com/edwinbernadus/nocodb-mcp-server",
+    "status": "ok",
+    "title": "Nocodb MCP Server"
+  },
+  {
+    "name": "Node Code Sandbox",
+    "url": "https://github.com/alfonsograziano/node-code-sandbox-mcp",
+    "status": "ok",
+    "title": "🐢🚀 Node.js Sandbox MCP Server"
+  },
+  {
+    "name": "nomad-mcp",
+    "url": "https://github.com/kocierik/mcp-nomad",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Notion",
+    "url": "https://github.com/suekou/mcp-notion-server",
+    "status": "ok",
+    "title": "Notion MCP Server"
+  },
+  {
+    "name": "Notion",
+    "url": "https://github.com/v-3/notion-server",
+    "status": "ok",
+    "title": "Notion MCP Server"
+  },
+  {
+    "name": "Notion",
+    "url": "https://github.com/njbrake/notion-mcp-server",
+    "status": "ok",
+    "title": "Notion MCP Server"
+  },
+  {
+    "name": "NPM Plus",
+    "url": "https://github.com/shacharsol/js-package-manager-mcp",
+    "status": "ok",
+    "title": "NPM Plus - JavaScript Package Manager for AI"
+  },
+  {
+    "name": "NS Travel Information",
+    "url": "https://github.com/r-huijts/ns-mcp-server",
+    "status": "ok",
+    "title": "NS Travel Information MCP Server"
+  },
+  {
+    "name": "ntfy-mcp",
+    "url": "https://github.com/teddyzxcv/ntfy-mcp",
+    "status": "ok",
+    "title": "ntfy-mcp: Your Friendly Task Completion Notifier"
+  },
+  {
+    "name": "ntfy-me-mcp",
+    "url": "https://github.com/gitmotion/ntfy-me-mcp",
+    "status": "ok",
+    "title": "<img src=\"https://m2tg1pnwn0.ufs.sh/f/GMqNN8nd9I8l9tUbmif1CnFX8Baqr7mHeicYu0AULDyNVWJE\" width=30 /> ntfy-me-mcp"
+  },
+  {
+    "name": "oatpp-mcp",
+    "url": "https://github.com/oatpp/oatpp-mcp",
+    "status": "ok",
+    "title": "oatpp-mcp"
+  },
+  {
+    "name": "Obsidian Markdown Notes",
+    "url": "https://github.com/calclavia/mcp-obsidian",
+    "status": "ok",
+    "title": "Obsidian Model Context Protocol"
+  },
+  {
+    "name": "Obsidian Notes",
+    "url": "https://github.com/Piotr1215/mcp-obsidian",
+    "status": "ok",
+    "title": "Obsidian MCP Server"
+  },
+  {
+    "name": "obsidian-mcp",
+    "url": "https://github.com/StevenStavrakis/obsidian-mcp",
+    "status": "ok",
+    "title": "Obsidian MCP Server"
+  },
+  {
+    "name": "OceanBase",
+    "url": "https://github.com/yuanoOo/oceanbase_mcp_server",
+    "status": "ok",
+    "title": "OceanBase MCP Server"
+  },
+  {
+    "name": "Octocode",
+    "url": "https://github.com/bgauryy/octocode-mcp",
+    "status": "ok",
+    "title": "For VS Code"
+  },
+  {
+    "name": "Odoo",
+    "url": "https://github.com/ivnvxd/mcp-server-odoo",
+    "status": "ok",
+    "title": "MCP Server for Odoo"
+  },
+  {
+    "name": "Office-PowerPoint-MCP-Server",
+    "url": "https://github.com/GongRzhe/Office-PowerPoint-MCP-Server",
+    "status": "ok",
+    "title": "Office-PowerPoint-MCP-Server"
+  },
+  {
+    "name": "Office-Visio-MCP-Server",
+    "url": "https://github.com/GongRzhe/Office-Visio-MCP-Server",
+    "status": "ok",
+    "title": "Visio MCP Server"
+  },
+  {
+    "name": "Office-Word-MCP-Server",
+    "url": "https://github.com/GongRzhe/Office-Word-MCP-Server",
+    "status": "ok",
+    "title": "Office-Word-MCP-Server"
+  },
+  {
+    "name": "Okta",
+    "url": "https://github.com/kapilduraphe/okta-mcp-server",
+    "status": "ok",
+    "title": "Okta MCP Server"
+  },
+  {
+    "name": "OKX-MCP-Server",
+    "url": "https://github.com/memetus/okx-mcp-playground",
+    "status": "ok",
+    "title": "OKX MCP Playground"
+  },
+  {
+    "name": "OneCite",
+    "url": "https://github.com/HzaCode/OneCite",
+    "status": "ok",
+    "title": "Recommended: Install from PyPI"
+  },
+  {
+    "name": "OneNote",
+    "url": "https://github.com/rajvirtual/MCP-Servers/tree/master/onenote",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Onyx MCP Sandbox",
+    "url": "https://github.com/avd1729/Onyx",
+    "status": "ok",
+    "title": "Onyx"
+  },
+  {
+    "name": "Open Strategy Partners Marketing Tools",
+    "url": "https://github.com/open-strategy-partners/osp_marketing_tools",
+    "status": "ok",
+    "title": "Open Strategy Partners (OSP) Marketing Tools for LLMs"
+  },
+  {
+    "name": "Open Targets",
+    "url": "https://github.com/QuentinCody/open-targets-mcp-server",
+    "status": "ok",
+    "title": "Open Targets MCP Server User Guide"
+  },
+  {
+    "name": "OpenAI GPT Image",
+    "url": "https://github.com/SureScaleAI/openai-gpt-image-mcp",
+    "status": "ok",
+    "title": "openai-gpt-image-mcp"
+  },
+  {
+    "name": "OpenAI WebSearch MCP",
+    "url": "https://github.com/ConechoAI/openai-websearch-mcp",
+    "status": "ok",
+    "title": "OpenAI WebSearch MCP Server 🔍"
+  },
+  {
+    "name": "OpenAlex.org MCP",
+    "url": "https://github.com/drAbreu/alex-mcp",
+    "status": "ok",
+    "title": "Optimized for academic research workflows"
+  },
+  {
+    "name": "OpenAPI",
+    "url": "https://github.com/snaggle-ai/openapi-mcp-server",
+    "status": "ok",
+    "title": "OpenAPI MCP Server"
+  },
+  {
+    "name": "OpenAPI AnyApi",
+    "url": "https://github.com/baryhuang/mcp-server-any-openapi",
+    "status": "ok",
+    "title": "MCP Server: Scalable OpenAPI Endpoint Discovery and API Request Tool"
+  },
+  {
+    "name": "OpenAPI Schema",
+    "url": "https://github.com/hannesj/mcp-openapi-schema",
+    "status": "ok",
+    "title": "OpenAPI Schema Model Context Protocol Server"
+  },
+  {
+    "name": "OpenAPI Schema Explorer",
+    "url": "https://github.com/kadykov/mcp-openapi-schema-explorer",
+    "status": "ok",
+    "title": "MCP OpenAPI Schema Explorer"
+  },
+  {
+    "name": "OpenCTI",
+    "url": "https://github.com/Spathodea-Network/opencti-mcp",
+    "status": "ok",
+    "title": "OpenCTI MCP Server"
+  },
+  {
+    "name": "OpenCV",
+    "url": "https://github.com/GongRzhe/opencv-mcp-server",
+    "status": "ok",
+    "title": "🚀 OpenCV MCP Server"
+  },
+  {
+    "name": "OpenDigger MCP Server",
+    "url": "https://github.com/X-lab2017/open-digger-mcp-server",
+    "status": "ok",
+    "title": "OpenDigger MCP Server"
+  },
+  {
+    "name": "OpenDota",
+    "url": "https://github.com/asusevski/opendota-mcp-server",
+    "status": "ok",
+    "title": "OpenDota MCP Server"
+  },
+  {
+    "name": "OpenLink Generic Java Database Connectivity",
+    "url": "https://github.com/OpenLinkSoftware/mcp-jdbc-server",
+    "status": "ok",
+    "title": "OpenLink MCP Server for JDBC"
+  },
+  {
+    "name": "OpenLink Generic Open Database Connectivity",
+    "url": "https://github.com/OpenLinkSoftware/mcp-odbc-server",
+    "status": "ok",
+    "title": "OpenLink MCP Server for ODBC"
+  },
+  {
+    "name": "OpenLink Generic Python Open Database Connectivity",
+    "url": "https://github.com/OpenLinkSoftware/mcp-pyodbc-server",
+    "status": "ok",
+    "title": "OpenLink MCP Server for ODBC via PyODBC"
+  },
+  {
+    "name": "OpenLink Generic SQLAlchemy Object-Relational Database Connectivity for PyODBC",
+    "url": "https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server",
+    "status": "ok",
+    "title": "MCP Server ODBC via SQLAlchemy"
+  },
+  {
+    "name": "OpenMetadata",
+    "url": "https://github.com/yangkyeongmo/mcp-server-openmetadata",
+    "status": "ok",
+    "title": "mcp-server-openmetadata"
+  },
+  {
+    "name": "OpenNeuro",
+    "url": "https://github.com/QuentinCody/open-neuro-mcp-server",
+    "status": "ok",
+    "title": "OpenNeuro MCP Server"
+  },
+  {
+    "name": "OpenReview",
+    "url": "https://github.com/anyakors/openreview-mcp-server",
+    "status": "ok",
+    "title": "OpenReview MCP server"
+  },
+  {
+    "name": "OpenRPC",
+    "url": "https://github.com/shanejonas/openrpc-mpc-server",
+    "status": "ok",
+    "title": "OpenRPC MCP Server"
+  },
+  {
+    "name": "OpenStack",
+    "url": "https://github.com/wangsqly0407/openstack-mcp-server",
+    "status": "ok",
+    "title": "OpenStack MCP Server"
+  },
+  {
+    "name": "OpenWeather",
+    "url": "https://github.com/mschneider82/mcp-openweather",
+    "status": "ok",
+    "title": "MCP Weather Service"
+  },
+  {
+    "name": "OpenZIM MCP",
+    "url": "https://github.com/cameronrye/openzim-mcp",
+    "status": "ok",
+    "title": "OpenZIM MCP Server"
+  },
+  {
+    "name": "Operative WebEvalAgent",
+    "url": "https://github.com/Operative-Sh/web-eval-agent",
+    "status": "ok",
+    "title": "⚠️ PROJECT HAS BEEN SUNSET ⚠️"
+  },
+  {
+    "name": "OPNSense MCP",
+    "url": "https://github.com/vespo92/OPNSenseMCP",
+    "status": "ok",
+    "title": "OPNsense MCP Server"
+  },
+  {
+    "name": "Optimade MCP",
+    "url": "https://github.com/dianfengxiaobo/optimade-mcp-server",
+    "status": "ok",
+    "title": "OPTIMADE MCP SERVER"
+  },
+  {
+    "name": "Oracle",
+    "url": "https://github.com/marcelo-ochoa/servers",
+    "status": "ok",
+    "title": "Model Context Protocol servers"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure (OCI)",
+    "url": "https://github.com/karthiksuku/oci-mcp",
+    "status": "ok",
+    "title": "OCI MCP Server"
+  },
+  {
+    "name": "Oura MCP server",
+    "url": "https://github.com/tomekkorbak/oura-mcp-server",
+    "status": "ok",
+    "title": "Oura MCP Server"
+  },
+  {
+    "name": "Oura Ring",
+    "url": "https://github.com/rajvirtual/oura-mcp-server",
+    "status": "ok",
+    "title": "Oura Ring Model Controller Protocol (MCP) Server"
+  },
+  {
+    "name": "Outline",
+    "url": "https://github.com/Vortiago/mcp-outline",
+    "status": "ok",
+    "title": "MCP Outline Server"
+  },
+  {
+    "name": "Outlook Mail + Calendar + OneDrive",
+    "url": "https://github.com/Norcim133/OutlookMCPServer",
+    "status": "ok",
+    "title": "OutlookMCPServer"
+  },
+  {
+    "name": "Pacman",
+    "url": "https://github.com/oborchers/mcp-server-pacman",
+    "status": "ok",
+    "title": "Pacman MCP Server"
+  },
+  {
+    "name": "pancakeswap-poolspy-mcp",
+    "url": "https://github.com/kukapay/pancakeswap-poolspy-mcp",
+    "status": "ok",
+    "title": "PancakeSwap PoolSpy MCP Server"
+  },
+  {
+    "name": "Pandoc",
+    "url": "https://github.com/vivekVells/mcp-pandoc",
+    "status": "ok",
+    "title": "mcp-pandoc: A Document Conversion MCP Server"
+  },
+  {
+    "name": "Paradex MCP",
+    "url": "https://github.com/sv/mcp-paradex-py",
+    "status": "ok",
+    "title": "MCP Paradex Server"
+  },
+  {
+    "name": "Parliament MCP",
+    "url": "[https://github.com/sv/mcp-paradex-py](https://github.com/i-dot-ai/parliament-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "PDF reader MCP",
+    "url": "https://github.com/gpetraroli/mcp_pdf_reader",
+    "status": "ok",
+    "title": "MCP PDF Reader Enhanced"
+  },
+  {
+    "name": "PDF Tools MCP",
+    "url": "https://github.com/Sohaib-2/pdf-mcp-server",
+    "status": "ok",
+    "title": "PDF MCP Server"
+  },
+  {
+    "name": "PDMT",
+    "url": "https://github.com/paiml/pdmt",
+    "status": "ok",
+    "title": "PDMT - Pragmatic Deterministic MCP Templating"
+  },
+  {
+    "name": "Peacock for VS Code",
+    "url": "https://github.com/johnpapa/peacock-mcp",
+    "status": "ok",
+    "title": "Peacock MCP Server"
+  },
+  {
+    "name": "persistproc",
+    "url": "https://github.com/irskep/persistproc",
+    "status": "ok",
+    "title": "persistproc"
+  },
+  {
+    "name": "Pexels",
+    "url": "https://github.com/garylab/pexels-mcp-server",
+    "status": "ok",
+    "title": "Pexels MCP Server"
+  },
+  {
+    "name": "pgtuner_mcp",
+    "url": "https://github.com/isdaniel/pgtuner_mcp",
+    "status": "ok",
+    "title": "PostgreSQL Performance Tuning MCP"
+  },
+  {
+    "name": "Pharos",
+    "url": "https://github.com/QuentinCody/pharos-mcp-server",
+    "status": "ok",
+    "title": "Accessing Pharos Data with Your AI Assistant"
+  },
+  {
+    "name": "Phone MCP",
+    "url": "https://github.com/hao-cyber/phone-mcp",
+    "status": "ok",
+    "title": "📱 Phone MCP Plugin"
+  },
+  {
+    "name": "PIF",
+    "url": "https://github.com/hungryrobot1/MCP-PIF",
+    "status": "ok",
+    "title": "MCP-PIF"
+  },
+  {
+    "name": "Pinecone",
+    "url": "https://github.com/sirmews/mcp-pinecone",
+    "status": "ok",
+    "title": "Pinecone Model Context Protocol Server for Claude Desktop."
+  },
+  {
+    "name": "Pinner MCP",
+    "url": "https://github.com/safedep/pinner-mcp",
+    "status": "ok",
+    "title": "Pinner MCP 📍"
+  },
+  {
+    "name": "Pixelle MCP",
+    "url": "https://github.com/AIDC-AI/Pixelle-MCP",
+    "status": "ok",
+    "title": "First you need to install the uv environment"
+  },
+  {
+    "name": "Placid.app",
+    "url": "https://github.com/felores/placid-mcp-server",
+    "status": "ok",
+    "title": "Placid.app MCP Server"
+  },
+  {
+    "name": "Plane",
+    "url": "https://github.com/kelvin6365/plane-mcp-server",
+    "status": "ok",
+    "title": "Plane MCP Server"
+  },
+  {
+    "name": "Playwright",
+    "url": "https://github.com/executeautomation/mcp-playwright",
+    "status": "ok",
+    "title": "Playwright MCP Server 🎭"
+  },
+  {
+    "name": "Playwright Wizard",
+    "url": "https://github.com/oguzc/playwright-wizard-mcp",
+    "status": "ok",
+    "title": "Playwright Wizard MCP Server"
+  },
+  {
+    "name": "Podbean",
+    "url": "https://github.com/amurshak/podbeanMCP",
+    "status": "ok",
+    "title": "🎙️ Podbean MCP Server 🎧"
+  },
+  {
+    "name": "Polarsteps",
+    "url": "https://github.com/remuzel/polarsteps-mcp",
+    "status": "ok",
+    "title": "Polarsteps MCP Server"
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "https://github.com/ahmedmustahid/postgres-mcp-server",
+    "status": "ok",
+    "title": "MCP PostgreSQL Server (Stateful and Dual Transport)"
+  },
+  {
+    "name": "Postman",
+    "url": "https://github.com/shannonlal/mcp-postman",
+    "status": "ok",
+    "title": "Postman MCP Server"
+  },
+  {
+    "name": "Powerdrill",
+    "url": "https://github.com/powerdrillai/powerdrill-mcp",
+    "status": "ok",
+    "title": "Powerdrill MCP Server"
+  },
+  {
+    "name": "predictive-maintenance-mcp",
+    "url": "https://github.com/LGDiMaggio/predictive-maintenance-mcp",
+    "status": "ok",
+    "title": "🏭 Predictive Maintenance MCP Server"
+  },
+  {
+    "name": "Prefect",
+    "url": "https://github.com/allen-munsch/mcp-prefect",
+    "status": "ok",
+    "title": "Deprecated 27-Nov-2025"
+  },
+  {
+    "name": "Producer Pal",
+    "url": "https://github.com/adamjmurray/producer-pal",
+    "status": "ok",
+    "title": "<sub><img src=\"./assets/image/producer-pal-logo.svg\" height=\"40\"/></sub> Producer Pal"
+  },
+  {
+    "name": "Productboard",
+    "url": "https://github.com/kenjihikmatullah/productboard-mcp",
+    "status": "ok",
+    "title": "Productboard MCP Server"
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://github.com/pab1it0/prometheus-mcp-server",
+    "status": "ok",
+    "title": "Prometheus MCP Server"
+  },
+  {
+    "name": "Prometheus (Golang)",
+    "url": "https://github.com/tjhop/prometheus-mcp-server/",
+    "status": "ok",
+    "title": "Prometheus MCP Server"
+  },
+  {
+    "name": "Prometheus (TypeScript)",
+    "url": "https://github.com/yanmxa/prometheus-mcp-server",
+    "status": "ok",
+    "title": "Prometheus MCP Server"
+  },
+  {
+    "name": "PubChem",
+    "url": "https://github.com/sssjiang/pubchem_mcp_server",
+    "status": "ok",
+    "title": "pubchem mcp server"
+  },
+  {
+    "name": "PubMed",
+    "url": "https://github.com/JackKuo666/PubMed-MCP-Server",
+    "status": "ok",
+    "title": "PubMed MCP Server"
+  },
+  {
+    "name": "Pulumi",
+    "url": "https://github.com/dogukanakkaya/pulumi-mcp-server",
+    "status": "ok",
+    "title": "Using MCP Server"
+  },
+  {
+    "name": "Puppeteer vision",
+    "url": "https://github.com/djannot/puppeteer-vision-mcp",
+    "status": "ok",
+    "title": "Puppeteer vision MCP Server"
+  },
+  {
+    "name": "Pushover",
+    "url": "https://github.com/ashiknesin/pushover-mcp",
+    "status": "ok",
+    "title": "Pushover MCP"
+  },
+  {
+    "name": "py-mcp-qdrant-rag",
+    "url": "https://github.com/amornpan/py-mcp-qdrant-rag",
+    "status": "ok",
+    "title": "py-mcp-qdrant-rag"
+  },
+  {
+    "name": "pydantic/pydantic-ai/mcp-run-python",
+    "url": "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python",
+    "status": "ok",
+    "title": "Define a very simple agent including the model to use, you can also set the model when running the agent."
+  },
+  {
+    "name": "Python CLI MCP",
+    "url": "https://github.com/ofek/pycli-mcp",
+    "status": "ok",
+    "title": "PyCLI MCP"
+  },
+  {
+    "name": "qa-use",
+    "url": "https://github.com/desplega-ai/qa-use",
+    "status": "ok",
+    "title": "QA-Use MCP Server"
+  },
+  {
+    "name": "QGIS",
+    "url": "https://github.com/jjsantos01/qgis_mcp",
+    "status": "ok",
+    "title": "QGISMCP - QGIS Model Context Protocol Integration"
+  },
+  {
+    "name": "Qiniu MCP Server",
+    "url": "https://github.com/qiniu/qiniu-mcp-server",
+    "status": "ok",
+    "title": "Qiniu MCP Server"
+  },
+  {
+    "name": "QuantConnect",
+    "url": "https://github.com/taylorwilsdon/quantconnect-mcp",
+    "status": "ok",
+    "title": "◆ QuantConnect MCP Server"
+  },
+  {
+    "name": "Quarkus",
+    "url": "https://github.com/quarkiverse/quarkus-mcp-servers",
+    "status": "ok",
+    "title": "Model Context Protocol Servers in Quarkus/Java"
+  },
+  {
+    "name": "QuickChart",
+    "url": "https://github.com/GongRzhe/Quickchart-MCP-Server",
+    "status": "ok",
+    "title": "quickchart-server MCP Server"
+  },
+  {
+    "name": "Qwen_Max",
+    "url": "https://github.com/66julienmartin/MCP-server-Qwen_Max",
+    "status": "ok",
+    "title": "Qwen Max MCP Server"
+  },
+  {
+    "name": "RabbitMQ",
+    "url": "https://github.com/kenliao94/mcp-server-rabbitmq",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "RAE",
+    "url": "https://github.com/rae-api-com/rae-mcp",
+    "status": "ok",
+    "title": "RAE Model Context Protocol (MCP) Server"
+  },
+  {
+    "name": "RAG Local",
+    "url": "https://github.com/renl/mcp-rag-local",
+    "status": "ok",
+    "title": "Memory Server (mcp-rag-local)"
+  },
+  {
+    "name": "RAG Web Browser",
+    "url": "https://github.com/apify/mcp-server-rag-web-browser",
+    "status": "ok",
+    "title": "MCP Server for the RAG Web Browser Actor 🌐"
+  },
+  {
+    "name": "Raindrop.io",
+    "url": "https://github.com/hiromitsusasaki/raindrop-io-mcp-server",
+    "status": "ok",
+    "title": "Raindrop.io MCP Server"
+  },
+  {
+    "name": "Random Number",
+    "url": "https://github.com/zazencodes/random-number-mcp",
+    "status": "ok",
+    "title": "Random Number MCP"
+  },
+  {
+    "name": "RCSB PDB",
+    "url": "https://github.com/QuentinCody/rcsb-pdb-mcp-server",
+    "status": "ok",
+    "title": "RCSB PDB Explorer: An AI Assistant for Protein Data"
+  },
+  {
+    "name": "Reaper",
+    "url": "https://github.com/dschuler36/reaper-mcp-server",
+    "status": "ok",
+    "title": "Reaper MCP Server"
+  },
+  {
+    "name": "Redbee",
+    "url": "https://github.com/Tamsi/redbee-mcp",
+    "status": "ok",
+    "title": "Red Bee MCP Server"
+  },
+  {
+    "name": "Redfish",
+    "url": "https://github.com/nokia/mcp-redfish",
+    "status": "ok",
+    "title": "Redfish MCP Server"
+  },
+  {
+    "name": "Redis",
+    "url": "https://github.com/GongRzhe/REDIS-MCP-Server",
+    "status": "ok",
+    "title": "Redis MCP Server (@gongrzhe/server-redis-mcp@1.0.0)"
+  },
+  {
+    "name": "Redis",
+    "url": "https://github.com/prajwalnayak7/mcp-server-redis",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "RedNote MCP",
+    "url": "https://github.com/ifuryst/rednote-mcp",
+    "status": "ok",
+    "title": "RedNote MCP"
+  },
+  {
+    "name": "Reed Jobs",
+    "url": "https://github.com/kld3v/reed_jobs_mcp",
+    "status": "ok",
+    "title": "Reed Jobs MCP Server"
+  },
+  {
+    "name": "Rememberizer AI",
+    "url": "https://github.com/skydeckai/mcp-server-rememberizer",
+    "status": "ok",
+    "title": "MCP Server Rememberizer"
+  },
+  {
+    "name": "Replicate",
+    "url": "https://github.com/deepfates/mcp-replicate",
+    "status": "ok",
+    "title": "Replicate MCP Server"
+  },
+  {
+    "name": "Resend",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/resend",
+    "status": "ok",
+    "title": "Run any MCP Integration"
+  },
+  {
+    "name": "Restream",
+    "url": "https://github.com/shaktech786/restream-mcp-server",
+    "status": "ok",
+    "title": "Restream MCP Server"
+  },
+  {
+    "name": "Revit MCP",
+    "url": "https://github.com/revit-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Rijksmuseum",
+    "url": "https://github.com/r-huijts/rijksmuseum-mcp",
+    "status": "ok",
+    "title": "Rijksmuseum MCP Server"
+  },
+  {
+    "name": "Riot Games",
+    "url": "https://github.com/jifrozen0110/mcp-riot",
+    "status": "ok",
+    "title": "MCP Riot Server"
+  },
+  {
+    "name": "Rohlik",
+    "url": "https://github.com/tomaspavlin/rohlik-mcp",
+    "status": "ok",
+    "title": "<img src=\"https://www.rohlik.cz/favicon/cz/favicon.ico\" alt=\"Rohlik\" width=\"30\" height=\"30\"> Rohlik MCP Server"
+  },
+  {
+    "name": "Rquest",
+    "url": "https://github.com/xxxbrian/mcp-rquest",
+    "status": "ok",
+    "title": "mcp-rquest"
+  },
+  {
+    "name": "Rust MCP Filesystem",
+    "url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem",
+    "status": "ok",
+    "title": "Rust MCP Filesystem"
+  },
+  {
+    "name": "SafetySearch",
+    "url": "https://github.com/surabhya/SafetySearch",
+    "status": "ok",
+    "title": "SafetySearch"
+  },
+  {
+    "name": "Salesforce MCP",
+    "url": "https://github.com/smn2gnt/MCP-Salesforce",
+    "status": "ok",
+    "title": "MCP Salesforce Connector"
+  },
+  {
+    "name": "Salesforce MCP (AiondaDotCom)",
+    "url": "https://github.com/AiondaDotCom/mcp-salesforce",
+    "status": "ok",
+    "title": "MCP Salesforce Server"
+  },
+  {
+    "name": "Salesforce MCP Server",
+    "url": "https://github.com/tsmztech/mcp-server-salesforce",
+    "status": "ok",
+    "title": "Salesforce MCP Server"
+  },
+  {
+    "name": "Scanova MCP Server",
+    "url": "https://github.com/trycon/scanova-mcp",
+    "status": "ok",
+    "title": "Scanova MCP Server"
+  },
+  {
+    "name": "SchemaCrawler",
+    "url": "https://github.com/schemacrawler/SchemaCrawler-MCP-Server-Usage",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "SchemaFlow",
+    "url": "https://github.com/CryptoRadi/schemaflow-mcp-server",
+    "status": "ok",
+    "title": "SchemaFlow MCP Server"
+  },
+  {
+    "name": "Scholarly",
+    "url": "https://github.com/adityak74/mcp-scholarly",
+    "status": "ok",
+    "title": "mcp-scholarly MCP server"
+  },
+  {
+    "name": "scrapling-fetch",
+    "url": "https://github.com/cyberchitta/scrapling-fetch-mcp",
+    "status": "ok",
+    "title": "scrapling-fetch-mcp"
+  },
+  {
+    "name": "Screeny",
+    "url": "https://github.com/rohanrav/screeny",
+    "status": "ok",
+    "title": "Screeny MCP Server: Privacy first macOS Screenshots for AI Agents"
+  },
+  {
+    "name": "ScriptFlow",
+    "url": "https://github.com/yanmxa/scriptflow-mcp",
+    "status": "ok",
+    "title": "ScriptFlow MCP Server"
+  },
+  {
+    "name": "SearXNG",
+    "url": "https://github.com/ihor-sokoliuk/mcp-searxng",
+    "status": "ok",
+    "title": "SearXNG MCP Server"
+  },
+  {
+    "name": "SearXNG",
+    "url": "https://github.com/erhwenkuo/mcp-searxng",
+    "status": "ok",
+    "title": "mcp-searxng"
+  },
+  {
+    "name": "SearXNG Public",
+    "url": "https://github.com/pwilkin/mcp-searxng-public",
+    "status": "ok",
+    "title": "mcp-searxng-public"
+  },
+  {
+    "name": "SEC EDGAR",
+    "url": "https://github.com/stefanoamorelli/sec-edgar-mcp",
+    "status": "ok",
+    "title": "SEC EDGAR MCP"
+  },
+  {
+    "name": "SendGrid",
+    "url": "https://github.com/recepyavuz0/sendgrid-mcp-server",
+    "status": "ok",
+    "title": "SendGrid MCP Server"
+  },
+  {
+    "name": "SEO MCP",
+    "url": "https://github.com/cnych/seo-mcp",
+    "status": "ok",
+    "title": "SEO MCP"
+  },
+  {
+    "name": "Serper",
+    "url": "https://github.com/garylab/serper-mcp-server",
+    "status": "ok",
+    "title": "Serper MCP Server"
+  },
+  {
+    "name": "ServiceNow",
+    "url": "https://github.com/osomai/servicenow-mcp",
+    "status": "ok",
+    "title": "ServiceNow MCP Server"
+  },
+  {
+    "name": "ShaderToy",
+    "url": "https://github.com/wilsonchenghy/ShaderToy-MCP",
+    "status": "ok",
+    "title": "ShaderToy-MCP"
+  },
+  {
+    "name": "ShareSeer",
+    "url": "https://github.com/shareseer/shareseer-mcp-server",
+    "status": "ok",
+    "title": "ShareSeer MCP Server"
+  },
+  {
+    "name": "Shell",
+    "url": "https://github.com/sonirico/mcp-shell",
+    "status": "ok",
+    "title": "mcp-shell 🐚"
+  },
+  {
+    "name": "Shodan MCP",
+    "url": "https://github.com/Hexix23/shodan-mcp",
+    "status": "ok",
+    "title": "🌐 SHODAN-MCP"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://github.com/GeLi2001/shopify-mcp",
+    "status": "ok",
+    "title": "Shopify MCP Server"
+  },
+  {
+    "name": "Shopify Storefront",
+    "url": "https://github.com/QuentinCody/shopify-storefront-mcp-server",
+    "status": "ok",
+    "title": "Shopify Storefront MCP Server"
+  },
+  {
+    "name": "Simple Loki MCP",
+    "url": "https://github.com/ghrud92/simple-loki-mcp",
+    "status": "ok",
+    "title": "Simple Loki MCP Server"
+  },
+  {
+    "name": "Siri Shortcuts",
+    "url": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+    "status": "ok",
+    "title": "Siri Shortcuts MCP Server"
+  },
+  {
+    "name": "Skyvern",
+    "url": "https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp",
+    "status": "ok",
+    "title": "How it works"
+  },
+  {
+    "name": "Slack",
+    "url": "https://github.com/korotovsky/slack-mcp-server",
+    "status": "ok",
+    "title": "Slack MCP Server"
+  },
+  {
+    "name": "Slack",
+    "url": "https://github.com/zencoderai/slack-mcp-server",
+    "status": "ok",
+    "title": "slack-mcp-server"
+  },
+  {
+    "name": "Slidespeak",
+    "url": "https://github.com/SlideSpeak/slidespeak-mcp",
+    "status": "ok",
+    "title": "slidespeak-mcp"
+  },
+  {
+    "name": "Smartlead",
+    "url": "https://github.com/jean-technologies/smartlead-mcp-server-local",
+    "status": "ok",
+    "title": "Smartlead Simplified MCP Server"
+  },
+  {
+    "name": "Snowflake",
+    "url": "https://github.com/Snowflake-Labs/mcp",
+    "status": "ok",
+    "title": "Snowflake Cortex AI Model Context Protocol (MCP) Server"
+  },
+  {
+    "name": "Snowflake",
+    "url": "https://github.com/isaacwasserman/mcp-snowflake-server",
+    "status": "ok",
+    "title": "Snowflake MCP Server"
+  },
+  {
+    "name": "Snowflake Cortex MCP Server",
+    "url": "https://github.com/thisisbhanuj/Snowflake-Cortex-MCP-Server",
+    "status": "ok",
+    "title": "Snowflake Cortex AI Model Context Protocol (MCP) Server"
+  },
+  {
+    "name": "SoccerDataAPI",
+    "url": "https://github.com/yeonupark/mcp-soccer-data",
+    "status": "ok",
+    "title": "⚽️ Soccerdata MCP Server"
+  },
+  {
+    "name": "Solana Agent Kit",
+    "url": "https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server",
+    "status": "ok",
+    "title": "Solana Agent Kit"
+  },
+  {
+    "name": "Solr MCP",
+    "url": "https://github.com/mjochum64/mcp-solr-search",
+    "status": "ok",
+    "title": "MCP-Server for Apache Solr Document Search"
+  },
+  {
+    "name": "Solver",
+    "url": "https://github.com/szeider/mcp-solver",
+    "status": "ok",
+    "title": "MCP Solver"
+  },
+  {
+    "name": "Solvitor",
+    "url": "https://github.com/Adeptus-Innovatio/solvitor-mcp",
+    "status": "ok",
+    "title": "🦾💀 solvitor-mcp: A Solvitor API MCP Server in Rust"
+  },
+  {
+    "name": "Source to Knowledge Base",
+    "url": "https://github.com/vezlo/src-to-kb",
+    "status": "ok",
+    "title": "Source Code to Knowledge Base Generator with MCP Server"
+  },
+  {
+    "name": "Sourcerer",
+    "url": "https://github.com/st3v3nmw/sourcerer-mcp",
+    "status": "ok",
+    "title": "Sourcerer MCP 🧙"
+  },
+  {
+    "name": "Specbridge",
+    "url": "https://github.com/TBosak/specbridge",
+    "status": "ok",
+    "title": "Example: Download the Petstore spec"
+  },
+  {
+    "name": "Splunk",
+    "url": "https://github.com/jkosik/mcp-server-splunk",
+    "status": "ok",
+    "title": "MCP Server for Splunk"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://github.com/varunneal/spotify-mcp",
+    "status": "ok",
+    "title": "spotify-mcp MCP server"
+  },
+  {
+    "name": "Spring Initializr",
+    "url": "https://github.com/hpalma/springinitializr-mcp",
+    "status": "ok",
+    "title": "Spring Initializr MCP Server"
+  },
+  {
+    "name": "Squad AI",
+    "url": "https://github.com/the-basilisk-ai/squad-mcp",
+    "status": "ok",
+    "title": "Squad MCP Server"
+  },
+  {
+    "name": "SSH",
+    "url": "https://github.com/AiondaDotCom/mcp-ssh",
+    "status": "ok",
+    "title": "MCP SSH Agent"
+  },
+  {
+    "name": "SSH",
+    "url": "https://github.com/classfang/ssh-mcp-server",
+    "status": "ok",
+    "title": "🔐 ssh-mcp-server"
+  },
+  {
+    "name": "SSH MCP Server",
+    "url": "https://github.com/sinjab/mcp_ssh",
+    "status": "ok",
+    "title": "MCP SSH"
+  },
+  {
+    "name": "sslmon",
+    "url": "https://github.com/firesh/sslmon-mcp",
+    "status": "ok",
+    "title": "Domain/HTTPS/SSL MCP Server"
+  },
+  {
+    "name": "STAC",
+    "url": "https://github.com/Wayfinder-Foundry/stac-mcp",
+    "status": "ok",
+    "title": "STAC MCP Server"
+  },
+  {
+    "name": "Standard Korean Dictionary",
+    "url": "https://github.com/privetin/stdict",
+    "status": "ok",
+    "title": "Standard Korean Dictionary MCP Server"
+  },
+  {
+    "name": "Star Wars",
+    "url": "https://github.com/johnpapa/mcp-starwars",
+    "status": "ok",
+    "title": "Star Wars MCP Server"
+  },
+  {
+    "name": "Starknet MCP Server",
+    "url": "https://github.com/mcpdotdirect/starknet-mcp-server",
+    "status": "ok",
+    "title": "Starknet MCP Server"
+  },
+  {
+    "name": "Starling Bank",
+    "url": "https://github.com/domdomegg/starling-bank-mcp",
+    "status": "ok",
+    "title": "starling-bank-mcp"
+  },
+  {
+    "name": "Starwind UI",
+    "url": "https://github.com/Boston343/starwind-ui-mcp/",
+    "status": "ok",
+    "title": "Starwind UI MCP Server"
+  },
+  {
+    "name": "Stellar",
+    "url": "https://github.com/syronlabs/stellar-mcp/",
+    "status": "ok",
+    "title": "🌟 Stellar MCP"
+  },
+  {
+    "name": "Stitch AI",
+    "url": "https://github.com/StitchAI/stitch-ai-mcp/",
+    "status": "ok",
+    "title": "Stitch AI's MCP Server"
+  },
+  {
+    "name": "Stockfish",
+    "url": "https://github.com/sonirico/mcp-stockfish",
+    "status": "ok",
+    "title": "mcp-stockfish 🐟"
+  },
+  {
+    "name": "Storybook",
+    "url": "https://github.com/stefanoamorelli/storybook-mcp-server",
+    "status": "ok",
+    "title": "Storybook MCP Server"
+  },
+  {
+    "name": "Strava",
+    "url": "https://github.com/r-huijts/strava-mcp",
+    "status": "ok",
+    "title": "Strava MCP Server"
+  },
+  {
+    "name": "Strava API",
+    "url": "https://github.com/tomekkorbak/strava-mcp-server",
+    "status": "ok",
+    "title": "Strava MCP Server"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://github.com/atharvagupta2003/mcp-stripe",
+    "status": "ok",
+    "title": "MCP Stripe Server"
+  },
+  {
+    "name": "Substack/Medium",
+    "url": "https://github.com/jonathan-politzki/mcp-writer-substack",
+    "status": "ok",
+    "title": "Writer Context Tool for Claude"
+  },
+  {
+    "name": "System Health",
+    "url": "https://github.com/thanhtung0201/mcp-remote-system-health",
+    "status": "ok",
+    "title": "MCP System Health Monitoring"
+  },
+  {
+    "name": "SystemSage",
+    "url": "https://github.com/Tarusharma1/SystemSage",
+    "status": "ok",
+    "title": "SystemSage"
+  },
+  {
+    "name": "Talk To Figma",
+    "url": "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp",
+    "status": "ok",
+    "title": "Cursor Talk to Figma MCP"
+  },
+  {
+    "name": "Talk To Figma via Claude",
+    "url": "https://github.com/gaganmanku96/talk-with-figma-claude",
+    "status": "ok",
+    "title": "Talk to Figma - Claude Desktop App Integration"
+  },
+  {
+    "name": "TAM MCP Server",
+    "url": "https://github.com/gvaibhav/TAM-MCP-Server",
+    "status": "ok",
+    "title": "Market Sizing MCP Server"
+  },
+  {
+    "name": "Tasks",
+    "url": "https://github.com/flesler/mcp-tasks",
+    "status": "ok",
+    "title": "MCP Tasks 📋"
+  },
+  {
+    "name": "Tavily search",
+    "url": "https://github.com/RamXX/mcp-tavily",
+    "status": "ok",
+    "title": "Tavily MCP Server"
+  },
+  {
+    "name": "TcpSocketMCP",
+    "url": "https://github.com/SpaceyKasey/TcpSocketMCP/",
+    "status": "ok",
+    "title": "TCP Socket MCP Server"
+  },
+  {
+    "name": "TeamRetro",
+    "url": "https://github.com/adepanges/teamretro-mcp-server",
+    "status": "ok",
+    "title": "[TeamRetro](https://www.teamretro.com?utm_source=teamretro-mcp-server&utm_medium=github&utm_campaign=readme) MCP Server"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://github.com/chigwell/telegram-mcp",
+    "status": "ok",
+    "title": "Telegram MCP Server"
+  },
+  {
+    "name": "Telegram-Client",
+    "url": "https://github.com/chaindead/telegram-mcp",
+    "status": "ok",
+    "title": "Telegram MCP server"
+  },
+  {
+    "name": "Telegram-mcp-server",
+    "url": "https://github.com/DLHellMe/telegram-mcp-server",
+    "status": "ok",
+    "title": "Telegram MCP Server"
+  },
+  {
+    "name": "Template MCP Server",
+    "url": "https://github.com/mcpdotdirect/template-mcp-server",
+    "status": "ok",
+    "title": "@mcpdotdirect/template-mcp-server"
+  },
+  {
+    "name": "Tempo",
+    "url": "https://github.com/scottlepp/tempo-mcp-server",
+    "status": "ok",
+    "title": "Archived!"
+  },
+  {
+    "name": "Tensorboard Query",
+    "url": "https://github.com/Alir3z4/tb-query",
+    "status": "ok",
+    "title": "tb-query"
+  },
+  {
+    "name": "Teradata",
+    "url": "https://github.com/arturborycki/mcp-teradata",
+    "status": "ok",
+    "title": "Teradata MCP Server with OAuth 2.1 Authentication"
+  },
+  {
+    "name": "Terminal-Control",
+    "url": "https://github.com/GongRzhe/terminal-controller-mcp",
+    "status": "ok",
+    "title": "Terminal Controller for MCP"
+  },
+  {
+    "name": "Terraform-Cloud",
+    "url": "https://github.com/severity1/terraform-cloud-mcp",
+    "status": "ok",
+    "title": "Terraform Cloud MCP Server"
+  },
+  {
+    "name": "TFT-Match-Analyzer",
+    "url": "https://github.com/GeLi2001/tft-mcp-server",
+    "status": "ok",
+    "title": "TFT MCP Server"
+  },
+  {
+    "name": "Thales CDSP CAKM MCP Server",
+    "url": "https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server",
+    "status": "ok",
+    "title": "Thales CipherTrust Data Security Platform CAKM MCP Server"
+  },
+  {
+    "name": "Thales CDSP CRDP MCP Server",
+    "url": "https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server",
+    "status": "ok",
+    "title": "Thales CDSP CRDP MCP Server"
+  },
+  {
+    "name": "Thales CipherTrust Manager MCP Server",
+    "url": "https://github.com/sanyambassi/ciphertrust-manager-mcp-server",
+    "status": "ok",
+    "title": "CipherTrust Manager MCP Server"
+  },
+  {
+    "name": "thegraph-mcp",
+    "url": "https://github.com/kukapay/thegraph-mcp",
+    "status": "ok",
+    "title": "TheGraph MCP Server"
+  },
+  {
+    "name": "TheHive MCP Server",
+    "url": "https://github.com/redwaysecurity/the-hive-mcp-server",
+    "status": "ok",
+    "title": "TheHive MCP Server"
+  },
+  {
+    "name": "Things3 MCP",
+    "url": "https://github.com/urbanogardun/things3-mcp",
+    "status": "ok",
+    "title": "Things3 MCP Server"
+  },
+  {
+    "name": "Think MCP",
+    "url": "https://github.com/Rai220/think-mcp",
+    "status": "ok",
+    "title": "Think MCP Tool"
+  },
+  {
+    "name": "Think Node MCP",
+    "url": "https://github.com/abhinav-mangla/think-tool-mcp",
+    "status": "ok",
+    "title": "MCP Think Tool Server"
+  },
+  {
+    "name": "Ticket-Generator MCP",
+    "url": "https://github.com/trycon/ticket-generator-mcp",
+    "status": "ok",
+    "title": "Ticket Generator MCP Server"
+  },
+  {
+    "name": "Ticketmaster",
+    "url": "https://github.com/delorenj/mcp-server-ticketmaster",
+    "status": "ok",
+    "title": "MCP Server for Ticketmaster"
+  },
+  {
+    "name": "Ticketmaster MCP Server",
+    "url": "https://github.com/mochow13/ticketmaster-mcp-server",
+    "status": "ok",
+    "title": "Ticketmaster MCP Server"
+  },
+  {
+    "name": "TickTick",
+    "url": "https://github.com/alexarevalo9/ticktick-mcp-server",
+    "status": "ok",
+    "title": "TickTick MCP Server"
+  },
+  {
+    "name": "Tideways",
+    "url": "https://github.com/abuhamza/tideways-mcp-server",
+    "status": "ok",
+    "title": "Tideways MCP Server"
+  },
+  {
+    "name": "TigerGraph",
+    "url": "https://github.com/custom-discoveries/TigerGraph_MCP",
+    "status": "ok",
+    "title": "TigerGraph-MCP"
+  },
+  {
+    "name": "TikTok Ads",
+    "url": "https://github.com/AdsMCP/tiktok-ads-mcp-server",
+    "status": "ok",
+    "title": "TikTok Ads MCP Server"
+  },
+  {
+    "name": "time-mcp-nuget",
+    "url": "https://github.com/domdomegg/time-mcp-nuget",
+    "status": "ok",
+    "title": "Time MCP Server"
+  },
+  {
+    "name": "time-mcp-pypi",
+    "url": "https://github.com/domdomegg/time-mcp-pypi",
+    "status": "ok",
+    "title": "Time MCP Server"
+  },
+  {
+    "name": "tip.md",
+    "url": "https://github.com/tipdotmd#-mcp-server-for-ai-assistants",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "TMD Earthquake",
+    "url": "https://github.com/amornpan/tmd-earthquake-server-1.0",
+    "status": "ok",
+    "title": "🌍 TMD Earthquake MCP Server v1.0"
+  },
+  {
+    "name": "TMDB",
+    "url": "https://github.com/Laksh-star/mcp-server-tmdb",
+    "status": "ok",
+    "title": "TMDB MCP Server"
+  },
+  {
+    "name": "Todoist",
+    "url": "https://github.com/abhiz123/todoist-mcp-server",
+    "status": "ok",
+    "title": "Todoist MCP Server"
+  },
+  {
+    "name": "Todos",
+    "url": "https://github.com/tomelliot/todos-mcp",
+    "status": "ok",
+    "title": "MCP Todo List App"
+  },
+  {
+    "name": "token-minter-mcp",
+    "url": "https://github.com/kukapay/token-minter-mcp",
+    "status": "ok",
+    "title": "Token Minter MCP"
+  },
+  {
+    "name": "token-revoke-mcp",
+    "url": "https://github.com/kukapay/token-revoke-mcp",
+    "status": "ok",
+    "title": "Token Revoke MCP"
+  },
+  {
+    "name": "Ton Blockchain MCP",
+    "url": "https://github.com/devonmojito/ton-blockchain-mcp",
+    "status": "ok",
+    "title": "TON BLOCKCHAIN MCP"
+  },
+  {
+    "name": "Topolograph MCP",
+    "url": "https://github.com/Vadims06/topolograph-mcp-server",
+    "status": "ok",
+    "title": "Topolograph MCP Server"
+  },
+  {
+    "name": "TouchDesigner",
+    "url": "https://github.com/8beeeaaat/touchdesigner-mcp",
+    "status": "ok",
+    "title": "TouchDesigner MCP"
+  },
+  {
+    "name": "Transcribe",
+    "url": "https://github.com/transcribe-app/mcp-transcribe",
+    "status": "ok",
+    "title": "About"
+  },
+  {
+    "name": "Travel Planner",
+    "url": "https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server",
+    "status": "ok",
+    "title": "Travel Planner MCP Server (@gongrzhe/server-travelplanner-mcp)"
+  },
+  {
+    "name": "Trello MCP Server",
+    "url": "https://github.com/lioarce01/trello-mcp-server",
+    "status": "ok",
+    "title": "Trello MCP Server"
+  },
+  {
+    "name": "Trino",
+    "url": "https://github.com/tuannvm/mcp-trino",
+    "status": "ok",
+    "title": "Trino MCP Server in Go"
+  },
+  {
+    "name": "Tripadvisor",
+    "url": "https://github.com/pab1it0/tripadvisor-mcp",
+    "status": "ok",
+    "title": "Tripadvisor MCP Server"
+  },
+  {
+    "name": "Triplyfy MCP",
+    "url": "https://github.com/helpful-AIs/triplyfy-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "TrueNAS Core MCP",
+    "url": "https://github.com/vespo92/TrueNasCoreMCP",
+    "status": "ok",
+    "title": "TrueNAS MCP Server"
+  },
+  {
+    "name": "TuriX Computer Automation MCP",
+    "url": "https://github.com/TurixAI/TuriX-CUA/tree/mac_mcp",
+    "status": "ok",
+    "title": "macOS Terminal"
+  },
+  {
+    "name": "Tyk API Management",
+    "url": "https://github.com/TykTechnologies/tyk-dashboard-mcp",
+    "status": "ok",
+    "title": "OpenAPI to MCP Server"
+  },
+  {
+    "name": "Typesense",
+    "url": "https://github.com/suhail-ak-s/mcp-typesense-server",
+    "status": "ok",
+    "title": "Typesense MCP Server"
+  },
+  {
+    "name": "UniFi Dream Machine",
+    "url": "https://github.com/sabler/mcp-unifi",
+    "status": "ok",
+    "title": "UniFi MCP Server"
+  },
+  {
+    "name": "UniProt",
+    "url": "https://github.com/QuentinCody/uniprot-mcp-server",
+    "status": "ok",
+    "title": "UniProt & Proteins API MCP Server"
+  },
+  {
+    "name": "uniswap-poolspy-mcp",
+    "url": "https://github.com/kukapay/uniswap-poolspy-mcp",
+    "status": "ok",
+    "title": "Uniswap PoolSpy MCP Server"
+  },
+  {
+    "name": "uniswap-trader-mcp",
+    "url": "https://github.com/kukapay/uniswap-trader-mcp",
+    "status": "ok",
+    "title": "Uniswap Trader MCP"
+  },
+  {
+    "name": "Unity Catalog",
+    "url": "https://github.com/ognis1205/mcp-server-unitycatalog",
+    "status": "ok",
+    "title": "mcp-server-unitycatalog: An Unity Catalog MCP server"
+  },
+  {
+    "name": "Unity Integration (Advanced)",
+    "url": "https://github.com/quazaai/UnityMCPIntegration",
+    "status": "ok",
+    "title": "🚀 Advacned Unity MCP Integration"
+  },
+  {
+    "name": "Unity MCP (AI Game Developer)",
+    "url": "https://github.com/IvanMurzak/Unity-MCP",
+    "status": "ok",
+    "title": "Installation"
+  },
+  {
+    "name": "Unity3d Game Engine",
+    "url": "https://github.com/CoderGamester/mcp-unity",
+    "status": "ok",
+    "title": "MCP Unity Editor (Game Engine)"
+  },
+  {
+    "name": "Universal MCP Servers",
+    "url": "https://github.com/universal-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Unleash Integration (Feature Toggle)",
+    "url": "https://github.com/cuongtl1992/unleash-mcp",
+    "status": "ok",
+    "title": "Unleash MCP Server"
+  },
+  {
+    "name": "Upbit MCP Server",
+    "url": "https://github.com/solangii/upbit-mcp-server",
+    "status": "ok",
+    "title": "Upbit MCP Server"
+  },
+  {
+    "name": "USA Spending MCP Server",
+    "url": "https://github.com/thsmale/usaspending-mcp-server",
+    "status": "ok",
+    "title": "USA Spending MCP Server"
+  },
+  {
+    "name": "use_aws_mcp",
+    "url": "https://github.com/runjivu/use_aws_mcp",
+    "status": "ok",
+    "title": "use_aws MCP Server"
+  },
+  {
+    "name": "User Feedback",
+    "url": "https://github.com/mrexodia/user-feedback-mcp",
+    "status": "ok",
+    "title": "User Feedback MCP"
+  },
+  {
+    "name": "Useless Toolkit",
+    "url": "https://uselesstoolkit.com/apis/mcp-servers",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "USPTO",
+    "url": "https://github.com/riemannzeta/patent_mcp_server",
+    "status": "ok",
+    "title": "USPTO Patent MCP Server"
+  },
+  {
+    "name": "Vectara",
+    "url": "https://github.com/vectara/vectara-mcp",
+    "status": "ok",
+    "title": "Vectara MCP Server"
+  },
+  {
+    "name": "Vega-Lite",
+    "url": "https://github.com/isaacwasserman/mcp-vegalite-server",
+    "status": "ok",
+    "title": "Data Visualization MCP Server"
+  },
+  {
+    "name": "Vertica",
+    "url": "https://github.com/nolleh/mcp-vertica",
+    "status": "ok",
+    "title": "MCP Vertica"
+  },
+  {
+    "name": "Vibe Check",
+    "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
+    "status": "ok",
+    "title": "Vibe Check MCP"
+  },
+  {
+    "name": "Video Editor",
+    "url": "https://github.com/burningion/video-editing-mcp",
+    "status": "ok",
+    "title": "Video Editor MCP server"
+  },
+  {
+    "name": "Video Still Capture",
+    "url": "https://github.com/13rac1/videocapture-mcp",
+    "status": "ok",
+    "title": "Video Still Capture MCP"
+  },
+  {
+    "name": "Virtual location (Google Street View,etc.)",
+    "url": "https://github.com/mfukushim/map-traveler-mcp",
+    "status": "ok",
+    "title": "Virtual Traveling bot environment for MCP"
+  },
+  {
+    "name": "VMware Fusion",
+    "url": "https://github.com/yeahdongcn/vmware-fusion-mcp-server",
+    "status": "ok",
+    "title": "VMware Fusion MCP Server"
+  },
+  {
+    "name": "Voice Status Report",
+    "url": "https://github.com/tomekkorbak/voice-status-report-mcp-server",
+    "status": "ok",
+    "title": "Voice Status Report MCP Server"
+  },
+  {
+    "name": "VoiceMode",
+    "url": "https://github.com/mbailey/voicemode",
+    "status": "ok",
+    "title": "VoiceMode"
+  },
+  {
+    "name": "VolcEngine TOS",
+    "url": "https://github.com/dinghuazhou/sample-mcp-server-tos",
+    "status": "ok",
+    "title": "TOS MCP Server"
+  },
+  {
+    "name": "Voyp",
+    "url": "https://github.com/paulotaylor/voyp-mcp",
+    "status": "ok",
+    "title": "Voyp Model Context Protocol server"
+  },
+  {
+    "name": "vscode-ai-model-detector",
+    "url": "https://github.com/thisis-romar/vscode-ai-model-detector",
+    "status": "ok",
+    "title": "VS Code AI Model Detector"
+  },
+  {
+    "name": "vulnicheck",
+    "url": "https://github.com/andrasfe/vulnicheck",
+    "status": "ok",
+    "title": "VulniCheck - AI-Powered Security Scanner"
+  },
+  {
+    "name": "Wanaku MCP Router",
+    "url": "https://github.com/wanaku-ai/wanaku/",
+    "status": "ok",
+    "title": "Wanaku - A MCP Router that connects everything"
+  },
+  {
+    "name": "weather-mcp-server",
+    "url": "https://github.com/devilcoder01/weather-mcp-server",
+    "status": "ok",
+    "title": "Weather MCP Server"
+  },
+  {
+    "name": "Web Search MCP",
+    "url": "https://github.com/mrkrsl/web-search-mcp",
+    "status": "ok",
+    "title": "Web Search MCP Server for use with Local LLMs"
+  },
+  {
+    "name": "Webex",
+    "url": "https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server",
+    "status": "ok",
+    "title": "Webex MCP Server"
+  },
+  {
+    "name": "Webflow",
+    "url": "https://github.com/kapilduraphe/webflow-mcp-server",
+    "status": "ok",
+    "title": "Webflow MCP Server"
+  },
+  {
+    "name": "webhook-mcp",
+    "url": "https://github.com/noobnooc/webhook-mcp",
+    "status": "ok",
+    "title": "Webhook MCP Server"
+  },
+  {
+    "name": "Wekan",
+    "url": "https://github.com/namar0x0309/wekan-mcp",
+    "status": "ok",
+    "title": "Wekan MCP Server"
+  },
+  {
+    "name": "whale-tracker-mcp",
+    "url": "https://github.com/kukapay/whale-tracker-mcp",
+    "status": "ok",
+    "title": "Whale Tracker MCP Server"
+  },
+  {
+    "name": "WhatsApp MCP Server",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "status": "ok",
+    "title": "WhatsApp MCP Server"
+  },
+  {
+    "name": "Whois MCP",
+    "url": "https://github.com/bharathvaj-ganesan/whois-mcp",
+    "status": "ok",
+    "title": "Whois MCP"
+  },
+  {
+    "name": "Withings",
+    "url": "https://github.com/akutishevsky/withings-mcp",
+    "status": "ok",
+    "title": "Withings MCP Server"
+  },
+  {
+    "name": "Wikidata MCP",
+    "url": "https://github.com/zzaebok/mcp-wikidata",
+    "status": "ok",
+    "title": "if you want to run client example together"
+  },
+  {
+    "name": "Wikidata SPARQL",
+    "url": "https://github.com/QuentinCody/wikidata-sparql-mcp-server",
+    "status": "ok",
+    "title": "Wikidata SPARQL MCP Server"
+  },
+  {
+    "name": "Wikifunctions",
+    "url": "https://github.com/Fredibau/wikifunctions-mcp-fredibau",
+    "status": "ok",
+    "title": "WikiFunctions MCP Server"
+  },
+  {
+    "name": "Wikipedia MCP",
+    "url": "https://github.com/Rudra-ravi/wikipedia-mcp",
+    "status": "ok",
+    "title": "Wikipedia MCP Server"
+  },
+  {
+    "name": "WildFly MCP",
+    "url": "https://github.com/wildfly-extras/wildfly-mcp",
+    "status": "ok",
+    "title": "WildFly MCP"
+  },
+  {
+    "name": "Windows CLI",
+    "url": "https://github.com/SimonB97/win-cli-mcp-server",
+    "status": "ok",
+    "title": "Windows CLI MCP Server"
+  },
+  {
+    "name": "Windsor",
+    "url": "https://github.com/windsor-ai/windsor_mcp",
+    "status": "ok",
+    "title": "Windsor MCP Server"
+  },
+  {
+    "name": "Wordle MCP",
+    "url": "https://github.com/cr2007/mcp-wordle-python",
+    "status": "ok",
+    "title": "Wordle MCP (Python)"
+  },
+  {
+    "name": "WordPress MCP",
+    "url": "https://github.com/Automattic/wordpress-mcp",
+    "status": "ok",
+    "title": "WordPress MCP"
+  },
+  {
+    "name": "WordPress MCP Adapter",
+    "url": "https://github.com/WordPress/mcp-adapter",
+    "status": "ok",
+    "title": "MCP Adapter"
+  },
+  {
+    "name": "Workflowy",
+    "url": "https://github.com/danield137/mcp-workflowy",
+    "status": "ok",
+    "title": "Workflowy MCP"
+  },
+  {
+    "name": "World Bank data API",
+    "url": "https://github.com/anshumax/world_bank_mcp_server",
+    "status": "ok",
+    "title": "World Bank MCP Server"
+  },
+  {
+    "name": "Wren Engine",
+    "url": "https://github.com/Canner/wren-engine",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "X (Twitter)",
+    "url": "https://github.com/EnesCinr/twitter-mcp",
+    "status": "ok",
+    "title": "Twitter MCP Server"
+  },
+  {
+    "name": "X (Twitter)",
+    "url": "https://github.com/vidhupv/x-mcp",
+    "status": "ok",
+    "title": "X(Twitter) MCP server"
+  },
+  {
+    "name": "Xcode",
+    "url": "https://github.com/r-huijts/xcode-mcp-server",
+    "status": "ok",
+    "title": "Xcode MCP Server"
+  },
+  {
+    "name": "Xcode-mcp-server",
+    "url": "https://github.com/drewster99/xcode-mcp-server",
+    "status": "ok",
+    "title": "Xcode MCP Server"
+  },
+  {
+    "name": "xcodebuild",
+    "url": "https://github.com/ShenghaiWang/xcodebuild",
+    "status": "ok",
+    "title": "xcodebuild MCP Server"
+  },
+  {
+    "name": "Xero-mcp-server",
+    "url": "https://github.com/john-zhang-dev/xero-mcp",
+    "status": "ok",
+    "title": "Xero MCP Server"
+  },
+  {
+    "name": "Xero-mcp-server",
+    "url": "https://github.com/XeroAPI/xero-mcp-server",
+    "status": "ok",
+    "title": "Xero MCP Server"
+  },
+  {
+    "name": "XiYan",
+    "url": "https://github.com/XGenerationLab/xiyan_mcp_server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "XMind",
+    "url": "https://github.com/apeyroux/mcp-xmind",
+    "status": "ok",
+    "title": "MCP XMind Server"
+  },
+  {
+    "name": "Yahoo Finance",
+    "url": "https://github.com/AgentX-ai/yahoo-finance-server",
+    "status": "ok",
+    "title": "Yahoo Finance MCP Server"
+  },
+  {
+    "name": "YetiBrowser MCP",
+    "url": "https://github.com/yetidevworks/yetibrowser-mcp",
+    "status": "ok",
+    "title": "YetiBrowser MCP"
+  },
+  {
+    "name": "yfinance",
+    "url": "https://github.com/Adity-star/mcp-yfinance-server",
+    "status": "ok",
+    "title": "💹 MCP YFinance Stock Server"
+  },
+  {
+    "name": "YNAB",
+    "url": "https://github.com/ChuckBryan/ynabmcpserver",
+    "status": "ok",
+    "title": "YNAB MCP Server"
+  },
+  {
+    "name": "YouTrack",
+    "url": "https://github.com/tonyzorin/youtrack-mcp",
+    "status": "ok",
+    "title": "YouTrack MCP"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube",
+    "status": "ok",
+    "title": "Run any MCP Integration"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://github.com/ZubeidHendricks/youtube-mcp-server",
+    "status": "ok",
+    "title": "YouTube MCP Server"
+  },
+  {
+    "name": "YouTube DLP",
+    "url": "https://github.com/AgentX-ai/youtube-dlp-server",
+    "status": "ok",
+    "title": "YouTube DLP MCP Server"
+  },
+  {
+    "name": "YouTube MCP",
+    "url": "https://github.com/aardeshir/youtube-mcp",
+    "status": "ok",
+    "title": "YouTube MCP Server"
+  },
+  {
+    "name": "Youtube Uploader MCP",
+    "url": "https://github.com/anwerj/youtube-uploader-mcp",
+    "status": "ok",
+    "title": "YouTube Uploader MCP"
+  },
+  {
+    "name": "YouTube Video Summarizer",
+    "url": "https://github.com/nabid-pf/youtube-video-summarizer-mcp",
+    "status": "ok",
+    "title": "YouTube Video Summarizer MCP Server"
+  },
+  {
+    "name": "yutu",
+    "url": "https://github.com/eat-pray-ai/yutu",
+    "status": "ok",
+    "title": "`yutu`"
+  },
+  {
+    "name": "ZapCap",
+    "url": "https://github.com/bogdan01m/zapcap-mcp-server",
+    "status": "ok",
+    "title": "ZapCap MCP Server"
+  },
+  {
+    "name": "Zettelkasten",
+    "url": "https://github.com/joshylchen/zettelkasten",
+    "status": "ok",
+    "title": "🧠 Zettelkasten AI Assistant"
+  },
+  {
+    "name": "ZincBind",
+    "url": "https://github.com/QuentinCody/zincbind-mcp-server",
+    "status": "ok",
+    "title": "ZincBind MCP Server"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://github.com/Prathamesh0901/zoom-mcp-server/tree/main",
+    "status": "ok",
+    "title": "Zoom MCP Server"
+  }
+]

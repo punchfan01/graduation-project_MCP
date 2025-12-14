@@ -1,0 +1,7 @@
+[
+  {
+    "순서": 1,
+    "name": "query",
+    "description": "Run a read-only SQL query"
+  }
+]

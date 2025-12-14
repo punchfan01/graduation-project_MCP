@@ -1,0 +1,247 @@
+[
+  {
+    "순서": 1,
+    "name": "firebase_login",
+    "description": "Use this to sign the user into the Firebase CLI and Firebase MCP server. This requires a Google Account, and sign in is required to create and work with Firebase Projects."
+  },
+  {
+    "순서": 2,
+    "name": "firebase_logout",
+    "description": "Use this to sign the user out of the Firebase CLI and Firebase MCP server."
+  },
+  {
+    "순서": 3,
+    "name": "firebase_validate_security_rules",
+    "description": "Use this to check Firebase Security Rules for Firestore, Storage, or Realtime Database for syntax and validation errors."
+  },
+  {
+    "순서": 4,
+    "name": "firebase_get_project",
+    "description": "Use this to retrieve information about the currently active Firebase Project."
+  },
+  {
+    "순서": 5,
+    "name": "firebase_list_apps",
+    "description": "Use this to retrieve a list of the Firebase Apps registered in the currently active Firebase project. Firebase Apps can be iOS, Android, or Web."
+  },
+  {
+    "순서": 6,
+    "name": "firebase_list_projects",
+    "description": "Use this to retrieve a list of Firebase Projects that the signed-in user has access to."
+  },
+  {
+    "순서": 7,
+    "name": "firebase_get_sdk_config",
+    "description": "Use this to retrieve the Firebase configuration information for a Firebase App. You must specify EITHER a platform OR the Firebase App ID for a Firebase App registered in the currently active Firebase Project."
+  },
+  {
+    "순서": 8,
+    "name": "firebase_create_project",
+    "description": "Use this to create a new Firebase Project."
+  },
+  {
+    "순서": 9,
+    "name": "firebase_create_app",
+    "description": "Use this to create a new Firebase App in the currently active Firebase Project. Firebase Apps can be iOS, Android, or Web."
+  },
+  {
+    "순서": 10,
+    "name": "firebase_create_android_sha",
+    "description": "Use this to add the specified SHA certificate hash to the specified Firebase Android App."
+  },
+  {
+    "순서": 11,
+    "name": "firebase_get_environment",
+    "description": "Use this to retrieve the current Firebase **environment** configuration for the Firebase CLI and Firebase MCP server, including current authenticated user, project directory, active Firebase Project, and more."
+  },
+  {
+    "순서": 12,
+    "name": "firebase_update_environment",
+    "description": "Use this to update environment config for the Firebase CLI and Firebase MCP server, such as project directory, active project, active user account, accept terms of service, and more. Use `firebase_get_environment` to see the currently configured environment."
+  },
+  {
+    "순서": 13,
+    "name": "firebase_init",
+    "description": "Use this to initialize selected Firebase services in the workspace (Cloud Firestore database, Firebase Data Connect, Firebase Realtime Database, Firebase AI Logic). All services are optional; specify only the products you want to set up. You can initialize new features into an existing project directory, but re-initializing an existing feature may overwrite configuration. To deploy the initialized features, run the `firebase deploy` command after `firebase_init` tool."
+  },
+  {
+    "순서": 14,
+    "name": "firebase_get_security_rules",
+    "description": "Use this to retrieve the security rules for a specified Firebase service. If there are multiple instances of that service in the product, the rules for the defualt instance are returned."
+  },
+  {
+    "순서": 15,
+    "name": "firebase_read_resources",
+    "description": "Use this to read the contents of `firebase://` resources or list available resources"
+  },
+  {
+    "순서": 16,
+    "name": "firestore_delete_document",
+    "description": "Use this to delete a Firestore documents from a database in the current project by full document paths. Use this if you know the exact path of a document."
+  },
+  {
+    "순서": 17,
+    "name": "firestore_get_documents",
+    "description": "Use this to retrieve one or more Firestore documents from a database in the current project by full document paths. Use this if you know the exact path of a document."
+  },
+  {
+    "순서": 18,
+    "name": "firestore_list_collections",
+    "description": "Use this to retrieve a list of collections from a Firestore database in the current project."
+  },
+  {
+    "순서": 19,
+    "name": "firestore_query_collection",
+    "description": "Use this to retrieve one or more Firestore documents from a collection is a database in the current project by a collection with a full document path. Use this if you know the exact path of a collection and the filtering clause you would like for the document."
+  },
+  {
+    "순서": 20,
+    "name": "auth_get_users",
+    "description": "Use this to retrieve one or more Firebase Auth users based on a list of UIDs or a list of emails."
+  },
+  {
+    "순서": 21,
+    "name": "auth_update_user",
+    "description": "Use this to disable, enable, or set a custom claim on a specific user's account."
+  },
+  {
+    "순서": 22,
+    "name": "auth_set_sms_region_policy",
+    "description": "Use this to set an SMS region policy for Firebase Authentication to restrict the regions which can receive text messages based on an ALLOW or DENY list of country codes. This policy will override any existing policies when set."
+  },
+  {
+    "순서": 23,
+    "name": "dataconnect_build",
+    "description": "Use this to compile Firebase Data Connect schema, operations, and/or connectors and check for build errors."
+  },
+  {
+    "순서": 24,
+    "name": "dataconnect_generate_schema",
+    "description": "Use this to generate a Firebase Data Connect Schema based on the users description of an app."
+  },
+  {
+    "순서": 25,
+    "name": "dataconnect_generate_operation",
+    "description": "Use this to generate a single Firebase Data Connect query or mutation based on the currently deployed schema and the provided prompt."
+  },
+  {
+    "순서": 26,
+    "name": "dataconnect_list_services",
+    "description": "Use this to list existing local and backend Firebase Data Connect services"
+  },
+  {
+    "순서": 27,
+    "name": "dataconnect_execute",
+    "description": "Use this to execute a GraphQL operation against a Data Connect service or its emulator."
+  },
+  {
+    "순서": 28,
+    "name": "storage_get_object_download_url",
+    "description": "Use this to retrieve the download URL for an object in a Cloud Storage for Firebase bucket."
+  },
+  {
+    "순서": 29,
+    "name": "messaging_send_message",
+    "description": "Use this to send a message to a Firebase Cloud Messaging registration token or topic. ONLY ONE of `registration_token` or `topic` may be supplied in a specific call."
+  },
+  {
+    "순서": 30,
+    "name": "functions_get_logs",
+    "description": "Use this to retrieve a page of Cloud Functions log entries using Google Cloud Logging advanced filters."
+  },
+  {
+    "순서": 31,
+    "name": "remoteconfig_get_template",
+    "description": "Use this to retrieve the specified Firebase Remote Config template from the currently active Firebase Project."
+  },
+  {
+    "순서": 32,
+    "name": "remoteconfig_update_template",
+    "description": "Use this to publish a new remote config template or roll back to a specific version for the project"
+  },
+  {
+    "순서": 33,
+    "name": "crashlytics_create_note",
+    "description": "Add a note to an issue from crashlytics."
+  },
+  {
+    "순서": 34,
+    "name": "crashlytics_delete_note",
+    "description": "Delete a note from a Crashlytics issue."
+  },
+  {
+    "순서": 35,
+    "name": "crashlytics_get_issue",
+    "description": "Gets data for a Crashlytics issue, which can be used as a starting point for debugging."
+  },
+  {
+    "순서": 36,
+    "name": "crashlytics_list_events",
+    "description": "Use this to list the most recent events matching the given filters.<br> Can be used to fetch sample crashes and exceptions for an issue,<br> which will include stack traces and other data useful for debugging."
+  },
+  {
+    "순서": 37,
+    "name": "crashlytics_batch_get_events",
+    "description": "Gets specific events by resource name.<br> Can be used to fetch sample crashes and exceptions for an issue,<br> which will include stack traces and other data useful for debugging."
+  },
+  {
+    "순서": 38,
+    "name": "crashlytics_list_notes",
+    "description": "Use this to list all notes for an issue in Crashlytics."
+  },
+  {
+    "순서": 39,
+    "name": "crashlytics_get_top_issues",
+    "description": "Use this to count events and distinct impacted users, grouped by _issue_.<br> Groups are sorted by event count, in descending order.<br> Only counts events matching the given filters."
+  },
+  {
+    "순서": 40,
+    "name": "crashlytics_get_top_variants",
+    "description": "Counts events and distinct impacted users, grouped by issue _variant_.<br> Groups are sorted by event count, in descending order.<br> Only counts events matching the given filters."
+  },
+  {
+    "순서": 41,
+    "name": "crashlytics_get_top_versions",
+    "description": "Counts events and distinct impacted users, grouped by _version_.<br> Groups are sorted by event count, in descending order.<br> Only counts events matching the given filters."
+  },
+  {
+    "순서": 42,
+    "name": "crashlytics_get_top_apple_devices",
+    "description": "Counts events and distinct impacted users, grouped by apple _device_.<br> Groups are sorted by event count, in descending order.<br> Only counts events matching the given filters.<br> Only relevant for iOS, iPadOS and MacOS applications."
+  },
+  {
+    "순서": 43,
+    "name": "crashlytics_get_top_android_devices",
+    "description": "Counts events and distinct impacted users, grouped by android _device_.<br> Groups are sorted by event count, in descending order.<br> Only counts events matching the given filters.<br> Only relevant for Android applications."
+  },
+  {
+    "순서": 44,
+    "name": "crashlytics_get_top_operating_systems",
+    "description": "Counts events and distinct impacted users, grouped by _operating system_.<br> Groups are sorted by event count, in descending order.<br> Only counts events matching the given filters."
+  },
+  {
+    "순서": 45,
+    "name": "crashlytics_update_issue",
+    "description": "Use this to update the state of Crashlytics issue."
+  },
+  {
+    "순서": 46,
+    "name": "apphosting_fetch_logs",
+    "description": "Use this to fetch the most recent logs for a specified App Hosting backend. If `buildLogs` is specified, the logs from the build process for the latest build are returned. The most recent logs are listed first."
+  },
+  {
+    "순서": 47,
+    "name": "apphosting_list_backends",
+    "description": "Use this to retrieve a list of App Hosting backends in the current project. An empty list means that there are no backends. The `uri` is the public URL of the backend. A working backend will have a `managed_resources` array that will contain a `run_service` entry. That `run_service.service` is the resource name of the Cloud Run service serving the App Hosting backend. The last segment of that name is the service ID. `domains` is the list of domains that are associated with the backend. They either have type `CUSTOM` or `DEFAULT`. Every backend should have a `DEFAULT` domain. The actual domain that a user would use to conenct to the backend is the last parameter of the domain resource name. If a custom domain is correctly set up, it will have statuses ending in `ACTIVE`."
+  },
+  {
+    "순서": 48,
+    "name": "realtimedatabase_get_data",
+    "description": "Use this to retrieve data from the specified location in a Firebase Realtime Database."
+  },
+  {
+    "순서": 49,
+    "name": "realtimedatabase_set_data",
+    "description": "Use this to write data to the specified location in a Firebase Realtime Database."
+  }
+]

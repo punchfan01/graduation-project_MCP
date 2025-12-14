@@ -1,0 +1,47 @@
+[
+  {
+    "순서": 1,
+    "name": "discord_get_server_info",
+    "description": "Get information about a Discord server (guild)."
+  },
+  {
+    "순서": 2,
+    "name": "discord_list_members",
+    "description": "Get a list of members in a server (Default 100, Max 1000)."
+  },
+  {
+    "순서": 3,
+    "name": "discord_create_text_channel",
+    "description": "Create a new text channel."
+  },
+  {
+    "순서": 4,
+    "name": "discord_add_reaction",
+    "description": "Add a reaction to a message."
+  },
+  {
+    "순서": 5,
+    "name": "discord_add_multiple_reactions",
+    "description": "Add multiple reactions to a message (makes individual API calls)."
+  },
+  {
+    "순서": 6,
+    "name": "discord_remove_reaction",
+    "description": "Remove the bot"
+  },
+  {
+    "순서": 7,
+    "name": "discord_send_message",
+    "description": "Send a message to a specific channel."
+  },
+  {
+    "순서": 8,
+    "name": "discord_read_messages",
+    "description": "Read recent messages from a channel (Default 50, Max 100)."
+  },
+  {
+    "순서": 9,
+    "name": "discord_get_user_info",
+    "description": "Get information about a Discord user."
+  }
+]

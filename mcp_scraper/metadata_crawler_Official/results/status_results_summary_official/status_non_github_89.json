@@ -1,0 +1,536 @@
+[
+  {
+    "name": "Airwallex Developer",
+    "url": "https://www.npmjs.com/package/@airwallex/developer-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "AllVoiceLab",
+    "url": "https://www.allvoicelab.com/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "AlphaVantage",
+    "url": "https://mcp.alphavantage.co/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "AltTester®",
+    "url": "https://alttester.com/docs/desktop/latest/pages/ai-extension.html",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Amplitude",
+    "url": "https://amplitude.com/docs/analytics/amplitude-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Archbee",
+    "url": "https://www.npmjs.com/package/@archbee/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com/platform/remote-mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "AtomGit",
+    "url": "https://atomgit.com/atomgit-open-source-ecosystem/atomgit-mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Atono",
+    "url": "https://docs.atono.io/docs/mcp-server-for-atono/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Backdocket",
+    "url": "https://ai.backdocket.com",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Baserow",
+    "url": "https://gitlab.com/baserow/baserow/-/tree/develop/backend/src/baserow/api/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Cal.com",
+    "url": "https://www.npmjs.com/package/@calcom/cal-mcp?activeTab=readme",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.dev/docs/apps/mcp-server/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Chiki StudIO",
+    "url": "https://chiki.studio/galimybes/mcp/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Cleanup Crew",
+    "url": "https://cleanupcrew.ai/install",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "CloudBees CI",
+    "url": "https://docs.cloudbees.com/docs/cloudbees-ci-mcp-router/latest/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "CloudBees Unify",
+    "url": "https://docs.cloudbees.com/docs/cloudbees-unify-mcp-server/latest/install/mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Composio",
+    "url": "https://docs.composio.dev/docs/mcp-overview#-getting-started",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Convex",
+    "url": "https://stack.convex.dev/convex-mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Courier",
+    "url": "https://www.courier.com/docs/tools/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Customer.io",
+    "url": "https://docs.customer.io/ai/mcp-server/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Databricks",
+    "url": "https://docs.databricks.com/aws/en/generative-ai/mcp/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Destinia",
+    "url": "https://destinia.com/developers",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Detailer",
+    "url": "https://detailer.ginylil.com/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "DevCycle",
+    "url": "https://docs.devcycle.com/cli-mcp/mcp-getting-started",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "DevExpress",
+    "url": "https://docs.devexpress.com/GeneralInformation/405551/help-resources/dev-express-documentation-mcp-server-configure-an-ai-powered-assistant",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Dot (GetDot.ai)",
+    "url": "https://docs.getdot.ai/dot/integrations/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Drata",
+    "url": "https://drata.com/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Ember AI",
+    "url": "https://docs.emberai.xyz/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Endor Labs",
+    "url": "https://docs.endorlabs.com/deployment/ide/mcp/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "FIXParser",
+    "url": "https://gitlab.com/logotype/fixparser/-/tree/main/packages/fixparser-plugin-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Gitea",
+    "url": "https://gitea.com/gitea/gitea-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "GitLab",
+    "url": "https://docs.gitlab.com/user/gitlab_duo/model_context_protocol/mcp_server/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Grain",
+    "url": "https://grain.com/release-note/06-18-2025",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "HeyOnCall",
+    "url": "https://heyoncall.com/blog/mcp-server-for-paging-a-human",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Homebrew",
+    "url": "https://docs.brew.sh/MCP-Server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "HubSpot",
+    "url": "https://developer.hubspot.com/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/settings/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://plugins.jenkins.io/mcp-server/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "JetBrains",
+    "url": "https://www.jetbrains.com/help/idea/mcp-server.html",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Keywords Everywhere",
+    "url": "https://api.keywordseverywhere.com/docs/#/mcp_integration",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "KirokuForms",
+    "url": "https://www.kirokuforms.com/ai/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Klaviyo",
+    "url": "https://developers.klaviyo.com/en/docs/klaviyo_mcp_server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "kluster.ai",
+    "url": "https://docs.kluster.ai/get-started/mcp/overview/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Knit MCP Server",
+    "url": "https://developers.getknit.dev/docs/knit-mcp-server-getting-started",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "LambdaTest",
+    "url": "https://www.lambdatest.com/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Linear",
+    "url": "https://linear.app/docs/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Mercado Libre",
+    "url": "https://mcp.mercadolibre.com/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Mercado Pago",
+    "url": "https://mcp.mercadopago.com/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Microsoft Dataverse",
+    "url": "https://go.microsoft.com/fwlink/?linkid=2320176",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Microsoft Teams",
+    "url": "https://devblogs.microsoft.com/microsoft365dev/announcing-the-updated-teams-ai-library-and-mcp-support/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "mimilabs",
+    "url": "https://www.mimilabs.ai/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Mixpanel",
+    "url": "https://docs.mixpanel.com/docs/features/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Mulesoft",
+    "url": "https://www.npmjs.com/package/@mulesoft/mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Multiplayer",
+    "url": "https://www.multiplayer.app/docs/ai/mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Nango",
+    "url": "https://nango.dev/docs/guides/use-cases/ai-tool-calling",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Netlify",
+    "url": "https://docs.netlify.com/welcome/build-with-ai/netlify-mcp-server/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "OlaMaps",
+    "url": "https://pypi.org/project/ola-maps-mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "OpenMetadata",
+    "url": "https://open-metadata.org/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Oracle",
+    "url": "https://docs.oracle.com/en/database/oracle/sql-developer-command-line/25.2/sqcug/starting-and-managing-sqlcl-mcp-server.html#GUID-5F916B5D-8670-42BD-9F8B-D3D2424EC47E",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "PaddleOCR",
+    "url": "https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/deployment/mcp_server.html",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "PandaDoc",
+    "url": "https://developers.pandadoc.com/docs/use-pandadoc-mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Paubox",
+    "url": "https://mcp.paubox.com",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "PayPal",
+    "url": "https://mcp.paypal.com",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "PGA (Golf)",
+    "url": "https://mcp.pga.com",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Plus AI",
+    "url": "https://plusai.com/features/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "pre.dev Architect",
+    "url": "https://docs.pre.dev/mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "PrestaShop.com",
+    "url": "https://docs.mcp.prestashop.com/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Prisma",
+    "url": "https://www.prisma.io/docs/postgres/mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Probe.dev",
+    "url": "https://docs.probe.dev/guides/mcp-integration",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "proxymock",
+    "url": "https://docs.speedscale.com/proxymock/reference/mcp/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Qorus",
+    "url": "https://qoretechnologies.com/manual/qorus/current/qorus/sysarch.html#mcp_server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Render",
+    "url": "https://render.com/docs/mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Rill Data",
+    "url": "https://docs.rilldata.com/explore/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Smooth Operator",
+    "url": "https://smooth-operator.online/agent-tools-api-docs/toolserverdocs",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://api.stackexchange.com/docs/mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Strata",
+    "url": "https://www.klavis.ai/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Success.co",
+    "url": "https://www.success.co/docs/guides/ai-mcp-connector",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Thena",
+    "url": "https://mcp.thena.ai",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Tldv",
+    "url": "https://gitlab.com/tldv/tldv-mcp-server",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Unblocked",
+    "url": "https://docs.getunblocked.com/unblocked-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Uno Platform",
+    "url": "https://platform.uno/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com/docs/mcp/vercel-mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "WhatsApp Business",
+    "url": "https://medium.com/@wassenger/introducing-whatsapp-mcp-ai-connector-3d393b52d1b0",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "WooCommerce.com",
+    "url": "https://developer.woocommerce.com/docs/features/mcp/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "WordPress.com",
+    "url": "https://developer.wordpress.com/docs/mcp/",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com/mcp",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Zenable",
+    "url": "https://docs.zenable.io/integrations/mcp/getting-started",
+    "status": "non_github",
+    "title": null
+  },
+  {
+    "name": "Zine",
+    "url": "https://www.zine.ai",
+    "status": "non_github",
+    "title": null
+  }
+]

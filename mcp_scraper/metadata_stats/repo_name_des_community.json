@@ -1,0 +1,92 @@
+[
+  {
+    "repo_name": "Browser MCP",
+    "number_of_tools": 23,
+    "number_of_names": 23,
+    "number_of_descriptions": 23
+  },
+  {
+    "repo_name": "Blender",
+    "number_of_tools": 22,
+    "number_of_names": 0,
+    "number_of_descriptions": 0
+  },
+  {
+    "repo_name": "GitMCP",
+    "number_of_tools": 4,
+    "number_of_names": 4,
+    "number_of_descriptions": 4
+  },
+  {
+    "repo_name": "Talk To Figma",
+    "number_of_tools": 40,
+    "number_of_names": 40,
+    "number_of_descriptions": 40
+  },
+  {
+    "repo_name": "Discord",
+    "number_of_tools": 9,
+    "number_of_names": 9,
+    "number_of_descriptions": 9
+  },
+  {
+    "repo_name": "Markdown2doc",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Markitdown",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Resend",
+    "number_of_tools": 15,
+    "number_of_names": 15,
+    "number_of_descriptions": 15
+  },
+  {
+    "repo_name": "YouTube",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "WhatsApp MCP",
+    "number_of_tools": 12,
+    "number_of_names": 0,
+    "number_of_descriptions": 0
+  },
+  {
+    "repo_name": "Playwright",
+    "number_of_tools": 32,
+    "number_of_names": 32,
+    "number_of_descriptions": 32
+  },
+  {
+    "repo_name": "DesktopCommander",
+    "number_of_tools": 26,
+    "number_of_names": 26,
+    "number_of_descriptions": 26
+  },
+  {
+    "repo_name": "Atlassian",
+    "number_of_tools": 41,
+    "number_of_names": 0,
+    "number_of_descriptions": 0
+  },
+  {
+    "repo_name": "AntV Chart",
+    "number_of_tools": 25,
+    "number_of_names": 25,
+    "number_of_descriptions": 25
+  },
+  {
+    "repo_name": "Mobile MCP",
+    "number_of_tools": 19,
+    "number_of_names": 19,
+    "number_of_descriptions": 19
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "repo_name": "Daytona",
+    "number_of_tools": 12,
+    "number_of_names": 12,
+    "number_of_descriptions": 12
+  },
+  {
+    "repo_name": "GitHub",
+    "number_of_tools": 95,
+    "number_of_names": 95,
+    "number_of_descriptions": 95
+  },
+  {
+    "repo_name": "Playwright",
+    "number_of_tools": 33,
+    "number_of_names": 33,
+    "number_of_descriptions": 33
+  },
+  {
+    "repo_name": "SafeLine",
+    "number_of_tools": 4,
+    "number_of_names": 4,
+    "number_of_descriptions": 4
+  },
+  {
+    "repo_name": "Chrome DevTools",
+    "number_of_tools": 26,
+    "number_of_names": 26,
+    "number_of_descriptions": 26
+  },
+  {
+    "repo_name": "Semgrep",
+    "number_of_tools": 8,
+    "number_of_names": 0,
+    "number_of_descriptions": 0
+  },
+  {
+    "repo_name": "MCP Toolbox for Databases (Google)",
+    "number_of_tools": 167,
+    "number_of_names": 167,
+    "number_of_descriptions": 113
+  },
+  {
+    "repo_name": "Pipedream",
+    "number_of_tools": 9,
+    "number_of_names": 9,
+    "number_of_descriptions": 6
+  },
+  {
+    "repo_name": "Arize Phoenix",
+    "number_of_tools": 21,
+    "number_of_names": 21,
+    "number_of_descriptions": 21
+  },
+  {
+    "repo_name": "AWS API MCP Server",
+    "number_of_tools": 3,
+    "number_of_names": 3,
+    "number_of_descriptions": 3
+  },
+  {
+    "repo_name": "Klavis ReportGen",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Firecrawl",
+    "number_of_tools": 6,
+    "number_of_names": 6,
+    "number_of_descriptions": 6
+  },
+  {
+    "repo_name": "Claude Context",
+    "number_of_tools": 4,
+    "number_of_names": 4,
+    "number_of_descriptions": 4
+  },
+  {
+    "repo_name": "Firebase",
+    "number_of_tools": 49,
+    "number_of_names": 49,
+    "number_of_descriptions": 49
+  },
+  {
+    "repo_name": "21st.dev Magic",
+    "number_of_tools": 4,
+    "number_of_names": 4,
+    "number_of_descriptions": 4
+  }
+]

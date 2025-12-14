@@ -1,0 +1,43 @@
+[
+  {
+    "순서": 1,
+    "name": "maps_geocode",
+    "description": "Convert an address into geographic coordinates"
+  },
+  {
+    "순서": 2,
+    "name": "maps_reverse_geocode",
+    "description": "The address to geocode"
+  },
+  {
+    "순서": 3,
+    "name": "maps_search_places",
+    "description": "Convert coordinates into an address"
+  },
+  {
+    "순서": 4,
+    "name": "maps_place_details",
+    "description": "Latitude coordinate"
+  },
+  {
+    "순서": 5,
+    "name": "maps_distance_matrix",
+    "description": "Longitude coordinate"
+  },
+  {
+    "순서": 6,
+    "name": "maps_elevation",
+    "description": "Search for places using Google Places API"
+  },
+  {
+    "순서": 7,
+    "name": "maps_directions",
+    "description": "Search query"
+  }
+  /*{
+    "순서": 8,
+    "name": "mcp-server/google-maps",
+    "description": "Optional center point for the search"
+  }
+  */
+]

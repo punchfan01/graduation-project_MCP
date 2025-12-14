@@ -1,0 +1,167 @@
+[
+  {
+    "순서": 1,
+    "name": "browser_close",
+    "description": "Close the page"
+  },
+  {
+    "순서": 2,
+    "name": "browser_resize",
+    "description": "Resize the browser window"
+  },
+  {
+    "순서": 3,
+    "name": "browser_console_messages",
+    "description": "Returns all console messages"
+  },
+  {
+    "순서": 4,
+    "name": "browser_handle_dialog",
+    "description": "Handle a dialog"
+  },
+  {
+    "순서": 5,
+    "name": "browser_evaluate",
+    "description": "Evaluate JavaScript expression on page or element"
+  },
+  {
+    "순서": 6,
+    "name": "browser_file_upload",
+    "description": "Upload one or multiple files"
+  },
+  {
+    "순서": 7,
+    "name": "browser_fill_form",
+    "description": "Fill multiple form fields"
+  },
+  {
+    "순서": 8,
+    "name": "browser_install",
+    "description": "Install the browser specified in the config. Call this if you get an error about the browser not being installed."
+  },
+  {
+    "순서": 9,
+    "name": "browser_press_key",
+    "description": "Press a key on the keyboard"
+  },
+  {
+    "순서": 10,
+    "name": "browser_type",
+    "description": "Type text into editable element"
+  },
+  {
+    "순서": 11,
+    "name": "browser_mouse_move_xy",
+    "description": "Move mouse to a given position"
+  },
+  {
+    "순서": 12,
+    "name": "browser_mouse_click_xy",
+    "description": "Click left mouse button at a given position"
+  },
+  {
+    "순서": 13,
+    "name": "browser_mouse_drag_xy",
+    "description": "Drag left mouse button to a given position"
+  },
+  {
+    "순서": 14,
+    "name": "browser_navigate",
+    "description": "Navigate to a URL"
+  },
+  {
+    "순서": 15,
+    "name": "browser_navigate_back",
+    "description": "Go back to the previous page"
+  },
+  {
+    "순서": 16,
+    "name": "browser_network_requests",
+    "description": "Returns all network requests since loading the page"
+  },
+  {
+    "순서": 17,
+    "name": "browser_pdf_save",
+    "description": "Save page as PDF"
+  },
+  {
+    "순서": 18,
+    "name": "browser_run_code",
+    "description": "Run Playwright code snippet"
+  },
+  {
+    "순서": 19,
+    "name": "browser_take_screenshot",
+    "description": "Take a screenshot of the current page. You can't perform actions based on the screenshot, use browser_snapshot for actions."
+  },
+  {
+    "순서": 20,
+    "name": "browser_snapshot",
+    "description": "Capture accessibility snapshot of the current page, this is better than screenshot"
+  },
+  {
+    "순서": 21,
+    "name": "browser_click",
+    "description": "Perform click on a web page"
+  },
+  {
+    "순서": 22,
+    "name": "browser_drag",
+    "description": "Perform drag and drop between two elements"
+  },
+  {
+    "순서": 23,
+    "name": "browser_hover",
+    "description": "Hover over element on page"
+  },
+  {
+    "순서": 24,
+    "name": "browser_select_option",
+    "description": "Select an option in a dropdown"
+  },
+  {
+    "순서": 25,
+    "name": "browser_generate_locator",
+    "description": "Generate locator for the given element to use in tests"
+  },
+  {
+    "순서": 26,
+    "name": "browser_tabs",
+    "description": "List, create, close, or select a browser tab."
+  },
+  {
+    "순서": 27,
+    "name": "browser_start_tracing",
+    "description": "Start trace recording"
+  },
+  {
+    "순서": 28,
+    "name": "browser_stop_tracing",
+    "description": "Stop trace recording"
+  },
+  {
+    "순서": 29,
+    "name": "browser_verify_element_visible",
+    "description": "Verify element is visible on the page"
+  },
+  {
+    "순서": 30,
+    "name": "browser_verify_text_visible",
+    "description": "Verify text is visible on the page. Prefer ${verifyElement.schema.name} if possible."
+  },
+  {
+    "순서": 31,
+    "name": "browser_verify_list_visible",
+    "description": "Verify list is visible on the page"
+  },
+  {
+    "순서": 32,
+    "name": "browser_verify_value",
+    "description": "Verify element value"
+  },
+  {
+    "순서": 33,
+    "name": "browser_wait_for",
+    "description": "Wait for text to appear or disappear or a specified time to pass"
+  }
+]

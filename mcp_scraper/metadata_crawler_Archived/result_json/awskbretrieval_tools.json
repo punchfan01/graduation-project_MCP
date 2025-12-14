@@ -1,0 +1,7 @@
+[
+  {
+    "순서": 1,
+    "name": "retrieve_from_aws_kb",
+    "description": "Performs retrieval from the AWS Knowledge Base using the provided query and Knowledge Base ID."
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "순서": 1,
+    "name": "create_or_update_file",
+    "description": "Create or update a single file in a GitHub repository"
+  },
+  {
+    "순서": 2,
+    "name": "search_repositories",
+    "description": "Search for GitHub repositories"
+  },
+  {
+    "순서": 3,
+    "name": "create_repository",
+    "description": "Create a new GitHub repository in your account"
+  },
+  {
+    "순서": 4,
+    "name": "get_file_contents",
+    "description": "Get the contents of a file or directory from a GitHub repository"
+  },
+  {
+    "순서": 5,
+    "name": "push_files",
+    "description": "Push multiple files to a GitHub repository in a single commit"
+  },
+  {
+    "순서": 6,
+    "name": "create_issue",
+    "description": "Create a new issue in a GitHub repository"
+  },
+  {
+    "순서": 7,
+    "name": "create_pull_request",
+    "description": "Create a new pull request in a GitHub repository"
+  },
+  {
+    "순서": 8,
+    "name": "fork_repository",
+    "description": "Fork a GitHub repository to your account or specified organization"
+  },
+  {
+    "순서": 9,
+    "name": "create_branch",
+    "description": "Create a new branch in a GitHub repository"
+  },
+  {
+    "순서": 10,
+    "name": "list_commits",
+    "description": "Get list of commits of a branch in a GitHub repository"
+  },
+  {
+    "순서": 11,
+    "name": "list_issues",
+    "description": "List issues in a GitHub repository with filtering options"
+  },
+  {
+    "순서": 12,
+    "name": "update_issue",
+    "description": "Update an existing issue in a GitHub repository"
+  },
+  {
+    "순서": 13,
+    "name": "add_issue_comment",
+    "description": "Add a comment to an existing issue"
+  },
+  {
+    "순서": 14,
+    "name": "search_code",
+    "description": "Search for code across GitHub repositories"
+  },
+  {
+    "순서": 15,
+    "name": "search_issues",
+    "description": "Search for issues and pull requests across GitHub repositories"
+  },
+  {
+    "순서": 16,
+    "name": "search_users",
+    "description": "Search for users on GitHub"
+  },
+  {
+    "순서": 17,
+    "name": "get_issue",
+    "description": "Get details of a specific issue in a GitHub repository."
+  },
+  {
+    "순서": 18,
+    "name": "get_pull_request",
+    "description": "Get details of a specific pull request"
+  },
+  {
+    "순서": 19,
+    "name": "list_pull_requests",
+    "description": "List and filter repository pull requests"
+  },
+  {
+    "순서": 20,
+    "name": "create_pull_request_review",
+    "description": "Create a review on a pull request"
+  },
+  {
+    "순서": 21,
+    "name": "merge_pull_request",
+    "description": "Merge a pull request"
+  },
+  {
+    "순서": 22,
+    "name": "get_pull_request_files",
+    "description": "Get the list of files changed in a pull request"
+  },
+  {
+    "순서": 23,
+    "name": "get_pull_request_status",
+    "description": "Get the combined status of all status checks for a pull request"
+  },
+  {
+    "순서": 24,
+    "name": "update_pull_request_branch",
+    "description": "Update a pull request branch with the latest changes from the base branch"
+  },
+  {
+    "순서": 25,
+    "name": "get_pull_request_comments",
+    "description": "Get the review comments on a pull request"
+  },
+  {
+    "순서": 26,
+    "name": "get_pull_request_reviews",
+    "description": "Get the reviews on a pull request"
+  }
+]

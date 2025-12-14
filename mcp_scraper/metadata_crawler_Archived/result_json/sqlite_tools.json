@@ -1,0 +1,32 @@
+[
+  {
+    "순서": 1,
+    "name": "read_query",
+    "description": "Execute a SELECT query on the SQLite database"
+  },
+  {
+    "순서": 2,
+    "name": "write_query",
+    "description": "Execute an INSERT, UPDATE, or DELETE query on the SQLite database"
+  },
+  {
+    "순서": 3,
+    "name": "create_table",
+    "description": "Create a new table in the SQLite database"
+  },
+  {
+    "순서": 4,
+    "name": "list_tables",
+    "description": "List all tables in the SQLite database"
+  },
+  {
+    "순서": 5,
+    "name": "describe_table",
+    "description": "Get the schema information for a specific table"
+  },
+  {
+    "순서": 6,
+    "name": "append_insight",
+    "description": "Add a business insight to the memo"
+  }
+]

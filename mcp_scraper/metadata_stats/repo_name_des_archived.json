@@ -1,0 +1,80 @@
+[
+  {
+    "repo_name": "AWS KB Retrieval",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Brave Search",
+    "number_of_tools": 6,
+    "number_of_names": 6,
+    "number_of_descriptions": 6
+  },
+  {
+    "repo_name": "EverArt",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "GitHub",
+    "number_of_tools": 26,
+    "number_of_names": 26,
+    "number_of_descriptions": 26
+  },
+  {
+    "repo_name": "GitLab",
+    "number_of_tools": 9,
+    "number_of_names": 9,
+    "number_of_descriptions": 9
+  },
+  {
+    "repo_name": "Google Drive",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Google Maps",
+    "number_of_tools": 7,
+    "number_of_names": 7,
+    "number_of_descriptions": 7
+  },
+  {
+    "repo_name": "PostgreSQL",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Puppeteer",
+    "number_of_tools": 7,
+    "number_of_names": 7,
+    "number_of_descriptions": 7
+  },
+  {
+    "repo_name": "Redis",
+    "number_of_tools": 4,
+    "number_of_names": 4,
+    "number_of_descriptions": 4
+  },
+  {
+    "repo_name": "Sentry",
+    "number_of_tools": 1,
+    "number_of_names": 1,
+    "number_of_descriptions": 1
+  },
+  {
+    "repo_name": "Slack",
+    "number_of_tools": 8,
+    "number_of_names": 8,
+    "number_of_descriptions": 8
+  },
+  {
+    "repo_name": "SQLite",
+    "number_of_tools": 6,
+    "number_of_names": 6,
+    "number_of_descriptions": 6
+  }
+]

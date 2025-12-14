@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Appium MCP Server",
+    "url": "https://github.com/appium/appium-mcp.git",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Cycode",
+    "url": "https://github.com/cycodehq/cycode-cli#mcp-command-experiment",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "fetchSERP",
+    "url": "https://github.com/fetchSERP/fetchserp-mcp-server-node",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "ForeverVM",
+    "url": "https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "GitKraken",
+    "url": "https://github.com/gitkraken/gk-cli?tab=readme-ov-file#mcp-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Knock MCP Server",
+    "url": "https://github.com/knocklabs/agent-toolkit#model-context-protocol-mcp",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Memalot",
+    "url": "https://github.com/nfergu/memalot?tab=readme-ov-file#mcp-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Mobb",
+    "url": "https://github.com/mobb-dev/bugsy?tab=readme-ov-file#model-context-protocol-mcp-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Notion",
+    "url": "https://github.com/makenotion/notion-mcp-server#readme",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Offorte",
+    "url": "https://github.com/offorte/offorte-mcp-server#readme",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "Pulumi",
+    "url": "https://github.com/pulumi/mcp-server",
+    "status": "github_error",
+    "title": null
+  },
+  {
+    "name": "UnifAI",
+    "url": "https://github.com/unifai-network/unifai-mcp-server",
+    "status": "github_error",
+    "title": null
+  }
+]

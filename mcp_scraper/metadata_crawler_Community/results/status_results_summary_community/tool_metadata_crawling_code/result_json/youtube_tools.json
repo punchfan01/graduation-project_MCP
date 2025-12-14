@@ -1,0 +1,7 @@
+[
+  {
+    "순서": 1,
+    "name": "get_youtube_video_transcript",
+    "description": "Retrieve the transcript or video details for a given YouTube video. The 'start' time in the transcript is formatted as MM:SS or HH:MM:SS."
+  }
+]

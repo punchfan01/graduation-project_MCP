@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Netdata",
+    "url": "https://github.com/netdata/netdata/blob/master/src/web/mcp/README.md",
+    "stars": 76882,
+    "forks": 6245,
+    "description": "The fastest path to AI-powered full stack observability, even for lean teams."
+  },
+  {
+    "name": "Daytona",
+    "url": "https://github.com/daytonaio/daytona/tree/main/apps/cli/mcp",
+    "stars": 34974,
+    "forks": 2727,
+    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/github/github-mcp-server",
+    "stars": 24875,
+    "forks": 3114,
+    "description": "GitHub's official MCP Server"
+  },
+  {
+    "name": "Playwright",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "stars": 23836,
+    "forks": 1937,
+    "description": "Playwright MCP server"
+  },
+  {
+    "name": "SafeLine",
+    "url": "https://github.com/chaitin/SafeLine/tree/main/mcp_server",
+    "stars": 19419,
+    "forks": 1215,
+    "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+  },
+  {
+    "name": "Chrome DevTools",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "stars": 15768,
+    "forks": 980,
+    "description": "Chrome DevTools for coding agents"
+  },
+  {
+    "name": "Semgrep",
+    "url": "https://github.com/semgrep/semgrep/blob/develop/cli/src/semgrep/mcp/README.md",
+    "stars": 13506,
+    "forks": 832,
+    "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code."
+  },
+  {
+    "name": "MCP Toolbox for Databases",
+    "url": "https://github.com/googleapis/genai-toolbox",
+    "stars": 11640,
+    "forks": 1024,
+    "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+  },
+  {
+    "name": "Pipedream",
+    "url": "https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol",
+    "stars": 10854,
+    "forks": 5548,
+    "description": "Connect APIs, remarkably fast.  Free for developers."
+  },
+  {
+    "name": "Inbox Zero",
+    "url": "https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server",
+    "stars": 9500,
+    "forks": 1106,
+    "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast."
+  },
+  {
+    "name": "Arize Phoenix",
+    "url": "https://github.com/Arize-ai/phoenix/tree/main/js/packages/phoenix-mcp",
+    "stars": 7831,
+    "forks": 644,
+    "description": "AI Observability & Evaluation"
+  },
+  {
+    "name": "AWS",
+    "url": "https://github.com/awslabs/mcp",
+    "stars": 7520,
+    "forks": 1125,
+    "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP."
+  },
+  {
+    "name": "Klavis ReportGen",
+    "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/report_generation",
+    "stars": 5491,
+    "forks": 507,
+    "description": "Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale"
+  },
+  {
+    "name": "Firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+    "stars": 5017,
+    "forks": 547,
+    "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients."
+  },
+  {
+    "name": "Lingo.dev",
+    "url": "https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md",
+    "stars": 4995,
+    "forks": 664,
+    "description": "⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:"
+  },
+  {
+    "name": "Claude Context",
+    "url": "https://github.com/zilliztech/claude-context",
+    "stars": 4613,
+    "forks": 418,
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent."
+  },
+  {
+    "name": "Kiln",
+    "url": "https://github.com/Kiln-AI/Kiln",
+    "stars": 4442,
+    "forks": 321,
+    "description": "Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more."
+  },
+  {
+    "name": "Firebase",
+    "url": "https://github.com/firebase/firebase-tools/blob/master/src/mcp",
+    "stars": 4282,
+    "forks": 1103,
+    "description": "The Firebase Command Line Tools"
+  },
+  {
+    "name": "21st.dev Magic",
+    "url": "https://github.com/21st-dev/magic-mcp",
+    "stars": 3978,
+    "forks": 265,
+    "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic"
+  },
+  {
+    "name": "Vizro",
+    "url": "https://github.com/mckinsey/vizro/tree/main/vizro-mcp",
+    "stars": 3486,
+    "forks": 231,
+    "description": "Vizro is a low-code toolkit for building high-quality data visualization apps."
+  },
+  {
+    "name": "Exa",
+    "url": "https://github.com/exa-labs/exa-mcp-server",
+    "stars": 3333,
+    "forks": 255,
+    "description": "Exa MCP for web search and web crawling!"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "stars": 3174,
+    "forks": 301,
+    "description": null
+  },
+  {
+    "name": "Browserbase",
+    "url": "https://github.com/browserbase/mcp-server-browserbase",
+    "stars": 2863,
+    "forks": 311,
+    "description": "Allow LLMs to control a browser with Browserbase and Stagehand"
+  },
+  {
+    "name": "Tianji",
+    "url": "https://github.com/msgbyte/tianji/tree/master/apps/mcp-server",
+    "stars": 2851,
+    "forks": 178,
+    "description": "Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives"
+  },
+  {
+    "name": "Supabase",
+    "url": "https://github.com/supabase-community/supabase-mcp",
+    "stars": 2299,
+    "forks": 258,
+    "description": "Connect Supabase to your AI assistants"
+  },
+  {
+    "name": "Azure",
+    "url": "https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server",
+    "stars": 2244,
+    "forks": 306,
+    "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://github.com/grafana/mcp-grafana",
+    "stars": 1919,
+    "forks": 199,
+    "description": "MCP server for Grafana"
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://github.com/ppl-ai/modelcontextprotocol",
+    "stars": 1808,
+    "forks": 253,
+    "description": "The official MCP server implementation for the Perplexity API Platform"
+  },
+  {
+    "name": "BrightData",
+    "url": "https://github.com/luminati-io/brightdata-mcp",
+    "stars": 1688,
+    "forks": 220,
+    "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access."
+  },
+  {
+    "name": "Nx",
+    "url": "https://github.com/nrwl/nx-console/blob/master/apps/nx-mcp",
+    "stars": 1385,
+    "forks": 233,
+    "description": "Nx Console is the user interface for Nx & Lerna."
+  },
+  {
+    "name": "Grafbase",
+    "url": "https://github.com/grafbase/grafbase/tree/main/crates/mcp",
+    "stars": 1188,
+    "forks": 62,
+    "description": "The Grafbase GraphQL Federation Gateway"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://github.com/stripe/agent-toolkit",
+    "stars": 1135,
+    "forks": 175,
+    "description": "One-stop shop for building AI-powered products and businesses with Stripe."
+  },
+  {
+    "name": "Microsoft Learn Docs",
+    "url": "https://github.com/microsoftdocs/mcp",
+    "stars": 1100,
+    "forks": 125,
+    "description": "Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples."
+  },
+  {
+    "name": "Qdrant",
+    "url": "https://github.com/qdrant/mcp-server-qdrant/",
+    "stars": 1093,
+    "forks": 198,
+    "description": "An official Qdrant Model Context Protocol (MCP) server implementation"
+  },
+  {
+    "name": "Terraform",
+    "url": "https://github.com/hashicorp/terraform-mcp-server",
+    "stars": 1081,
+    "forks": 111,
+    "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development."
+  },
+  {
+    "name": "Azure DevOps",
+    "url": "https://github.com/microsoft/azure-devops-mcp",
+    "stars": 1063,
+    "forks": 336,
+    "description": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents."
+  },
+  {
+    "name": "Tavily",
+    "url": "https://github.com/tavily-ai/tavily-mcp",
+    "stars": 965,
+    "forks": 165,
+    "description": "Production ready MCP server with real-time search, extract, map & crawl."
+  },
+  {
+    "name": "SafeDep",
+    "url": "https://github.com/safedep/vet/blob/main/docs/mcp.md",
+    "stars": 900,
+    "forks": 78,
+    "description": "Protect against malicious open source packages 🤖"
+  },
+  {
+    "name": "CloudBase",
+    "url": "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit",
+    "stars": 880,
+    "forks": 96,
+    "description": "   CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app in one click."
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://github.com/mongodb-js/mongodb-mcp-server",
+    "stars": 837,
+    "forks": 168,
+    "description": "A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters."
+  }
+]

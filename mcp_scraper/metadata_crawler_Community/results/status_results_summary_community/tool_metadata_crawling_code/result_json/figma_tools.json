@@ -1,0 +1,202 @@
+[
+  {
+    "순서": 1,
+    "name": "get_document_info",
+    "description": "Get detailed information about the current Figma document"
+  },
+  {
+    "순서": 2,
+    "name": "get_selection",
+    "description": "Get information about the current selection in Figma"
+  },
+  {
+    "순서": 3,
+    "name": "read_my_design",
+    "description": "Get detailed information about the current selection in Figma, including all node details"
+  },
+  {
+    "순서": 4,
+    "name": "get_node_info",
+    "description": "Get detailed information about a specific node in Figma"
+  },
+  {
+    "순서": 5,
+    "name": "get_nodes_info",
+    "description": "Get detailed information about multiple nodes in Figma"
+  },
+  {
+    "순서": 6,
+    "name": "create_rectangle",
+    "description": "Create a new rectangle in Figma"
+  },
+  {
+    "순서": 7,
+    "name": "create_frame",
+    "description": "Create a new frame in Figma"
+  },
+  {
+    "순서": 8,
+    "name": "create_text",
+    "description": "Create a new text element in Figma"
+  },
+  {
+    "순서": 9,
+    "name": "set_fill_color",
+    "description": "Set the fill color of a node in Figma can be TextNode or FrameNode"
+  },
+  {
+    "순서": 10,
+    "name": "set_stroke_color",
+    "description": "Set the stroke color of a node in Figma"
+  },
+  {
+    "순서": 11,
+    "name": "move_node",
+    "description": "Move a node to a new position in Figma"
+  },
+  {
+    "순서": 12,
+    "name": "clone_node",
+    "description": "Clone an existing node in Figma"
+  },
+  {
+    "순서": 13,
+    "name": "resize_node",
+    "description": "Resize a node in Figma"
+  },
+  {
+    "순서": 14,
+    "name": "delete_node",
+    "description": "Delete a node from Figma"
+  },
+  {
+    "순서": 15,
+    "name": "delete_multiple_nodes",
+    "description": "Delete multiple nodes from Figma at once"
+  },
+  {
+    "순서": 16,
+    "name": "export_node_as_image",
+    "description": "Export a node as an image from Figma"
+  },
+  {
+    "순서": 17,
+    "name": "set_text_content",
+    "description": "Set the text content of an existing text node in Figma"
+  },
+  {
+    "순서": 18,
+    "name": "get_styles",
+    "description": "Get all styles from the current Figma document"
+  },
+  {
+    "순서": 19,
+    "name": "get_local_components",
+    "description": "Get all local components from the Figma document"
+  },
+  {
+    "순서": 20,
+    "name": "get_annotations",
+    "description": "Get all annotations in the current document or specific node"
+  },
+  {
+    "순서": 21,
+    "name": "set_annotation",
+    "description": "Create or update an annotation"
+  },
+  {
+    "순서": 22,
+    "name": "set_multiple_annotations",
+    "description": "Set multiple annotations parallelly in a node"
+  },
+  {
+    "순서": 23,
+    "name": "create_component_instance",
+    "description": "Create an instance of a component in Figma"
+  },
+  {
+    "순서": 24,
+    "name": "get_instance_overrides",
+    "description": "Get all override properties from a selected component instance. These overrides can be applied to other instances, which will swap them to match the source component."
+  },
+  {
+    "순서": 25,
+    "name": "set_instance_overrides",
+    "description": "Apply previously copied overrides to selected component instances. Target instances will be swapped to the source component and all copied override properties will be applied."
+  },
+  {
+    "순서": 26,
+    "name": "set_corner_radius",
+    "description": "Set the corner radius of a node in Figma"
+  },
+  {
+    "순서": 27,
+    "name": "scan_text_nodes",
+    "description": "Scan all text nodes in the selected Figma node"
+  },
+  {
+    "순서": 28,
+    "name": "scan_nodes_by_types",
+    "description": "Scan for child nodes with specific types in the selected Figma node"
+  },
+  {
+    "순서": 29,
+    "name": "set_multiple_text_contents",
+    "description": "Set multiple text contents parallelly in a node"
+  },
+  {
+    "순서": 30,
+    "name": "set_layout_mode",
+    "description": "Set the layout mode and wrap behavior of a frame in Figma"
+  },
+  {
+    "순서": 31,
+    "name": "set_padding",
+    "description": "Set padding values for an auto-layout frame in Figma"
+  },
+  {
+    "순서": 32,
+    "name": "set_axis_align",
+    "description": "Set primary and counter axis alignment for an auto-layout frame in Figma"
+  },
+  {
+    "순서": 33,
+    "name": "set_layout_sizing",
+    "description": "Set horizontal and vertical sizing modes for an auto-layout frame in Figma"
+  },
+  {
+    "순서": 34,
+    "name": "set_item_spacing",
+    "description": "Set distance between children in an auto-layout frame"
+  },
+  {
+    "순서": 35,
+    "name": "get_reactions",
+    "description": "Get Figma Prototyping Reactions from multiple nodes. CRITICAL: The output MUST be processed using the "
+  },
+  {
+    "순서": 36,
+    "name": "set_default_connector",
+    "description": "Set a copied connector node as the default connector"
+  },
+  {
+    "순서": 37,
+    "name": "create_connections",
+    "description": "Create connections between nodes using the default connector style"
+  },
+  {
+    "순서": 38,
+    "name": "set_focus",
+    "description": "Set focus on a specific node in Figma by selecting it and scrolling viewport to it"
+  },
+  {
+    "순서": 39,
+    "name": "set_selections",
+    "description": "Set selection to multiple nodes in Figma and scroll viewport to show them"
+  },
+  {
+    "순서": 40,
+    "name": "join_channel",
+    "description": "Join a specific channel to communicate with Figma"
+  }
+]

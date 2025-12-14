@@ -1,0 +1,67 @@
+[
+  {
+    "순서": 1,
+    "name": "ECHO",
+    "description": "Echoes back the input"
+  },
+  {
+    "순서": 2,
+    "name": "ADD",
+    "description": "Adds two numbers"
+  },
+  {
+    "순서": 3,
+    "name": "LONG_RUNNING_OPERATION",
+    "description": "Demonstrates a long running operation with progress updates"
+  },
+  {
+    "순서": 4,
+    "name": "PRINT_ENV",
+    "description": "Prints all environment variables, helpful for debugging MCP server configuration"
+  },
+  {
+    "순서": 5,
+    "name": "SAMPLE_LLM",
+    "description": "Samples from an LLM using MCP's sampling feature"
+  },
+  {
+    "순서": 6,
+    "name": "GET_TINY_IMAGE",
+    "description": "Returns the MCP_TINY_IMAGE"
+  },
+  {
+    "순서": 7,
+    "name": "ANNOTATED_MESSAGE",
+    "description": "Demonstrates how annotations can be used to provide metadata about content"
+  },
+  {
+    "순서": 8,
+    "name": "GET_RESOURCE_REFERENCE",
+    "description": "Returns a resource reference that can be used by MCP clients"
+  },
+  {
+    "순서": 9,
+    "name": "GET_RESOURCE_LINKS",
+    "description": "Returns multiple resource links that reference different types of resources"
+  },
+  {
+    "순서": 10,
+    "name": "STRUCTURED_CONTENT",
+    "description": "Returns structured content along with an output schema for client data validation"
+  },
+  {
+    "순서": 11,
+    "name": "ZIP_RESOURCES",
+    "description": "Compresses the provided resource files (mapping of name to URI, which can be a data URI) to a zip file, which it returns as a data URI resource link."
+  },
+  {
+    "순서": 12,
+    "name": "LIST_ROOTS",
+    "description": "Lists the current MCP roots provided by the client. Demonstrates the roots protocol capability even though this server doesn't access files."
+  },
+  {
+    "순서": 13,
+    "name": "ELICITATION",
+    "description": "Elicitation test tool that demonstrates how to request user input with various field types (string, boolean, email, uri, date, integer, number, enum)"
+  }
+]
