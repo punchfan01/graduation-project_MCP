@@ -41,6 +41,12 @@ LLM은 MCP 서버로부터 전달받는 tool 메타데이터를 별도의 검증
 | description | 10/10 (100%) | 0/10 (0%) | 0/10 (0%) | - |
 | docstring | 10/10 (100%) | 0/10 (0%) | 0/10 (0%) | - |
 
+**Claude 실행 결과 예시**
+![claude_poc](images/PoC_claude.png)
+
+**ChatGPT 실행 결과 예시**
+![gpt_poc](images/PoC_GPT.png)
+
 Claude는 세 필드 모두에서 100% 명령을 수행하였으며, description과 docstring 필드에서는 추가 행동을 사용자에게 단 한 번도 고지하지 않았습니다.
 
 <br>
