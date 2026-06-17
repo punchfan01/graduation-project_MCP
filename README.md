@@ -64,6 +64,7 @@ Claude는 세 필드 모두에서 100% 명령을 수행하였으며, description
 
 ```
 graduation-project_MCP/
+├── images/              # PoC 실험 결과 이미지
 ├── malicious_servers/   # PoC에서 사용한 악성 MCP 서버 소스코드
 ├── mcp_scraper/         # tool 메타데이터 수집 크롤러 및 결과 JSON
 └── README.md
